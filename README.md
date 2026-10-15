@@ -17,11 +17,15 @@ npm run dev
 
 Cada push na branch `main` gera o site estático (`next build`, pasta `out/`) e publica no GitHub Pages pela Action `.github/workflows/deploy.yml`.
 
-## Atualizar os dados
+## Atualização automática dos dados
 
-1. Substitua `data/cadeia-valor.xlsx` pela planilha atualizada.
-2. Rode `npm run generate-data` para regerar `app/process-data.json`.
-3. Faça commit dos dois arquivos.
+Todos os dias às 06:50 (horário de Brasília) a Action baixa a planilha "Cadeia de Valor Integrada de Goiás.xlsx" do Google Drive, regera `app/process-data.json` e, se os dados mudaram, faz commit e publica o site. Se nada mudou, o site fica como está.
+
+- Para atualizar na hora: aba **Actions** → "Atualizar dados e publicar no GitHub Pages" → **Run workflow**.
+- Requisito: a planilha precisa continuar compartilhada como "qualquer pessoa com o link pode ver".
+- Se a estrutura da planilha mudar (nomes das abas ou colunas), a execução falha, o site continua com os dados anteriores e o GitHub envia um e-mail avisando.
+
+Atualização manual: substitua `data/cadeia-valor.xlsx`, rode `npm run generate-data` e faça commit dos dois arquivos.
 
 ## Origem
 
