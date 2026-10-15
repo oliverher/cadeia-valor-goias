@@ -1,33 +1,71 @@
-name: Publicar no GitHub Pages
+name: Atualizar dados e publicar no GitHub Pages
 
 on:
   push:
     branches: [main]
+  schedule:
+    # Todos os dias às 06:50 (horário de Brasília, UTC-3) = 09:50 UTC
+    - cron: "50 9 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
+
+env:
+  # Planilha "Cadeia de Valor Integrada de Goiás.xlsx" no Google Drive (compartilhada com "qualquer pessoa com o link")
+  PLANILHA_ID: 1dlzRPspBVdX_dblLRjzFQENg4Rg7tTr0
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+
       - run: npm ci
+
+      - name: Baixar planilha do Google Drive e regerar dados
+        if: github.event_name != 'push'
+        run: |
+          curl -fsSL -o /tmp/planilha.xlsx \
+            "https://drive.usercontent.google.com/download?id=${PLANILHA_ID}&export=download&confirm=t"
+          # Confere se o arquivo baixado é mesmo um .xlsx (zip começa com "PK")
+          if [ "$(head -c 2 /tmp/planilha.xlsx)" != "PK" ]; then
+            echo "::error::O download não retornou uma planilha .xlsx. Verifique se o compartilhamento continua como 'qualquer pessoa com o link'."
+            exit 1
+          fi
+          jq -S '.groups' app/process-data.json > /tmp/antes.json
+          cp /tmp/planilha.xlsx data/cadeia-valor.xlsx
+          npm run generate-data
+          jq -S '.groups' app/process-data.json > /tmp/depois.json
+          if cmp -s /tmp/antes.json /tmp/depois.json; then
+            echo "Planilha sem alterações nos dados. Nada a publicar."
+            git checkout -- app/process-data.json data/cadeia-valor.xlsx
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add app/process-data.json
+            git add -f data/cadeia-valor.xlsx
+            git commit -m "Atualiza dados a partir da planilha ($(date -u +%Y-%m-%d))"
+            git push
+          fi
+
       - run: npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /cadeia-valor-goias
+
       - run: touch out/.nojekyll
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
