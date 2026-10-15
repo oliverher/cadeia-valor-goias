@@ -2,21 +2,29 @@
 
 Painel interativo dos macroprocessos gerenciais, finalísticos e de suporte do Estado de Goiás.
 
-Site original: https://cadeia-valor-goias.carlos-hernane-olive.chatgpt.site/
+Site: https://oliverher.github.io/cadeia-valor-goias/
 
-## Executar
+## Executar localmente
 
-Requer Node.js >=22.13.0.
+Requer Node.js 22 ou superior.
 
-```sh
+```bash
 npm ci
-npx vinext dev
+npm run dev
 ```
 
-Para compilar: `npx vinext build`.
+## Publicação
+
+Cada push na branch `main` gera o site estático (`next build`, pasta `out/`) e publica no GitHub Pages pela Action `.github/workflows/deploy.yml`.
+
+## Atualizar os dados
+
+1. Substitua `data/cadeia-valor.xlsx` pela planilha atualizada.
+2. Rode `npm run generate-data` para regerar `app/process-data.json`.
+3. Faça commit dos dois arquivos.
 
 ## Origem
 
-Exportação da cópia local identificada como `painel-2026-08-27`, com o mesmo identificador do site original. Não foi possível compará-la com a versão publicada 54 porque o servidor Git de origem apresentou falha de DNS.
+Os arquivos `worker/`, `db/`, `build/`, `drizzle*`, `vite.config.ts`, `.openai/` e `app/chatgpt-auth.ts` são da estrutura original do Codex/Cloudflare e não entram no build (ver `exclude` no `tsconfig.json`).
 
-Consulte `EXPORTACAO.md` para detalhes. A exportação preserva a estrutura Vinext/Cloudflare; não configura GitHub Pages.
+Projeto criado no Codex (site original: https://cadeia-valor-goias.carlos-hernane-olive.chatgpt.site/) e migrado para GitHub Pages em outubro de 2026. Detalhes da exportação em `EXPORTACAO.md`.
