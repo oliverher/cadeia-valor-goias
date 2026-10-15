@@ -530,7 +530,7 @@ export default function Home() {
       footer();
       const bytes = await pdf.save();
       const safeOrganization = organization.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-zA-Z0-9]+/g, "-").replace(/^-|-$/g, "").toLowerCase();
-      const url = URL.createObjectURL(new Blob([bytes], { type: "application/pdf" }));
+      const url = URL.createObjectURL(new Blob([bytes as BlobPart], { type: "application/pdf" }));
       const link = document.createElement("a");
       link.href = url;
       link.download = `cadeia-de-valor-${safeOrganization}-${database.updatedAt}.pdf`;
@@ -548,7 +548,7 @@ export default function Home() {
   return (
     <main>
       <header className="topbar">
-        <div className="brand-mark"><img src="/logo-goias-transparent-cropped.png" alt="Governo do Estado de Goiás" /></div>
+        <div className="brand-mark"><img src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/logo-goias-transparent-cropped.png`} alt="Governo do Estado de Goiás" /></div>
         <div><p className="eyebrow">Governo de Goiás</p><h1>Cadeia de Valor Integrada</h1><p className="subtitle">Explore os macroprocessos que conectam a gestão pública à entrega de valor para a sociedade.</p></div>
         <label className="search"><span>Buscar</span><input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Digite um macroprocesso" /></label>
       </header>
