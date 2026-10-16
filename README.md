@@ -25,6 +25,14 @@ Todos os dias às 06:50 (horário de Brasília) a Action baixa a planilha "Cadei
 - Requisito: a planilha precisa continuar compartilhada como "qualquer pessoa com o link pode ver".
 - Se a estrutura da planilha mudar (nomes das abas ou colunas), a execução falha, o site continua com os dados anteriores e o GitHub envia um e-mail avisando.
 
+### Regras de leitura da planilha
+
+- A coluna "Arquitetura" é lida sem diferenciar maiúsculas e minúsculas. "Processo esfera federal" é tratado como Processo.
+- Cada Atividade fica dentro do Processo de Trabalho imediatamente acima dela (no site, abre ao clicar no Processo de Trabalho).
+- Linhas marcadas como "Processo" sem prefixo PDCA (P:, D:, C:, A:), logo abaixo de um Processo com prefixo e sem filhos próprios, são exibidas como Processo de Trabalho com uma observação. Ao corrigir a planilha, a observação some sozinha.
+- O link da coluna "Link do fluxo do processo" aparece como botão no cartão e vai para a exportação XLSX/PDF.
+- Inconsistências encontradas são listadas no log da Action, na etapa "Baixar planilha do Google Drive e regerar dados".
+
 Atualização manual: substitua `data/cadeia-valor.xlsx`, rode `npm run generate-data` e faça commit dos dois arquivos.
 
 ## Origem
