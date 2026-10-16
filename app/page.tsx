@@ -13,6 +13,9 @@ type HierarchyNode = {
   source: string;
   situation: string;
   organizations: string[];
+  link?: string;
+  federal?: boolean;
+  note?: string;
   type: "macroprocess" | "process" | "workProcess" | "service" | "activity";
   children: HierarchyNode[];
 };
@@ -58,7 +61,14 @@ function ProcessButton({ process, active, onSelect }: { process: Process; active
 
 const nodeLabels = { macroprocess: "Macroprocesso", process: "Processo", workProcess: "Processo de trabalho", service: "Serviço", activity: "Atividade" };
 type FilterType = "macrofunction" | "macroprocess" | "process" | "workProcess" | "service" | "activity";
-type FilterItem = { name: string; owner: string; type: FilterType; group: Process["group"]; description: string; legal: string; basicUnit: string; complementaryUnit: string; organizations: string[]; situations: string[] };
+type FilterItem = { name: string; owner: string; type: FilterType; group: Process["group"]; description: string; legal: string; basicUnit: string; complementaryUnit: string; organizations: string[]; situations: string[]; link?: string };
+
+const MODELING_HOSTS = /(camunda\.io|cawemo\.com|bizagi|bpmn\.io|signavio|draw\.io|diagrams\.net|lucid\.app)/i;
+const linkLabel = (url: string) => MODELING_HOSTS.test(url) ? "Abrir fluxo no ambiente de modelagem ↗" : "Abrir link de referência ↗";
+function FlowLink({ url }: { url?: string }) {
+  if (!url) return null;
+  return <a className="flow-link" href={url} target="_blank" rel="noreferrer" onClick={(event) => event.stopPropagation()} title={url}>{linkLabel(url)}</a>;
+}
 
 const metricLabels: Record<FilterType, string> = {
   macrofunction: "Macrofunções", macroprocess: "Macroprocessos", process: "Processos",
@@ -81,7 +91,7 @@ type ExportRow = {
   "Órgão": string; "Categoria": string; "Nível": string; "Macrofunção finalística": string;
   "Macroprocesso": string; "Processo": string; "Processo de trabalho": string; "Serviço": string; "Atividade": string;
   "Descrição": string; "Situação": string; "Unidade Básica": string; "Unidade Complementar": string;
-  "Referência legal": string; "Fonte": string;
+  "Referência legal": string; "Fonte": string; "Link do fluxo": string;
 };
 
 function exportRowsForOrganization(groups: Detail[], organization: string): ExportRow[] {
@@ -95,7 +105,7 @@ function exportRowsForOrganization(groups: Detail[], organization: string): Expo
     rows.push({
       "Órgão": organization, "Categoria": categoryLabel(group.group), "Nível": group.group === "finalistico" ? "Macrofunção finalística" : "Macroprocesso",
       "Macrofunção finalística": basePath.macrofunction, "Macroprocesso": basePath.macroprocess, "Processo": "", "Processo de trabalho": "", "Serviço": "", "Atividade": "",
-      "Descrição": group.description, "Situação": group.situations.join("; "), "Unidade Básica": "", "Unidade Complementar": "", "Referência legal": group.legal, "Fonte": group.sources.join("; "),
+      "Descrição": group.description, "Situação": group.situations.join("; "), "Unidade Básica": "", "Unidade Complementar": "", "Referência legal": group.legal, "Fonte": group.sources.join("; "), "Link do fluxo": "",
     });
     const visit = (nodes: HierarchyNode[], path: typeof basePath) => {
       for (const node of nodes) {
@@ -105,7 +115,7 @@ function exportRowsForOrganization(groups: Detail[], organization: string): Expo
           "Macrofunção finalística": nextPath.macrofunction, "Macroprocesso": nextPath.macroprocess, "Processo": nextPath.process,
           "Processo de trabalho": nextPath.workProcess, "Serviço": nextPath.service, "Atividade": nextPath.activity,
           "Descrição": node.description, "Situação": node.situation, "Unidade Básica": node.basicUnit,
-          "Unidade Complementar": node.complementaryUnit, "Referência legal": node.legal, "Fonte": node.source,
+          "Unidade Complementar": node.complementaryUnit, "Referência legal": node.legal, "Fonte": node.source, "Link do fluxo": node.link ?? "",
         });
         visit(node.children, nextPath);
       }
@@ -128,7 +138,7 @@ function HierarchyTree({ nodes, group, level = 1 }: { nodes: HierarchyNode[]; gr
     {nodes.map((node, index) => {
       const hasChildren = node.children.length > 0;
       const content = <div className={`hierarchy-card ${group} ${node.type}`}>
-        <span className="node-kind">{nodeLabels[node.type]}</span>
+        <span className="node-kind">{nodeLabels[node.type]}{node.federal ? " · esfera federal" : ""}{hasChildren && node.type !== "macroprocess" ? ` · ${node.children.length} ${node.children.length === 1 ? "item" : "itens"}` : ""}</span>
         <b>{node.name}</b>
         {node.organizations.length > 0 && <span className="node-organizations">Órgão: {node.organizations.join("; ")}</span>}
         {node.description && <span className="node-detail"><strong>Descrição:</strong> {node.description}</span>}
@@ -137,6 +147,8 @@ function HierarchyTree({ nodes, group, level = 1 }: { nodes: HierarchyNode[]; gr
         {(node.type === "workProcess" || node.type === "service") && node.complementaryUnit && <span className="node-detail"><strong>Unidade Complementar:</strong> {node.complementaryUnit}</span>}
         {(node.type === "workProcess" || node.type === "service") && node.situation && <span className="node-situation">Situação: {node.situation}</span>}
         {node.type === "service" && <span className="service-badge">Carta de Serviços</span>}
+        {node.note && <span className="node-note">{node.note}</span>}
+        <FlowLink url={node.link} />
       </div>;
       return hasChildren ? <details key={`${node.name}-${index}`} open={node.type === "macroprocess"}>
         <summary>{content}<span className="expand-mark" aria-hidden="true">⌄</span></summary>
@@ -329,7 +341,7 @@ export default function Home() {
     const topItems = groups.map((item) => ({ name: item.name, owner: item.name, type, group, description: item.description, legal: item.legal, basicUnit: "", complementaryUnit: "", organizations: item.organizations, situations: item.situations }));
     let items = type === "macrofunction" || (type === "macroprocess" && group !== "finalistico") ? topItems : groups.flatMap((item) => flattenNodes(item.hierarchy)
       .filter((node) => node.type === type)
-      .map((node) => ({ name: node.name, owner: item.name, type, group, description: node.description, legal: node.legal, basicUnit: node.basicUnit, complementaryUnit: node.complementaryUnit, organizations: node.organizations ?? [], situations: node.situation ? [node.situation] : [] })));
+      .map((node) => ({ name: node.name, owner: item.name, type, group, description: node.description, legal: node.legal, basicUnit: node.basicUnit, complementaryUnit: node.complementaryUnit, organizations: node.organizations ?? [], situations: node.situation ? [node.situation] : [], link: node.link })));
     const search = normalize(filters.search);
     items = items.filter((item) => {
       if (filters.type !== "all" && item.group !== filters.type) return false;
@@ -366,7 +378,7 @@ export default function Home() {
       worksheet["!autofilter"] = { ref: worksheet["!ref"] ?? "A1:O1" };
       worksheet["!cols"] = [
         { wch: 18 }, { wch: 13 }, { wch: 22 }, { wch: 34 }, { wch: 38 }, { wch: 42 }, { wch: 46 }, { wch: 42 }, { wch: 42 },
-        { wch: 55 }, { wch: 18 }, { wch: 38 }, { wch: 38 }, { wch: 42 }, { wch: 24 },
+        { wch: 55 }, { wch: 18 }, { wch: 38 }, { wch: 38 }, { wch: 42 }, { wch: 24 }, { wch: 60 },
       ];
       const workbook = XLSX.utils.book_new();
       XLSX.utils.book_append_sheet(workbook, worksheet, "Cadeia de Valor");
@@ -520,7 +532,7 @@ export default function Home() {
           for (const node of nodes) {
             drawRecord(nodeLabels[node.type], node.name, level, nodeColor(node.type), [
               ["Descrição", node.description], ["Situação", node.situation], ["Unidade Básica", node.basicUnit],
-              ["Unidade Complementar", node.complementaryUnit], ["Referência legal", node.legal], ["Fonte", node.source],
+              ["Unidade Complementar", node.complementaryUnit], ["Referência legal", node.legal], ["Fonte", node.source], ["Link do fluxo", node.link ?? ""],
             ]);
             visit(node.children, level + 1);
           }
@@ -632,7 +644,7 @@ export default function Home() {
 
       {metricFilter && <section id="metric-results" className={`metric-results ${metricFilter.group}`}>
         <div className="results-header"><div><p className="eyebrow">Filtro selecionado</p><h2>{metricLabels[metricFilter.type]} — {metricFilter.group === "finalistico" ? "Finalístico" : metricFilter.group === "gerencial" ? "Gerencial" : "Suporte"}</h2></div><b>{filteredMetricItems.length.toLocaleString("pt-BR")} registros</b></div>
-        <div className="results-list">{filteredMetricItems.map((item, index) => <article key={`${item.owner}-${item.name}-${index}`}><span>{item.owner}</span><h3>{item.name}</h3><small>Órgão: {item.organizations.length > 0 ? item.organizations.join("; ") : "Não informado na planilha"}</small>{item.description && <p><strong>Descrição:</strong> {item.description}</p>}{item.legal && <p><strong>Referência legal:</strong> {item.legal}</p>}{(item.type === "workProcess" || item.type === "service") && item.basicUnit && <p><strong>Unidade Básica:</strong> {item.basicUnit}</p>}{(item.type === "workProcess" || item.type === "service") && item.complementaryUnit && <p><strong>Unidade Complementar:</strong> {item.complementaryUnit}</p>}{(item.type === "workProcess" || item.type === "service") && item.situations.length > 0 && <em>Situação: {item.situations.join("; ")}</em>}{item.type === "service" && <b>Serviço • Carta de Serviços</b>}</article>)}</div>
+        <div className="results-list">{filteredMetricItems.map((item, index) => <article key={`${item.owner}-${item.name}-${index}`}><span>{item.owner}</span><h3>{item.name}</h3><small>Órgão: {item.organizations.length > 0 ? item.organizations.join("; ") : "Não informado na planilha"}</small>{item.description && <p><strong>Descrição:</strong> {item.description}</p>}{item.legal && <p><strong>Referência legal:</strong> {item.legal}</p>}{(item.type === "workProcess" || item.type === "service") && item.basicUnit && <p><strong>Unidade Básica:</strong> {item.basicUnit}</p>}{(item.type === "workProcess" || item.type === "service") && item.complementaryUnit && <p><strong>Unidade Complementar:</strong> {item.complementaryUnit}</p>}{(item.type === "workProcess" || item.type === "service") && item.situations.length > 0 && <em>Situação: {item.situations.join("; ")}</em>}{item.type === "service" && <b>Serviço • Carta de Serviços</b>}<FlowLink url={item.link} /></article>)}</div>
       </section>}
 
       {query && visible.length === 0 && <p className="empty">Nenhum macroprocesso encontrado para “{query}”.</p>}
@@ -656,9 +668,9 @@ export default function Home() {
             </div>
             {selectedDetail.description && <section className="detail-section"><h4>Descrição</h4><p>{selectedDetail.description}</p></section>}
             {selectedDetail.organizations.length > 0 && <section className="detail-section"><h4>Órgãos responsáveis</h4><div className="tags">{selectedDetail.organizations.map((org) => <span key={org}>{org}</span>)}</div></section>}
-            {selectedDetail.hierarchy.length > 0 && <section className="detail-section hierarchy-section"><h4>Estrutura completa</h4><p className="hierarchy-help">Use as setas para abrir os processos e visualizar seus processos de trabalho e serviços.</p><HierarchyTree nodes={selectedDetail.hierarchy} group={selected.group} /></section>}
+            {selectedDetail.hierarchy.length > 0 && <section className="detail-section hierarchy-section"><h4>Estrutura completa</h4><p className="hierarchy-help">Clique em um processo para ver seus processos de trabalho e serviços. Clique em um processo de trabalho para ver suas atividades.</p><HierarchyTree nodes={selectedDetail.hierarchy} group={selected.group} /></section>}
             {selectedDetail.legal && <section className="detail-section"><h4>Referência legal</h4><p>{selectedDetail.legal}</p></section>}
-            <p className="data-note">Dados consolidados da planilha-base em 10/07/2026.</p>
+            <p className="data-note">Dados consolidados da planilha-base em {database.updatedAt.split("-").reverse().join("/")}.</p>
           </> : <div className="placeholder"><span>Base de dados</span><b>Não foram encontrados registros detalhados para este item.</b></div>}
         </>}
       </aside>
