@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16",
+  "updatedAt": "2026-10-17",
   "groups": [
     {
       "name": "Agropecuária",
@@ -1554,9 +1554,9 @@
               "children": []
             },
             {
-              "name": "Solicitar o Lançamento do Certificado de Higienização de Caixas Plásticas",
-              "description": "Inserir no sistema, conforme legislação específica, os certificados de higienização de caixas plásticas utilizadas no transporte de Banana",
-              "legal": "Decreto nº 10.320, 12/09/2023, Art. 16, III / Instrução Normativa Agrodefesa nº 12/2018 / Instrução Normativa Conjunta SARC/ANVISA/INMETRO nº 009, de 12 de novembro de 2002",
+              "name": "Solicitar Higienização de Caixas Plásticas para Transporte de Bananas",
+              "description": "É o serviço que permite solicitar a higienização de caixas plásticas de transporte de bananas a uma empresa higienizadora credenciada pela Agrodefesa, que registra no Sistema de Defesa Agropecuária de Goiás (SIDAGO) a quantidade de caixas higienizadas. O certificado comprova que as caixas foram higienizadas, disponibilizando saldo de caixas para emissão da Guia de Transporte de Vegetais (ATV / PTV) para acondicionar e transportar frutos de banana destinados à comercialização.",
+              "legal": "Decreto nº 10.320, 12/09/2023, Art. 16, III / Instrução Normativa Agrodefesa nº 12/2018 / Instrução Normativa Conjunta SARC/ANVISA/INMETRO nº 009, de 12 de novembro de 2002 Instrução Normativa Federal n.º 00017, de 31 de maio de 2005. Instrução Normativa Federal n.º 00044, de 22 de outubro de 2018. Instrução Normativa Estadual n.º 00007, de 28 de setembro de 2016. Instrução Normativa Estadual n.º 00012, de 17 de dezembro de 2018.",
               "basicUnit": "Diretoria de Defesa Agropecuária",
               "complementaryUnit": "Gerência de Sanidade Vegetal",
               "organizations": [
@@ -1825,8 +1825,8 @@
               "children": []
             },
             {
-              "name": "Habilitar para realizar exames de brucelose e tuberculose - PNCEBT/GO",
-              "description": "Habilitar médicos veterinários para realização de exames de brucelose e tuberculose - PNCEBT/GO",
+              "name": "Solicitar habilitação para realizar exames de brucelose e tuberculose - PNCEBT/GO",
+              "description": "O serviço consiste na habilitação de médicos-veterinários da iniciativa privada para realizar exames de brucelose e tuberculose em animais, conforme as normas do Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT).",
               "legal": "Decreto nº 10.320, 12/09/2023",
               "basicUnit": "Diretoria de defesa agropecuária",
               "complementaryUnit": "Gerência de Sanidade Animal",
@@ -1931,9 +1931,9 @@
               "children": []
             },
             {
-              "name": "Realizar exame de Raiva",
-              "description": "Realizar exame para idenficação de mamíferos infectados com o vírus da raiva",
-              "legal": "Decreto nº 10.320, 12/09/2023, Art. 22, I",
+              "name": "Solicitar diagnóstico de Raiva em animais",
+              "description": "Este serviço permite solicitar o diagnóstico laboratorial da raiva em animais mamíferos suspeitos de infecção pelo vírus da raiva. O exame analisa a amostra coletada do animal e informa se há evidências de infecção pelo vírus. O serviço atende às ações de controle da raiva da Agência Goiana de Defesa Agropecuária (Agrodefesa), do Ministério da Agricultura e Pecuária (MAPA) e das Secretarias Estadual e Municipais de Saúde, incluindo os Centros de Vigilância em Saúde Ambiental e os Centros de Zoonoses. Médicos-veterinários particulares também podem encaminhar amostras para confirmar uma suspeita clínica de raiva.",
+              "legal": "Decreto nº 10.320, 12/09/2023, Art. 22, I Lei Estadual nº 13.998, de 13 de dezembro de 2001 Decreto Estadual nº 5.652, de 6 de setembro de 2002 Instrução Normativa MAPA nº 8, de 12 de abril de 2012 Instrução Normativa MAPA nº 41, de 18 de junho de 2020 Instrução Normativa Agrodefesa nº 1/2025",
               "basicUnit": "Diretoria de defesa agropecuária",
               "complementaryUnit": "Laboratório de Análise e Diagnóstico Veterinário - Labvet",
               "organizations": [
@@ -2006,11 +2006,11 @@
               "children": []
             },
             {
-              "name": "Realizar exame microbiológico de amostra clínica e antibiograma",
-              "description": "Refere-se ao diagnóstico de enfermidades em animais a partir da identificação de bactérias patogênicas em amostras coletadas de animais clinicamente doentes ou mortos",
+              "name": "Solicitar exame microbiológico e antibiograma",
+              "description": "É o serviço que permite solicitar exames para identificar bactérias que podem causar doenças em animais e verificar quais antibióticos podem agir contra essas bactérias. O exame microbiológico identifica bactérias presentes na amostra coletada do animal. O antibiograma verifica a sensibilidade dessas bactérias a diferentes antibióticos e pode auxiliar o médico-veterinário na escolha do tratamento mais adequado. Podem ser analisadas, entre outras, amostras de: - leite de animais com mastite; - material da cloaca de aves; - partes do intestino; - secreções do sistema respiratório; - material do sistema geniturinário.",
               "legal": "Decreto nº 10.320, 12/09/2023",
-              "basicUnit": "",
-              "complementaryUnit": "",
+              "basicUnit": "Diretoria de defesa agropecuária",
+              "complementaryUnit": "Laboratório de Análise e Diagnóstico Veterinário - Labvet",
               "organizations": [
                 "AGRODEFESA"
               ],
@@ -5420,9 +5420,9 @@
           "children": []
         },
         {
-          "name": "Solicitar o Lançamento do Certificado de Higienização de Caixas Plásticas",
-          "description": "Inserir no sistema, conforme legislação específica, os certificados de higienização de caixas plásticas utilizadas no transporte de Banana",
-          "legal": "Decreto nº 10.320, 12/09/2023, Art. 16, III / Instrução Normativa Agrodefesa nº 12/2018 / Instrução Normativa Conjunta SARC/ANVISA/INMETRO nº 009, de 12 de novembro de 2002",
+          "name": "Solicitar Higienização de Caixas Plásticas para Transporte de Bananas",
+          "description": "É o serviço que permite solicitar a higienização de caixas plásticas de transporte de bananas a uma empresa higienizadora credenciada pela Agrodefesa, que registra no Sistema de Defesa Agropecuária de Goiás (SIDAGO) a quantidade de caixas higienizadas. O certificado comprova que as caixas foram higienizadas, disponibilizando saldo de caixas para emissão da Guia de Transporte de Vegetais (ATV / PTV) para acondicionar e transportar frutos de banana destinados à comercialização.",
+          "legal": "Decreto nº 10.320, 12/09/2023, Art. 16, III / Instrução Normativa Agrodefesa nº 12/2018 / Instrução Normativa Conjunta SARC/ANVISA/INMETRO nº 009, de 12 de novembro de 2002 Instrução Normativa Federal n.º 00017, de 31 de maio de 2005. Instrução Normativa Federal n.º 00044, de 22 de outubro de 2018. Instrução Normativa Estadual n.º 00007, de 28 de setembro de 2016. Instrução Normativa Estadual n.º 00012, de 17 de dezembro de 2018.",
           "basicUnit": "Diretoria de Defesa Agropecuária",
           "complementaryUnit": "Gerência de Sanidade Vegetal",
           "organizations": [
@@ -5525,8 +5525,8 @@
           "children": []
         },
         {
-          "name": "Habilitar para realizar exames de brucelose e tuberculose - PNCEBT/GO",
-          "description": "Habilitar médicos veterinários para realização de exames de brucelose e tuberculose - PNCEBT/GO",
+          "name": "Solicitar habilitação para realizar exames de brucelose e tuberculose - PNCEBT/GO",
+          "description": "O serviço consiste na habilitação de médicos-veterinários da iniciativa privada para realizar exames de brucelose e tuberculose em animais, conforme as normas do Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT).",
           "legal": "Decreto nº 10.320, 12/09/2023",
           "basicUnit": "Diretoria de defesa agropecuária",
           "complementaryUnit": "Gerência de Sanidade Animal",
@@ -5600,9 +5600,9 @@
           "children": []
         },
         {
-          "name": "Realizar exame de Raiva",
-          "description": "Realizar exame para idenficação de mamíferos infectados com o vírus da raiva",
-          "legal": "Decreto nº 10.320, 12/09/2023, Art. 22, I",
+          "name": "Solicitar diagnóstico de Raiva em animais",
+          "description": "Este serviço permite solicitar o diagnóstico laboratorial da raiva em animais mamíferos suspeitos de infecção pelo vírus da raiva. O exame analisa a amostra coletada do animal e informa se há evidências de infecção pelo vírus. O serviço atende às ações de controle da raiva da Agência Goiana de Defesa Agropecuária (Agrodefesa), do Ministério da Agricultura e Pecuária (MAPA) e das Secretarias Estadual e Municipais de Saúde, incluindo os Centros de Vigilância em Saúde Ambiental e os Centros de Zoonoses. Médicos-veterinários particulares também podem encaminhar amostras para confirmar uma suspeita clínica de raiva.",
+          "legal": "Decreto nº 10.320, 12/09/2023, Art. 22, I Lei Estadual nº 13.998, de 13 de dezembro de 2001 Decreto Estadual nº 5.652, de 6 de setembro de 2002 Instrução Normativa MAPA nº 8, de 12 de abril de 2012 Instrução Normativa MAPA nº 41, de 18 de junho de 2020 Instrução Normativa Agrodefesa nº 1/2025",
           "basicUnit": "Diretoria de defesa agropecuária",
           "complementaryUnit": "Laboratório de Análise e Diagnóstico Veterinário - Labvet",
           "organizations": [
@@ -5615,11 +5615,11 @@
           "children": []
         },
         {
-          "name": "Realizar exame microbiológico de amostra clínica e antibiograma",
-          "description": "Refere-se ao diagnóstico de enfermidades em animais a partir da identificação de bactérias patogênicas em amostras coletadas de animais clinicamente doentes ou mortos",
+          "name": "Solicitar exame microbiológico e antibiograma",
+          "description": "É o serviço que permite solicitar exames para identificar bactérias que podem causar doenças em animais e verificar quais antibióticos podem agir contra essas bactérias. O exame microbiológico identifica bactérias presentes na amostra coletada do animal. O antibiograma verifica a sensibilidade dessas bactérias a diferentes antibióticos e pode auxiliar o médico-veterinário na escolha do tratamento mais adequado. Podem ser analisadas, entre outras, amostras de: - leite de animais com mastite; - material da cloaca de aves; - partes do intestino; - secreções do sistema respiratório; - material do sistema geniturinário.",
           "legal": "Decreto nº 10.320, 12/09/2023",
-          "basicUnit": "",
-          "complementaryUnit": "",
+          "basicUnit": "Diretoria de defesa agropecuária",
+          "complementaryUnit": "Laboratório de Análise e Diagnóstico Veterinário - Labvet",
           "organizations": [
             "AGRODEFESA"
           ],
@@ -7666,9 +7666,9 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar o Lançamento do Certificado de Higienização de Caixas Plásticas",
-                  "description": "Inserir no sistema, conforme legislação específica, os certificados de higienização de caixas plásticas utilizadas no transporte de Banana",
-                  "legal": "Decreto nº 10.320, 12/09/2023, Art. 16, III / Instrução Normativa Agrodefesa nº 12/2018 / Instrução Normativa Conjunta SARC/ANVISA/INMETRO nº 009, de 12 de novembro de 2002",
+                  "name": "Solicitar Higienização de Caixas Plásticas para Transporte de Bananas",
+                  "description": "É o serviço que permite solicitar a higienização de caixas plásticas de transporte de bananas a uma empresa higienizadora credenciada pela Agrodefesa, que registra no Sistema de Defesa Agropecuária de Goiás (SIDAGO) a quantidade de caixas higienizadas. O certificado comprova que as caixas foram higienizadas, disponibilizando saldo de caixas para emissão da Guia de Transporte de Vegetais (ATV / PTV) para acondicionar e transportar frutos de banana destinados à comercialização.",
+                  "legal": "Decreto nº 10.320, 12/09/2023, Art. 16, III / Instrução Normativa Agrodefesa nº 12/2018 / Instrução Normativa Conjunta SARC/ANVISA/INMETRO nº 009, de 12 de novembro de 2002 Instrução Normativa Federal n.º 00017, de 31 de maio de 2005. Instrução Normativa Federal n.º 00044, de 22 de outubro de 2018. Instrução Normativa Estadual n.º 00007, de 28 de setembro de 2016. Instrução Normativa Estadual n.º 00012, de 17 de dezembro de 2018.",
                   "basicUnit": "Diretoria de Defesa Agropecuária",
                   "complementaryUnit": "Gerência de Sanidade Vegetal",
                   "organizations": [
@@ -7937,8 +7937,8 @@
                   "children": []
                 },
                 {
-                  "name": "Habilitar para realizar exames de brucelose e tuberculose - PNCEBT/GO",
-                  "description": "Habilitar médicos veterinários para realização de exames de brucelose e tuberculose - PNCEBT/GO",
+                  "name": "Solicitar habilitação para realizar exames de brucelose e tuberculose - PNCEBT/GO",
+                  "description": "O serviço consiste na habilitação de médicos-veterinários da iniciativa privada para realizar exames de brucelose e tuberculose em animais, conforme as normas do Programa Nacional de Controle e Erradicação da Brucelose e Tuberculose Animal (PNCEBT).",
                   "legal": "Decreto nº 10.320, 12/09/2023",
                   "basicUnit": "Diretoria de defesa agropecuária",
                   "complementaryUnit": "Gerência de Sanidade Animal",
@@ -8043,9 +8043,9 @@
                   "children": []
                 },
                 {
-                  "name": "Realizar exame de Raiva",
-                  "description": "Realizar exame para idenficação de mamíferos infectados com o vírus da raiva",
-                  "legal": "Decreto nº 10.320, 12/09/2023, Art. 22, I",
+                  "name": "Solicitar diagnóstico de Raiva em animais",
+                  "description": "Este serviço permite solicitar o diagnóstico laboratorial da raiva em animais mamíferos suspeitos de infecção pelo vírus da raiva. O exame analisa a amostra coletada do animal e informa se há evidências de infecção pelo vírus. O serviço atende às ações de controle da raiva da Agência Goiana de Defesa Agropecuária (Agrodefesa), do Ministério da Agricultura e Pecuária (MAPA) e das Secretarias Estadual e Municipais de Saúde, incluindo os Centros de Vigilância em Saúde Ambiental e os Centros de Zoonoses. Médicos-veterinários particulares também podem encaminhar amostras para confirmar uma suspeita clínica de raiva.",
+                  "legal": "Decreto nº 10.320, 12/09/2023, Art. 22, I Lei Estadual nº 13.998, de 13 de dezembro de 2001 Decreto Estadual nº 5.652, de 6 de setembro de 2002 Instrução Normativa MAPA nº 8, de 12 de abril de 2012 Instrução Normativa MAPA nº 41, de 18 de junho de 2020 Instrução Normativa Agrodefesa nº 1/2025",
                   "basicUnit": "Diretoria de defesa agropecuária",
                   "complementaryUnit": "Laboratório de Análise e Diagnóstico Veterinário - Labvet",
                   "organizations": [
@@ -8118,11 +8118,11 @@
                   "children": []
                 },
                 {
-                  "name": "Realizar exame microbiológico de amostra clínica e antibiograma",
-                  "description": "Refere-se ao diagnóstico de enfermidades em animais a partir da identificação de bactérias patogênicas em amostras coletadas de animais clinicamente doentes ou mortos",
+                  "name": "Solicitar exame microbiológico e antibiograma",
+                  "description": "É o serviço que permite solicitar exames para identificar bactérias que podem causar doenças em animais e verificar quais antibióticos podem agir contra essas bactérias. O exame microbiológico identifica bactérias presentes na amostra coletada do animal. O antibiograma verifica a sensibilidade dessas bactérias a diferentes antibióticos e pode auxiliar o médico-veterinário na escolha do tratamento mais adequado. Podem ser analisadas, entre outras, amostras de: - leite de animais com mastite; - material da cloaca de aves; - partes do intestino; - secreções do sistema respiratório; - material do sistema geniturinário.",
                   "legal": "Decreto nº 10.320, 12/09/2023",
-                  "basicUnit": "",
-                  "complementaryUnit": "",
+                  "basicUnit": "Diretoria de defesa agropecuária",
+                  "complementaryUnit": "Laboratório de Análise e Diagnóstico Veterinário - Labvet",
                   "organizations": [
                     "AGRODEFESA"
                   ],
@@ -59229,10 +59229,10 @@
               "organizations": [
                 "SEMAD"
               ],
-              "source": "Carta de Serviço",
+              "source": "Base Legal",
               "situation": "",
               "link": "",
-              "type": "service",
+              "type": "workProcess",
               "children": []
             },
             {
@@ -60247,6 +60247,21 @@
           "children": []
         },
         {
+          "name": "Solicitar licenciamento ambiental",
+          "description": "Usuário busca a obtenção de licenciamento ambiental ou ato autorizativo para as atividades potencialmente poluidoras ou utilizadoras de recursos naturais que exerce ou deseja exercer, via Sistema de Gestão Ambiental (SGA) e Sistema Eletrônico de Informações (SEI), utilizando de e-mail para contato. Modalidades de licença: (Vide Lei nº 20.694/2019 e Decreto nº 9.710/2020).",
+          "legal": "CARTA DE SERVIÇOS",
+          "basicUnit": "Superintendência de Licenciamento Ambiental – SLA",
+          "complementaryUnit": "Gerência de Licenciamento de Atividades Agropecuárias e de Conversão do Uso do Solo – GESOL / Gerência de Licenciamento de Atividades Estratégicas e de Significativo Impacto – GEASI / Gerência de Atividades Industriais, Minerárias e Gestão de Áreas Contaminadas – GEIMA / Gerência de Licenciamento de Infraestrutura e Desenvolvimento Urbano – GEINF",
+          "organizations": [
+            "SEMAD"
+          ],
+          "source": "Base Legal",
+          "situation": "",
+          "link": "",
+          "type": "workProcess",
+          "children": []
+        },
+        {
           "name": "Planejar a fiscalização ambiental",
           "description": "Coordenar as políticas de fiscalização ambiental, com o acompanhamento e a avaliação das etapas de planejamento, execução e controle do acesso e do uso dos recursos hídricos e ambientais, quanto a atividades, processos produtivos, obras, empreendimentos e exploração de recursos naturais que possam produzir danos e alterações às características do meio ambiente;",
           "legal": "DECRETO 10.464, Art 46 I",
@@ -60620,21 +60635,6 @@
           "source": "Carta de Serviço",
           "situation": "Identificado",
           "link": "https://modeler.camunda.io/share/9189fb95-045b-4564-bd53-45f7f09c2d08",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar licenciamento ambiental",
-          "description": "Usuário busca a obtenção de licenciamento ambiental ou ato autorizativo para as atividades potencialmente poluidoras ou utilizadoras de recursos naturais que exerce ou deseja exercer, via Sistema de Gestão Ambiental (SGA) e Sistema Eletrônico de Informações (SEI), utilizando de e-mail para contato. Modalidades de licença: (Vide Lei nº 20.694/2019 e Decreto nº 9.710/2020).",
-          "legal": "CARTA DE SERVIÇOS",
-          "basicUnit": "Superintendência de Licenciamento Ambiental – SLA",
-          "complementaryUnit": "Gerência de Licenciamento de Atividades Agropecuárias e de Conversão do Uso do Solo – GESOL / Gerência de Licenciamento de Atividades Estratégicas e de Significativo Impacto – GEASI / Gerência de Atividades Industriais, Minerárias e Gestão de Áreas Contaminadas – GEIMA / Gerência de Licenciamento de Infraestrutura e Desenvolvimento Urbano – GEINF",
-          "organizations": [
-            "SEMAD"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "",
-          "link": "",
           "type": "service",
           "children": []
         },
@@ -62076,10 +62076,10 @@
                   "organizations": [
                     "SEMAD"
                   ],
-                  "source": "Carta de Serviço",
+                  "source": "Base Legal",
                   "situation": "",
                   "link": "",
-                  "type": "service",
+                  "type": "workProcess",
                   "children": []
                 },
                 {
@@ -62286,9 +62286,9 @@
       ],
       "stats": {
         "processes": 12,
-        "workProcesses": 58,
+        "workProcesses": 59,
         "organizations": 1,
-        "services": 29,
+        "services": 28,
         "activities": 0
       }
     },
@@ -69185,7 +69185,7 @@
               "children": []
             },
             {
-              "name": "Cadastrar Terceiro – SUVISA",
+              "name": "Cadastrar Representante na Vigilância Sanitária",
               "description": "Este serviço permite que o responsável legal de uma empresa autorize outra pessoa para representá-la perante a Vigilância Sanitária. A pessoa autorizada pode: protocolar solicitações; acompanhar processos; apresentar documentos; solicitar, renovar, regularizar e emitir alvarás sanitários, conforme a autorização concedida.",
               "legal": "Art 18 Paragrafo da LGPD 1300709/14/08/20",
               "basicUnit": "Superintendência de Vigilância Sanitária, Ambiental e Saúde do Trabalhador",
@@ -76401,7 +76401,7 @@
           "children": []
         },
         {
-          "name": "Cadastrar Terceiro – SUVISA",
+          "name": "Cadastrar Representante na Vigilância Sanitária",
           "description": "Este serviço permite que o responsável legal de uma empresa autorize outra pessoa para representá-la perante a Vigilância Sanitária. A pessoa autorizada pode: protocolar solicitações; acompanhar processos; apresentar documentos; solicitar, renovar, regularizar e emitir alvarás sanitários, conforme a autorização concedida.",
           "legal": "Art 18 Paragrafo da LGPD 1300709/14/08/20",
           "basicUnit": "Superintendência de Vigilância Sanitária, Ambiental e Saúde do Trabalhador",
@@ -79606,7 +79606,7 @@
                   "children": []
                 },
                 {
-                  "name": "Cadastrar Terceiro – SUVISA",
+                  "name": "Cadastrar Representante na Vigilância Sanitária",
                   "description": "Este serviço permite que o responsável legal de uma empresa autorize outra pessoa para representá-la perante a Vigilância Sanitária. A pessoa autorizada pode: protocolar solicitações; acompanhar processos; apresentar documentos; solicitar, renovar, regularizar e emitir alvarás sanitários, conforme a autorização concedida.",
                   "legal": "Art 18 Paragrafo da LGPD 1300709/14/08/20",
                   "basicUnit": "Superintendência de Vigilância Sanitária, Ambiental e Saúde do Trabalhador",
@@ -82859,8 +82859,8 @@
               "children": []
             },
             {
-              "name": "Entregar/protocolar documentos junto à SSPGO",
-              "description": "O serviço de Protocolo tem por finalidade receber correspondências e processos endereçados ao Secretário de Estado da Segurança Pública, fazer conferência prévia e autuar no SEI, bem como prestar informações ao solicitante quanto ao andamento de processos diversos, no âmbito de sua atuação",
+              "name": "Protocolar Documentos na SSP",
+              "description": "O serviço de Protocolo tem por finalidade receber correspondências e processos endereçados ao Secretário de Estado da Segurança Pública, fazer conferência prévia e autuar no SEI, bem como prestar informações ao solicitante quanto ao andamento de processos diversos, no âmbito de sua atuação.",
               "legal": "",
               "basicUnit": "",
               "complementaryUnit": "Protocolo Setorial da Secretaria de Estado da Segurança Pública - SSP",
@@ -87789,8 +87789,8 @@
           "children": []
         },
         {
-          "name": "Entregar/protocolar documentos junto à SSPGO",
-          "description": "O serviço de Protocolo tem por finalidade receber correspondências e processos endereçados ao Secretário de Estado da Segurança Pública, fazer conferência prévia e autuar no SEI, bem como prestar informações ao solicitante quanto ao andamento de processos diversos, no âmbito de sua atuação",
+          "name": "Protocolar Documentos na SSP",
+          "description": "O serviço de Protocolo tem por finalidade receber correspondências e processos endereçados ao Secretário de Estado da Segurança Pública, fazer conferência prévia e autuar no SEI, bem como prestar informações ao solicitante quanto ao andamento de processos diversos, no âmbito de sua atuação.",
           "legal": "",
           "basicUnit": "",
           "complementaryUnit": "Protocolo Setorial da Secretaria de Estado da Segurança Pública - SSP",
@@ -88965,8 +88965,8 @@
                   "children": []
                 },
                 {
-                  "name": "Entregar/protocolar documentos junto à SSPGO",
-                  "description": "O serviço de Protocolo tem por finalidade receber correspondências e processos endereçados ao Secretário de Estado da Segurança Pública, fazer conferência prévia e autuar no SEI, bem como prestar informações ao solicitante quanto ao andamento de processos diversos, no âmbito de sua atuação",
+                  "name": "Protocolar Documentos na SSP",
+                  "description": "O serviço de Protocolo tem por finalidade receber correspondências e processos endereçados ao Secretário de Estado da Segurança Pública, fazer conferência prévia e autuar no SEI, bem como prestar informações ao solicitante quanto ao andamento de processos diversos, no âmbito de sua atuação.",
                   "legal": "",
                   "basicUnit": "",
                   "complementaryUnit": "Protocolo Setorial da Secretaria de Estado da Segurança Pública - SSP",
@@ -98446,8 +98446,8 @@
               "children": []
             },
             {
-              "name": "Solicitar Recurso de Multa de Trânsito",
-              "description": "Serviço onde o usuário se defende contra multas dos seguintes órgãos de trânsito: -Departamento Estadual de Trânsito de Goiás (DETRAN) -Agência Goiana de Infraestrutura e Transportes (GOINFRA) -Prefeitura de Águas Lindas de Goiás - GO -Prefeitura de Alexânia - GO -Prefeitura de Anápolis - GO -Prefeitura de Bom Jesus de Goiás - GO -Prefeitura de Caldas Novas - GO -Prefeitura de Ceres - GO -Prefeitura de Chapadão do Céu - GO -Prefeitura de Itumbiara - GO -Prefeitura de Rio Verde - GO -Prefeitura de Senador Canedo - GO -Prefeitura de Silvânia - GO",
+              "name": "Recorrer de Multa de Trânsito",
+              "description": "Este serviço permite que você apresente defesa contra multas aplicadas por órgãos estaduais e algumas prefeituras, em qualquer fase de recurso: Defesa prévia Junta Administrativa de Recursos de Infrações (JARI) Conselho Estadual de Trânsito (CETRAN) Órgãos Estaduais atendidos: Departamento Estadual de Trânsito de Goiás (DETRAN-GO) Agência Goiana de Infraestrutura e Transportes (GOINFRA) Prefeituras: Prefeitura de Águas Lindas de Goiás (GO) Prefeitura de Alexânia (GO) Prefeitura de Anápolis (GO) Prefeitura de Bom Jesus de Goiás (GO) Prefeitura de Caldas Novas (GO) Prefeitura de Ceres (GO) Prefeitura de Chapadão do Céu (GO) Prefeitura de Itumbiara (GO) Prefeitura de Rio Verde (GO) Prefeitura de Senador Canedo (GO) Prefeitura de Silvânia (GO)",
               "legal": "",
               "basicUnit": "",
               "complementaryUnit": "DETRAN GOIÁS: Comissão de Defesa Prévia / GOINFRA: CODEP - Comissão de Defesa Prévia / Juntas Administrativas de Recursos de Infrações - JARI / Conselho Estadual de Trânsito de Goiás - CETRAN/GO",
@@ -103244,8 +103244,8 @@
           "children": []
         },
         {
-          "name": "Solicitar Recurso de Multa de Trânsito",
-          "description": "Serviço onde o usuário se defende contra multas dos seguintes órgãos de trânsito: -Departamento Estadual de Trânsito de Goiás (DETRAN) -Agência Goiana de Infraestrutura e Transportes (GOINFRA) -Prefeitura de Águas Lindas de Goiás - GO -Prefeitura de Alexânia - GO -Prefeitura de Anápolis - GO -Prefeitura de Bom Jesus de Goiás - GO -Prefeitura de Caldas Novas - GO -Prefeitura de Ceres - GO -Prefeitura de Chapadão do Céu - GO -Prefeitura de Itumbiara - GO -Prefeitura de Rio Verde - GO -Prefeitura de Senador Canedo - GO -Prefeitura de Silvânia - GO",
+          "name": "Recorrer de Multa de Trânsito",
+          "description": "Este serviço permite que você apresente defesa contra multas aplicadas por órgãos estaduais e algumas prefeituras, em qualquer fase de recurso: Defesa prévia Junta Administrativa de Recursos de Infrações (JARI) Conselho Estadual de Trânsito (CETRAN) Órgãos Estaduais atendidos: Departamento Estadual de Trânsito de Goiás (DETRAN-GO) Agência Goiana de Infraestrutura e Transportes (GOINFRA) Prefeituras: Prefeitura de Águas Lindas de Goiás (GO) Prefeitura de Alexânia (GO) Prefeitura de Anápolis (GO) Prefeitura de Bom Jesus de Goiás (GO) Prefeitura de Caldas Novas (GO) Prefeitura de Ceres (GO) Prefeitura de Chapadão do Céu (GO) Prefeitura de Itumbiara (GO) Prefeitura de Rio Verde (GO) Prefeitura de Senador Canedo (GO) Prefeitura de Silvânia (GO)",
           "legal": "",
           "basicUnit": "",
           "complementaryUnit": "DETRAN GOIÁS: Comissão de Defesa Prévia / GOINFRA: CODEP - Comissão de Defesa Prévia / Juntas Administrativas de Recursos de Infrações - JARI / Conselho Estadual de Trânsito de Goiás - CETRAN/GO",
@@ -108408,8 +108408,8 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar Recurso de Multa de Trânsito",
-                  "description": "Serviço onde o usuário se defende contra multas dos seguintes órgãos de trânsito: -Departamento Estadual de Trânsito de Goiás (DETRAN) -Agência Goiana de Infraestrutura e Transportes (GOINFRA) -Prefeitura de Águas Lindas de Goiás - GO -Prefeitura de Alexânia - GO -Prefeitura de Anápolis - GO -Prefeitura de Bom Jesus de Goiás - GO -Prefeitura de Caldas Novas - GO -Prefeitura de Ceres - GO -Prefeitura de Chapadão do Céu - GO -Prefeitura de Itumbiara - GO -Prefeitura de Rio Verde - GO -Prefeitura de Senador Canedo - GO -Prefeitura de Silvânia - GO",
+                  "name": "Recorrer de Multa de Trânsito",
+                  "description": "Este serviço permite que você apresente defesa contra multas aplicadas por órgãos estaduais e algumas prefeituras, em qualquer fase de recurso: Defesa prévia Junta Administrativa de Recursos de Infrações (JARI) Conselho Estadual de Trânsito (CETRAN) Órgãos Estaduais atendidos: Departamento Estadual de Trânsito de Goiás (DETRAN-GO) Agência Goiana de Infraestrutura e Transportes (GOINFRA) Prefeituras: Prefeitura de Águas Lindas de Goiás (GO) Prefeitura de Alexânia (GO) Prefeitura de Anápolis (GO) Prefeitura de Bom Jesus de Goiás (GO) Prefeitura de Caldas Novas (GO) Prefeitura de Ceres (GO) Prefeitura de Chapadão do Céu (GO) Prefeitura de Itumbiara (GO) Prefeitura de Rio Verde (GO) Prefeitura de Senador Canedo (GO) Prefeitura de Silvânia (GO)",
                   "legal": "",
                   "basicUnit": "",
                   "complementaryUnit": "DETRAN GOIÁS: Comissão de Defesa Prévia / GOINFRA: CODEP - Comissão de Defesa Prévia / Juntas Administrativas de Recursos de Infrações - JARI / Conselho Estadual de Trânsito de Goiás - CETRAN/GO",
