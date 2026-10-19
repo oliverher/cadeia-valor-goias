@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17",
+  "updatedAt": "2026-10-19",
   "groups": [
     {
       "name": "Agropecuária",
@@ -82904,8 +82904,8 @@
               "children": []
             },
             {
-              "name": "Retirar Extrato de Ocorrência",
-              "description": "Extrato de Ocorrência é o documento gerado a partir das informações fornecidas e captadas no atendimento da ocorrência e registrados no sistema de Registro de Atendimento Integrado - RAI da Secretaria de Estado da Segurança Pública - SSP. O serviço é realizado, em apoio ao cidadão, fornecendo o extrato das informações contidas no Registro de Atendimento Integrado - RAI, relativo à ocorrência em que o solicitante, de alguma forma, participou",
+              "name": "Consultar Boletim de Ocorrência e Extrato de Ocorrência",
+              "description": "O Extrato de Ocorrência é um documento com as informações registradas no atendimento de uma ocorrência. Essas informações ficam no sistema Registro de Atendimento Integrado (RAI), da Secretaria de Estado da Segurança Pública (SSP). Você pode solicitar esse extrato quando tiver participado da ocorrência, de qualquer forma.",
               "legal": "",
               "basicUnit": "",
               "complementaryUnit": "Centro Integrado de Inteligência, Comando e Controle (CIICC) / Centro de Operações da Polícia Militar (COPOM)",
@@ -83933,21 +83933,6 @@
               "complementaryUnit": "Supervisão da Polícia Civil de Goiás",
               "organizations": [
                 "DGPC"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Consultar Boletim de Ocorrência (Polícia, Bombeiros e Delegacia Virtual)",
-              "description": "Este serviço permite que você acesse ocorrências registradas na Polícia Militar, no Corpo de Bombeiros Militar ou na Delegacia Virtual. Ao entrar com sua conta gov.br ou ID Goiás, você verá uma lista com todas as suas ocorrências. Se você não fizer login, deve informar: o número da ocorrência; e o código de segurança da ocorrência.",
-              "legal": "",
-              "basicUnit": "",
-              "complementaryUnit": "Gerência de Inovação da Secretaria de Estado da Segurança Pública",
-              "organizations": [
-                "SSP"
               ],
               "source": "Carta de Serviço",
               "situation": "Identificado",
@@ -87834,8 +87819,8 @@
           "children": []
         },
         {
-          "name": "Retirar Extrato de Ocorrência",
-          "description": "Extrato de Ocorrência é o documento gerado a partir das informações fornecidas e captadas no atendimento da ocorrência e registrados no sistema de Registro de Atendimento Integrado - RAI da Secretaria de Estado da Segurança Pública - SSP. O serviço é realizado, em apoio ao cidadão, fornecendo o extrato das informações contidas no Registro de Atendimento Integrado - RAI, relativo à ocorrência em que o solicitante, de alguma forma, participou",
+          "name": "Consultar Boletim de Ocorrência e Extrato de Ocorrência",
+          "description": "O Extrato de Ocorrência é um documento com as informações registradas no atendimento de uma ocorrência. Essas informações ficam no sistema Registro de Atendimento Integrado (RAI), da Secretaria de Estado da Segurança Pública (SSP). Você pode solicitar esse extrato quando tiver participado da ocorrência, de qualquer forma.",
           "legal": "",
           "basicUnit": "",
           "complementaryUnit": "Centro Integrado de Inteligência, Comando e Controle (CIICC) / Centro de Operações da Polícia Militar (COPOM)",
@@ -87886,21 +87871,6 @@
           "complementaryUnit": "Supervisão da Polícia Civil de Goiás",
           "organizations": [
             "DGPC"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Consultar Boletim de Ocorrência (Polícia, Bombeiros e Delegacia Virtual)",
-          "description": "Este serviço permite que você acesse ocorrências registradas na Polícia Militar, no Corpo de Bombeiros Militar ou na Delegacia Virtual. Ao entrar com sua conta gov.br ou ID Goiás, você verá uma lista com todas as suas ocorrências. Se você não fizer login, deve informar: o número da ocorrência; e o código de segurança da ocorrência.",
-          "legal": "",
-          "basicUnit": "",
-          "complementaryUnit": "Gerência de Inovação da Secretaria de Estado da Segurança Pública",
-          "organizations": [
-            "SSP"
           ],
           "source": "Carta de Serviço",
           "situation": "Identificado",
@@ -89010,8 +88980,8 @@
                   "children": []
                 },
                 {
-                  "name": "Retirar Extrato de Ocorrência",
-                  "description": "Extrato de Ocorrência é o documento gerado a partir das informações fornecidas e captadas no atendimento da ocorrência e registrados no sistema de Registro de Atendimento Integrado - RAI da Secretaria de Estado da Segurança Pública - SSP. O serviço é realizado, em apoio ao cidadão, fornecendo o extrato das informações contidas no Registro de Atendimento Integrado - RAI, relativo à ocorrência em que o solicitante, de alguma forma, participou",
+                  "name": "Consultar Boletim de Ocorrência e Extrato de Ocorrência",
+                  "description": "O Extrato de Ocorrência é um documento com as informações registradas no atendimento de uma ocorrência. Essas informações ficam no sistema Registro de Atendimento Integrado (RAI), da Secretaria de Estado da Segurança Pública (SSP). Você pode solicitar esse extrato quando tiver participado da ocorrência, de qualquer forma.",
                   "legal": "",
                   "basicUnit": "",
                   "complementaryUnit": "Centro Integrado de Inteligência, Comando e Controle (CIICC) / Centro de Operações da Polícia Militar (COPOM)",
@@ -90074,21 +90044,6 @@
                   "complementaryUnit": "Supervisão da Polícia Civil de Goiás",
                   "organizations": [
                     "DGPC"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Consultar Boletim de Ocorrência (Polícia, Bombeiros e Delegacia Virtual)",
-                  "description": "Este serviço permite que você acesse ocorrências registradas na Polícia Militar, no Corpo de Bombeiros Militar ou na Delegacia Virtual. Ao entrar com sua conta gov.br ou ID Goiás, você verá uma lista com todas as suas ocorrências. Se você não fizer login, deve informar: o número da ocorrência; e o código de segurança da ocorrência.",
-                  "legal": "",
-                  "basicUnit": "",
-                  "complementaryUnit": "Gerência de Inovação da Secretaria de Estado da Segurança Pública",
-                  "organizations": [
-                    "SSP"
                   ],
                   "source": "Carta de Serviço",
                   "situation": "Identificado",
@@ -91633,7 +91588,7 @@
         "processes": 27,
         "workProcesses": 141,
         "organizations": 6,
-        "services": 34,
+        "services": 33,
         "activities": 8
       }
     },
