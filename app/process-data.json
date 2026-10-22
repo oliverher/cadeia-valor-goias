@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "groups": [
     {
       "name": "Agropecuária",
@@ -108490,22 +108490,22 @@
           "type": "process",
           "children": [
             {
-              "name": "Gerir Legislação Tributária",
-              "description": "",
+              "name": "Consultar Valor de Imóvel com Base na Tabela FIPE para Cálculo do ITCD",
+              "description": "Este serviço permite que você consulte os valores médios de mercado de imóveis urbanos e rurais, definidos com base na Tabela FIPE, para fins de cálculo do Imposto sobre Transmissão Causa Mortis e Doação (ITCD) no estado de Goiás. A consulta oferece transparência, padronização e previsibilidade na apuração do imposto",
               "legal": "CV/Economia",
               "basicUnit": "",
-              "complementaryUnit": "",
+              "complementaryUnit": "Gerência do ITCD - Imposto sobre a Transmissão Causa Mortis e Doação de Bens e Direitos",
               "organizations": [
                 "ECONOMIA"
               ],
-              "source": "Arquitetura de Processo",
+              "source": "Carta de Serviço",
               "situation": "Identificado",
               "link": "",
-              "type": "workProcess",
+              "type": "service",
               "children": []
             },
             {
-              "name": "Prover assessoria tributária",
+              "name": "Gerir Legislação Tributária",
               "description": "",
               "legal": "CV/Economia",
               "basicUnit": "",
@@ -108535,18 +108535,18 @@
               "children": []
             },
             {
-              "name": "Consultar Valor de Imóvel com Base na Tabela FIPE para Cálculo do ITCD",
-              "description": "Este serviço permite que você consulte os valores médios de mercado de imóveis urbanos e rurais, definidos com base na Tabela FIPE, para fins de cálculo do Imposto sobre Transmissão Causa Mortis e Doação (ITCD) no estado de Goiás. A consulta oferece transparência, padronização e previsibilidade na apuração do imposto",
+              "name": "Prover assessoria tributária",
+              "description": "",
               "legal": "CV/Economia",
               "basicUnit": "",
-              "complementaryUnit": "Gerência do ITCD - Imposto sobre a Transmissão Causa Mortis e Doação de Bens e Direitos",
+              "complementaryUnit": "",
               "organizations": [
                 "ECONOMIA"
               ],
-              "source": "Carta de Serviço",
+              "source": "Arquitetura de Processo",
               "situation": "Identificado",
               "link": "",
-              "type": "service",
+              "type": "workProcess",
               "children": []
             }
           ]
@@ -108627,36 +108627,6 @@
               "children": []
             },
             {
-              "name": "Realizar Cadastro no Portal de Aplicações da Secretaria da Economia",
-              "description": "Este serviço permite que pessoas físicas e jurídicas realizem o pré-cadastro no Portal de Aplicações da Secretaria da Economia do Estado de Goiás. O pré-cadastro é obrigatório para acessar os sistemas eletrônicos da Secretaria e realizar solicitações, declarações e consultas relacionadas a tributos estaduais, importações, procurações, entre outros serviços",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "",
-              "complementaryUnit": "Suporte Técnico",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Credenciar-se no Domicílio Tributário Eletrônico (DTE)",
-              "description": "Este serviço permite realizar o credenciamento para acessar o Domicílio Tributário Eletrônico (DTE), ambiente digital da Secretaria da Economia do Estado de Goiás utilizado para receber, consultar e armazenar notificações, intimações, avisos e demais comunicações oficiais com validade legal.",
-              "legal": "",
-              "basicUnit": "",
-              "complementaryUnit": "",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
               "name": "Cadastrar Procurador no Domicílio Tributário Eletrônico (DTE)",
               "description": "Este serviço permite cadastrar um procurador no Domicílio Tributário Eletrônico (DTE) para acessar a Caixa Postal Eletrônica (CPE) e consultar as comunicações oficiais da Secretaria da Economia, conforme os poderes concedidos.",
               "legal": "",
@@ -108672,176 +108642,11 @@
               "children": []
             },
             {
-              "name": "Solicitar credenciamento de usuário para acesso ao COÍNDICE/ICMS",
-              "description": "Este serviço permite credenciar servidores públicos para acessar os dados do COÍNDICE/ICMS, utilizados no cálculo do Índice de Participação dos Municípios nas receitas do ICMS. Cada município pode credenciar até dois usuários, conforme a Instrução Normativa nº 559/2002.",
-              "legal": "",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de Apoio do COÍNDICE",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Recorrer do Índice de Participação dos Municípios (IPM) Provisório",
-              "description": "Este serviço permite que o município peça a revisão do Índice de Participação dos Municípios (IPM) provisório. O IPM é o índice que define quanto cada município receberá da arrecadação do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). Você pode apresentar um recurso administrativo, que é um pedido formal de reanálise dos dados usados no cálculo do índice. O Conselho Deliberativo dos Índices de Participação dos Municípios (COÍNDICE) publica o IPM provisório.",
-              "legal": "",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de Apoio do COÍNDICE",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Consultar Termo de Credenciamento da Receita Estadual de Goiás",
-              "description": "Este serviço permite consultar a situação e os dados do Termo de Credenciamento concedido pela Secretaria da Economia a produtores rurais e a extratores autorizados de substâncias minerais ou fósseis.",
+              "name": "Consultar Débitos Tributários por CPF",
+              "description": "É o serviço que permite ao usuário, pessoa física, consultar a relação de seus débitos ributários, tais como ITCD, ICMS e IPVA possibilitando a emissão do Documento de Arrecadação da Receita Estadual (DARE) para o pagamento integral dos débitos identificados",
               "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Fiscalização Regionalizada",
-              "complementaryUnit": "Superintendência de Fiscalização Regionalizada",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Inclusão, Alteração ou Exclusão de BEBIDAS na Pauta de Valores Referenciais do ICMS",
-              "description": "É o serviço que permite ao usuário ter acesso a valores referenciais para operações com determinados produtos. É possível solicitar a avaliação de inclusão / alteração / exclusão de algum item na Pauta Fiscal A definição dos valores é feita pela Secretaria da Economia através de pesquisa periódica de preços, conforme autorização do Art. 18 do Regulamento do Código Tributário do Estado de Goiás – RCTE",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "",
-              "complementaryUnit": "Pesquisa Mercadológica",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Retificação no Sistema de Captação e Auditoria dos Anexos de Combustíveis - SCANC",
-              "description": "Serviço que permite ao usuário solicitar a retificação dos anexos no Sistema de Captação e Auditoriados Anexos de Combustíveis (SCANC), com o objetivo de regularizar informações conforme os Convênios ICMS 199/22 e 15/23",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "",
-              "complementaryUnit": "Gerência de Combustíveis (GECOM)",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Inclusão, Alteração ou Exclusão de DIVERSOS na Pauta de Valores Referenciais do ICMS",
-              "description": "Você pode solicitar atualização dos valores de referência do ICMS aplicados a determinados produtos e solicitar a inclusão, alteração ou exclusão de itens na Pauta Fiscal. Esses valores são definidos pela Secretaria da Economia, com base em pesquisas periódicas de preços, conforme a legislação estadual",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "",
-              "complementaryUnit": "Pesquisa Mercadológica",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Regime Especial de Tributação (TARE)",
-              "description": "Este serviço permite que sua empresa solicite um Termo de Acordo de Regime Especial (TARE) à Secretaria da Economia de Goiás. O TARE estabelece condições especiais para o cumprimento de obrigações tributárias estaduais e pode prever benefícios fiscais ou formas específicas de tributação, conforme a legislação vigente.",
-              "legal": "",
-              "basicUnit": "",
-              "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Consultar Regimes Especiais",
-              "description": "Este serviço permite consultar os Regimes Especiais celebrados pela Secretaria da Economia de Goiás por meio de: -Termo de Acordo de Regime Especial (TARE) -Termo de Enquadramento (TE) A consulta pode ser feita de forma rápida e online",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Política Tributária",
-              "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Cancelamento de Termo de Acordo de Regime Especial (TARE) Consultar CNAE Fiscal",
-              "description": "Este serviço permite ao contribuinte ou ao seu representante legal solicitar o cancelamento de um Termo de Acordo de Regime Especial (TARE) ativo. A Secretaria da Economia analisa o pedido com base no requerimento e na documentação apresentada.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Política Tributária",
-              "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Emitir Nota Fiscal Avulsa",
-              "description": "É o serviço que permite a emissão de nota fiscal avulsa de mercadorias",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de Informações Econômico-Fiscais / Coordenação de Documentos Fiscais",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Consultar Nota Fiscal Eletrônica pela Chave de Acesso",
-              "description": "Serviço que permite a consulta, por parte do contribuinte, de uma Nota Fiscal Avulsa Eletrônica (NFA-e),por meio da chave de acesso",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de Informações Econômico Fiscais",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Consultar Minhas Notas Fiscais Eletrônicas",
-              "description": "É o serviço que permite consultar relatórios de Notas Fiscais por CPF",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+              "basicUnit": "Superintendência de Recuperação de Créditos",
+              "complementaryUnit": "",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -108867,11 +108672,86 @@
               "children": []
             },
             {
-              "name": "Consultar Débitos Tributários por CPF",
-              "description": "É o serviço que permite ao usuário, pessoa física, consultar a relação de seus débitos ributários, tais como ITCD, ICMS e IPVA possibilitando a emissão do Documento de Arrecadação da Receita Estadual (DARE) para o pagamento integral dos débitos identificados",
+              "name": "Consultar Minhas Notas Fiscais Eletrônicas",
+              "description": "É o serviço que permite consultar relatórios de Notas Fiscais por CPF",
               "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Recuperação de Créditos",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Consultar Nota Fiscal Eletrônica pela Chave de Acesso",
+              "description": "Serviço que permite a consulta, por parte do contribuinte, de uma Nota Fiscal Avulsa Eletrônica (NFA-e),por meio da chave de acesso",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Consultar Regimes Especiais",
+              "description": "Este serviço permite consultar os Regimes Especiais celebrados pela Secretaria da Economia de Goiás por meio de: -Termo de Acordo de Regime Especial (TARE) -Termo de Enquadramento (TE) A consulta pode ser feita de forma rápida e online",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Política Tributária",
+              "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Consultar Termo de Credenciamento da Receita Estadual de Goiás",
+              "description": "Este serviço permite consultar a situação e os dados do Termo de Credenciamento concedido pela Secretaria da Economia a produtores rurais e a extratores autorizados de substâncias minerais ou fósseis.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Fiscalização Regionalizada",
+              "complementaryUnit": "Superintendência de Fiscalização Regionalizada",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Credenciar-se no Domicílio Tributário Eletrônico (DTE)",
+              "description": "Este serviço permite realizar o credenciamento para acessar o Domicílio Tributário Eletrônico (DTE), ambiente digital da Secretaria da Economia do Estado de Goiás utilizado para receber, consultar e armazenar notificações, intimações, avisos e demais comunicações oficiais com validade legal.",
+              "legal": "",
+              "basicUnit": "",
               "complementaryUnit": "",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Emitir Nota Fiscal Avulsa",
+              "description": "É o serviço que permite a emissão de nota fiscal avulsa de mercadorias",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de Informações Econômico-Fiscais / Coordenação de Documentos Fiscais",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -108912,21 +108792,6 @@
               "children": []
             },
             {
-              "name": "Solicitar Cadastro de Substituto Tributário em Goiás",
-              "description": "Este serviço permite que empresas de outros estados se cadastrem como Substituto Tributário no Cadastro de Contribuintes do Estado de Goiás (CCE). Com esse cadastro, a empresa pode recolher o ICMS devido nas operações sujeitas ao regime de substituição tributária destinadas a Goiás.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de substituição tributária",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
               "name": "Obter Baixa de Inscrição Cadastral",
               "description": "É o evento cadastral por meio do qual o contribuinte comunica o encerramento de todas as atividades do estabelecimento ou a permanência apenas com atividades de prestador de serviços, não sujeito à incidência do ICMS. Este evento pode ser realizado em inscrições Ativas, Suspensas ou Paralisadas",
               "legal": "Carta de serviços/Economia",
@@ -108946,21 +108811,6 @@
               "description": "É o cadastro para que o contador/contribuinte/gráfica obtenha liberação de Acesso Restrito ao Portal de Aplicações da Secretaria da Economia. Esse cadastro possibilita que os usuários tenham acesso aos serviços ofertados de forma online pela Pasta, bem como realizem consultas de seu interesse",
               "legal": "Carta de serviços/Economia",
               "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Cópia / Vistas de Processo Administrativo Tributário e Não Tributário",
-              "description": "Este serviço possibilita o fornecimento de cópias ou vistas de Processo Administrativo Tributário e Não Tributário sob a guarda da Superintendência de Recuperação de Créditos ou que esteja tramitando no CAT",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Recuperação de Créditos",
               "complementaryUnit": "",
               "organizations": [
                 "ECONOMIA"
@@ -109002,11 +108852,161 @@
               "children": []
             },
             {
+              "name": "Realizar Cadastro no Portal de Aplicações da Secretaria da Economia",
+              "description": "Este serviço permite que pessoas físicas e jurídicas realizem o pré-cadastro no Portal de Aplicações da Secretaria da Economia do Estado de Goiás. O pré-cadastro é obrigatório para acessar os sistemas eletrônicos da Secretaria e realizar solicitações, declarações e consultas relacionadas a tributos estaduais, importações, procurações, entre outros serviços",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "",
+              "complementaryUnit": "Suporte Técnico",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Recorrer do Índice de Participação dos Municípios (IPM) Provisório",
+              "description": "Este serviço permite que o município peça a revisão do Índice de Participação dos Municípios (IPM) provisório. O IPM é o índice que define quanto cada município receberá da arrecadação do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). Você pode apresentar um recurso administrativo, que é um pedido formal de reanálise dos dados usados no cálculo do índice. O Conselho Deliberativo dos Índices de Participação dos Municípios (COÍNDICE) publica o IPM provisório.",
+              "legal": "",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de Apoio do COÍNDICE",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Cadastro de Substituto Tributário em Goiás",
+              "description": "Este serviço permite que empresas de outros estados se cadastrem como Substituto Tributário no Cadastro de Contribuintes do Estado de Goiás (CCE). Com esse cadastro, a empresa pode recolher o ICMS devido nas operações sujeitas ao regime de substituição tributária destinadas a Goiás.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de substituição tributária",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Cancelamento de Termo de Acordo de Regime Especial (TARE) Consultar CNAE Fiscal",
+              "description": "Este serviço permite ao contribuinte ou ao seu representante legal solicitar o cancelamento de um Termo de Acordo de Regime Especial (TARE) ativo. A Secretaria da Economia analisa o pedido com base no requerimento e na documentação apresentada.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Política Tributária",
+              "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Cópia / Vistas de Processo Administrativo Tributário e Não Tributário",
+              "description": "Este serviço possibilita o fornecimento de cópias ou vistas de Processo Administrativo Tributário e Não Tributário sob a guarda da Superintendência de Recuperação de Créditos ou que esteja tramitando no CAT",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Recuperação de Créditos",
+              "complementaryUnit": "",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar credenciamento de usuário para acesso ao COÍNDICE/ICMS",
+              "description": "Este serviço permite credenciar servidores públicos para acessar os dados do COÍNDICE/ICMS, utilizados no cálculo do Índice de Participação dos Municípios nas receitas do ICMS. Cada município pode credenciar até dois usuários, conforme a Instrução Normativa nº 559/2002.",
+              "legal": "",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de Apoio do COÍNDICE",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Inclusão, Alteração ou Exclusão de BEBIDAS na Pauta de Valores Referenciais do ICMS",
+              "description": "É o serviço que permite ao usuário ter acesso a valores referenciais para operações com determinados produtos. É possível solicitar a avaliação de inclusão / alteração / exclusão de algum item na Pauta Fiscal A definição dos valores é feita pela Secretaria da Economia através de pesquisa periódica de preços, conforme autorização do Art. 18 do Regulamento do Código Tributário do Estado de Goiás – RCTE",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "",
+              "complementaryUnit": "Pesquisa Mercadológica",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Inclusão, Alteração ou Exclusão de DIVERSOS na Pauta de Valores Referenciais do ICMS",
+              "description": "Você pode solicitar atualização dos valores de referência do ICMS aplicados a determinados produtos e solicitar a inclusão, alteração ou exclusão de itens na Pauta Fiscal. Esses valores são definidos pela Secretaria da Economia, com base em pesquisas periódicas de preços, conforme a legislação estadual",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "",
+              "complementaryUnit": "Pesquisa Mercadológica",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
               "name": "Solicitar Reativação de Inscrição Estadual - Economia",
               "description": "O serviço de reativação de inscrição estadual permite que empresas, produtores ou extratores voltem a usar sua inscrição no cadastro de contribuintes do estado de Goiás quando ela estiver paralisada temporariamente, suspensa ou baixada. Com a reativação, o contribuinte pode retomar suas atividades normalmente",
               "legal": "Carta de serviços/Economia",
               "basicUnit": "Superintendência de Informações Fiscais",
               "complementaryUnit": "Gerência de Informações Econômico-Fiscais",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Regime Especial de Tributação (TARE)",
+              "description": "Este serviço permite que sua empresa solicite um Termo de Acordo de Regime Especial (TARE) à Secretaria da Economia de Goiás. O TARE estabelece condições especiais para o cumprimento de obrigações tributárias estaduais e pode prever benefícios fiscais ou formas específicas de tributação, conforme a legislação vigente.",
+              "legal": "",
+              "basicUnit": "",
+              "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Retificação no Sistema de Captação e Auditoria dos Anexos de Combustíveis - SCANC",
+              "description": "Serviço que permite ao usuário solicitar a retificação dos anexos no Sistema de Captação e Auditoriados Anexos de Combustíveis (SCANC), com o objetivo de regularizar informações conforme os Convênios ICMS 199/22 e 15/23",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "",
+              "complementaryUnit": "Gerência de Combustíveis (GECOM)",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -109053,6 +109053,21 @@
               "legal": "Carta de serviços/Economia",
               "basicUnit": "",
               "complementaryUnit": "Gerência de Informações Econômico Fiscais da Superintendência de Informações Fiscais",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Cadastrar Nota Fiscal de Veículo Importado",
+              "description": "Este serviço permite ao interessado solicitar o cadastro da nota fiscal de veículo importado no sistema da Secretaria da Economia, para fins de registro e tributação do Imposto sobre a Propriedade de Veículos Automotores (IPVA). Se você tem um veículo importado, use este serviço para cadastrar a nota fiscal no sistema da Secretaria da Economia. O cadastro registra o veículo na base de dados do Estado de Goiás e permite calcular o IPVA corretamente.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Controle e Fiscalização",
+              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -109198,21 +109213,6 @@
               "children": []
             },
             {
-              "name": "Solicitar Substituição de Declarante do ITCD",
-              "description": "Este serviço permite alterar o responsável pela declaração do ITCD quando houver impedimento, desistência ou mudança de representação legal.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Controle e Fiscalização",
-              "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
               "name": "Emitir Certidão Negativa de Débitos - Secretaria da Economia de Goiás",
               "description": "É o serviço que permite emitir a Certidão Negativa de Débitos Estaduais pela Secretaria da Economia de Goiás. Esse documento comprova que a pessoa ou empresa não possui débitos ou pendências tributárias com o Estado",
               "legal": "Carta de serviços/Economia",
@@ -109303,21 +109303,6 @@
               "children": []
             },
             {
-              "name": "Solicitar Alteração de DARE ou GNRE Preenchido Incorretamente",
-              "description": "Este serviço permite corrigir informações preenchidas incorretamente em um Documento de Arrecadação de Receitas Estaduais (DARE) ou em uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) já pagos, mediante solicitação e apresentação da documentação exigida, observados os critérios e limites estabelecidos pela legislação vigente.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Informações Fiscais",
-              "complementaryUnit": "Gerência de Controle da Arrecadação",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
               "name": "Obter Relatório de Notas Fiscais Produtor Rural",
               "description": "É a emissão da relação de todas as Notas Fiscais emitidas pela Delegacia Fiscal em nome do proprietário",
               "legal": "Carta de serviços/Economia",
@@ -109363,6 +109348,36 @@
               "children": []
             },
             {
+              "name": "Regularizar IPVA de veículo registrado em outro estado",
+              "description": "Se seu veículo está registrado em outro estado, mas deveria estar registrado no estado de Goiás, você pode pedir a regularização do IPVA por meio de denúncia espontânea. Esse pedido é feito por denúncia espontânea. Denúncia espontânea é quando você comunica voluntariamente uma irregularidade ao fisco antes de qualquer ação de fiscalização, para regularizar sua situação tributária. proprietário do veículo; ex-proprietário, quando a irregularidade ocorreu no período em que o veículo estava em seu nome; procurador ou representante legal, com autorização. Para o IPVA, a lei considera contribuinte quem é proprietário do veículo em 1º de janeiro de cada ano.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Controle e Fiscalização",
+              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Responder Notificação do IPVA",
+              "description": "Se você recebeu uma notificação do IPVA, use este serviço para enviar documentos, informações ou esclarecimentos solicitados pela Gerência do IPVA (GIPVA). A notificação fiscal é um documento enviado pela Secretaria da Economia para solicitar informações ou documentos necessários à fiscalização do IPVA.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Controle e Fiscalização",
+              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
               "name": "Retificar Declaração de ITCD",
               "description": "Você pode corrigir sua Declaração de ITCD (Imposto sobre Transmissão Causa Mortis e Doação) a qualquer momento, se encontrar algum erro ou precisar fazer alguma alteração. Você pode corrigir a Declaração nos seguintes casos: -Algum dado foi preenchido errado; -A partilha dos bens foi alterada; -Precisa incluir ou excluir herdeiros ou beneficiários; -Precisa incluir ou excluir bens; -Faltaram documentos ou informações importantes. Mesmo sendo possível corrigir a qualquer momento, a maneira de corrigir e os efeitos da correção vão depender de dois fatores: - Tipo de informação a ser corrigida. O fato gerador (acontecimento que obriga o pagamento do imposto) não pode ser alterado. - Etapa da Declaração no sistema. O sistema pode limitar o que pode ser alterado, dependendo do andamento do processo.",
               "legal": "Carta de serviços/Economia",
@@ -109393,11 +109408,56 @@
               "children": []
             },
             {
+              "name": "Solicitar Alteração de DARE ou GNRE Preenchido Incorretamente",
+              "description": "Este serviço permite corrigir informações preenchidas incorretamente em um Documento de Arrecadação de Receitas Estaduais (DARE) ou em uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) já pagos, mediante solicitação e apresentação da documentação exigida, observados os critérios e limites estabelecidos pela legislação vigente.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Informações Fiscais",
+              "complementaryUnit": "Gerência de Controle da Arrecadação",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
               "name": "Solicitar análise de prescrição administrativa",
               "description": "O serviço permite que o contribuinte ou seu representante, peça à Secretaria a verificação da prescrição administrativa - isto é, se passou o prazo que a Administração tem para rever atos ou aplicar penalidades",
               "legal": "Carta de serviços/Economia",
               "basicUnit": "Superintendência de Recuperação de Créditos - SRC",
               "complementaryUnit": "",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Aplicação do Desconto do IPVA Quando Não Aplicado Automaticamente",
+              "description": "É o serviço que permite a você, proprietário de veículo, solicitar a aplicação do desconto de 50% no Imposto sobre a Propriedade de Veículos Automotores (IPVA) quando não aplicado automaticamente. Você deve usar este serviço se o sistema não conceder o desconto no cálculo do imposto. Você tem direito ao desconto se possuir: motocicleta, ciclomotor, triciclo ou motoneta de até 125 cilindradas, com até seis anos de uso; ou veículo de passeio 1.0 (até 1000 cilindradas), conforme a legislação O veículo deve: estar com o licenciamento em dia. Você não pode: ter multas de trânsito nos últimos 12 meses; ter se envolvido em acidentes nesse período; ter débitos com o Estado (Cadin).",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "Superintendência de Controle e Fiscalização",
+              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Solicitar Atendimento para Outros Assuntos do ITCD",
+              "description": "Este serviço permite que você envie pedidos sobre o ITCD (Imposto sobre Herança e Doação) quando os outros serviços do grupo não atenderem à sua necessidade. Use este canal para tratar situações específicas, como solicitar o reconhecimento de pagamento já realizado, verificar a existência de declaração, solicitar comprovantes e esclarecer dúvidas sobre a aplicação da legislação ao seu caso.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "",
+              "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -109425,36 +109485,6 @@
             {
               "name": "Solicitar Autorregularização de ITCD",
               "description": "Se você recebeu um comunicado da Secretaria da Economia de Goiás, é porque foram encontradas diferenças entre os valores que você declarou no ITCD (Imposto sobre Transmissão Causa Mortis e Doação) e os valores da Tabela de Referência do Estado. Esse serviço permite que você corrija essas diferenças e regularize sua declaração",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "",
-              "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Restituição do Imposto sobre Herança e Doação - ITCD",
-              "description": "Você pode pedir a devolução total ou parcial do valor pago de ITCD se comprovar que o imposto foi cobrado de forma indevida Em quais casos é possível pedir a restituição? - Quando a doação ou a separação judicial que geraria o imposto não aconteceu. - Quando houver decisão judicial definitiva (transitada em julgado) que determine a devolução. - Quando, após o pagamento, for reconhecida a isenção (dispensa de pagar) ou a não-incidência (o imposto não se aplica). - Quando for identificado erro na cobrança ou no valor pago. - Quando a pessoa dada como falecida reaparecer, em caso de sucessão provisória.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Controle e Fiscalização",
-              "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Solicitar Atendimento para Outros Assuntos do ITCD",
-              "description": "Este serviço permite que você envie pedidos sobre o ITCD (Imposto sobre Herança e Doação) quando os outros serviços do grupo não atenderem à sua necessidade. Use este canal para tratar situações específicas, como solicitar o reconhecimento de pagamento já realizado, verificar a existência de declaração, solicitar comprovantes e esclarecer dúvidas sobre a aplicação da legislação ao seu caso.",
               "legal": "Carta de serviços/Economia",
               "basicUnit": "",
               "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
@@ -109753,21 +109783,6 @@
               "children": []
             },
             {
-              "name": "Cadastrar Nota Fiscal de Veículo Importado",
-              "description": "Este serviço permite ao interessado solicitar o cadastro da nota fiscal de veículo importado no sistema da Secretaria da Economia, para fins de registro e tributação do Imposto sobre a Propriedade de Veículos Automotores (IPVA). Se você tem um veículo importado, use este serviço para cadastrar a nota fiscal no sistema da Secretaria da Economia. O cadastro registra o veículo na base de dados do Estado de Goiás e permite calcular o IPVA corretamente.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Controle e Fiscalização",
-              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
               "name": "Solicitar Regularização de Substituição Tributária ou Isenção",
               "description": "Este serviço é para você que recebeu um comunicado da Secretaria da Economia informando erro ou problema no uso da Substituição Tributária (ST) ou da Isenção de impostos estaduais",
               "legal": "Carta de serviços/Economia",
@@ -109873,11 +109888,11 @@
               "children": []
             },
             {
-              "name": "Responder Notificação do IPVA",
-              "description": "Se você recebeu uma notificação do IPVA, use este serviço para enviar documentos, informações ou esclarecimentos solicitados pela Gerência do IPVA (GIPVA). A notificação fiscal é um documento enviado pela Secretaria da Economia para solicitar informações ou documentos necessários à fiscalização do IPVA.",
+              "name": "Solicitar Restituição do Imposto sobre Herança e Doação - ITCD",
+              "description": "Você pode pedir a devolução total ou parcial do valor pago de ITCD se comprovar que o imposto foi cobrado de forma indevida Em quais casos é possível pedir a restituição? - Quando a doação ou a separação judicial que geraria o imposto não aconteceu. - Quando houver decisão judicial definitiva (transitada em julgado) que determine a devolução. - Quando, após o pagamento, for reconhecida a isenção (dispensa de pagar) ou a não-incidência (o imposto não se aplica). - Quando for identificado erro na cobrança ou no valor pago. - Quando a pessoa dada como falecida reaparecer, em caso de sucessão provisória.",
               "legal": "Carta de serviços/Economia",
               "basicUnit": "Superintendência de Controle e Fiscalização",
-              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+              "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -109888,11 +109903,11 @@
               "children": []
             },
             {
-              "name": "Solicitar Aplicação do Desconto do IPVA Quando Não Aplicado Automaticamente",
-              "description": "É o serviço que permite a você, proprietário de veículo, solicitar a aplicação do desconto de 50% no Imposto sobre a Propriedade de Veículos Automotores (IPVA) quando não aplicado automaticamente. Você deve usar este serviço se o sistema não conceder o desconto no cálculo do imposto. Você tem direito ao desconto se possuir: motocicleta, ciclomotor, triciclo ou motoneta de até 125 cilindradas, com até seis anos de uso; ou veículo de passeio 1.0 (até 1000 cilindradas), conforme a legislação O veículo deve: estar com o licenciamento em dia. Você não pode: ter multas de trânsito nos últimos 12 meses; ter se envolvido em acidentes nesse período; ter débitos com o Estado (Cadin).",
+              "name": "Solicitar Substituição de Declarante do ITCD",
+              "description": "Este serviço permite alterar o responsável pela declaração do ITCD quando houver impedimento, desistência ou mudança de representação legal.",
               "legal": "Carta de serviços/Economia",
               "basicUnit": "Superintendência de Controle e Fiscalização",
-              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+              "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -109908,21 +109923,6 @@
               "legal": "Carta de serviços/Economia",
               "basicUnit": "Superintendência de Recuperação de Créditos - SRC",
               "complementaryUnit": "",
-              "organizations": [
-                "ECONOMIA"
-              ],
-              "source": "Carta de Serviço",
-              "situation": "Identificado",
-              "link": "",
-              "type": "service",
-              "children": []
-            },
-            {
-              "name": "Regularizar IPVA de veículo registrado em outro estado",
-              "description": "Se seu veículo está registrado em outro estado, mas deveria estar registrado no estado de Goiás, você pode pedir a regularização do IPVA por meio de denúncia espontânea. Esse pedido é feito por denúncia espontânea. Denúncia espontânea é quando você comunica voluntariamente uma irregularidade ao fisco antes de qualquer ação de fiscalização, para regularizar sua situação tributária. proprietário do veículo; ex-proprietário, quando a irregularidade ocorreu no período em que o veículo estava em seu nome; procurador ou representante legal, com autorização. Para o IPVA, a lei considera contribuinte quem é proprietário do veículo em 1º de janeiro de cada ano.",
-              "legal": "Carta de serviços/Economia",
-              "basicUnit": "Superintendência de Controle e Fiscalização",
-              "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
               "organizations": [
                 "ECONOMIA"
               ],
@@ -110330,7 +110330,7 @@
           "children": []
         },
         {
-          "name": "Prover assessoria tributária",
+          "name": "Gerir Regimes Especiais",
           "description": "",
           "legal": "CV/Economia",
           "basicUnit": "",
@@ -110345,7 +110345,7 @@
           "children": []
         },
         {
-          "name": "Gerir Regimes Especiais",
+          "name": "Prover assessoria tributária",
           "description": "",
           "legal": "CV/Economia",
           "basicUnit": "",
@@ -110602,36 +110602,6 @@
           "children": []
         },
         {
-          "name": "Realizar Cadastro no Portal de Aplicações da Secretaria da Economia",
-          "description": "Este serviço permite que pessoas físicas e jurídicas realizem o pré-cadastro no Portal de Aplicações da Secretaria da Economia do Estado de Goiás. O pré-cadastro é obrigatório para acessar os sistemas eletrônicos da Secretaria e realizar solicitações, declarações e consultas relacionadas a tributos estaduais, importações, procurações, entre outros serviços",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "",
-          "complementaryUnit": "Suporte Técnico",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Credenciar-se no Domicílio Tributário Eletrônico (DTE)",
-          "description": "Este serviço permite realizar o credenciamento para acessar o Domicílio Tributário Eletrônico (DTE), ambiente digital da Secretaria da Economia do Estado de Goiás utilizado para receber, consultar e armazenar notificações, intimações, avisos e demais comunicações oficiais com validade legal.",
-          "legal": "",
-          "basicUnit": "",
-          "complementaryUnit": "",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
           "name": "Cadastrar Procurador no Domicílio Tributário Eletrônico (DTE)",
           "description": "Este serviço permite cadastrar um procurador no Domicílio Tributário Eletrônico (DTE) para acessar a Caixa Postal Eletrônica (CPE) e consultar as comunicações oficiais da Secretaria da Economia, conforme os poderes concedidos.",
           "legal": "",
@@ -110647,176 +110617,11 @@
           "children": []
         },
         {
-          "name": "Solicitar credenciamento de usuário para acesso ao COÍNDICE/ICMS",
-          "description": "Este serviço permite credenciar servidores públicos para acessar os dados do COÍNDICE/ICMS, utilizados no cálculo do Índice de Participação dos Municípios nas receitas do ICMS. Cada município pode credenciar até dois usuários, conforme a Instrução Normativa nº 559/2002.",
-          "legal": "",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de Apoio do COÍNDICE",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Recorrer do Índice de Participação dos Municípios (IPM) Provisório",
-          "description": "Este serviço permite que o município peça a revisão do Índice de Participação dos Municípios (IPM) provisório. O IPM é o índice que define quanto cada município receberá da arrecadação do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). Você pode apresentar um recurso administrativo, que é um pedido formal de reanálise dos dados usados no cálculo do índice. O Conselho Deliberativo dos Índices de Participação dos Municípios (COÍNDICE) publica o IPM provisório.",
-          "legal": "",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de Apoio do COÍNDICE",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Consultar Termo de Credenciamento da Receita Estadual de Goiás",
-          "description": "Este serviço permite consultar a situação e os dados do Termo de Credenciamento concedido pela Secretaria da Economia a produtores rurais e a extratores autorizados de substâncias minerais ou fósseis.",
+          "name": "Consultar Débitos Tributários por CPF",
+          "description": "É o serviço que permite ao usuário, pessoa física, consultar a relação de seus débitos ributários, tais como ITCD, ICMS e IPVA possibilitando a emissão do Documento de Arrecadação da Receita Estadual (DARE) para o pagamento integral dos débitos identificados",
           "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Fiscalização Regionalizada",
-          "complementaryUnit": "Superintendência de Fiscalização Regionalizada",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Inclusão, Alteração ou Exclusão de BEBIDAS na Pauta de Valores Referenciais do ICMS",
-          "description": "É o serviço que permite ao usuário ter acesso a valores referenciais para operações com determinados produtos. É possível solicitar a avaliação de inclusão / alteração / exclusão de algum item na Pauta Fiscal A definição dos valores é feita pela Secretaria da Economia através de pesquisa periódica de preços, conforme autorização do Art. 18 do Regulamento do Código Tributário do Estado de Goiás – RCTE",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "",
-          "complementaryUnit": "Pesquisa Mercadológica",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Retificação no Sistema de Captação e Auditoria dos Anexos de Combustíveis - SCANC",
-          "description": "Serviço que permite ao usuário solicitar a retificação dos anexos no Sistema de Captação e Auditoriados Anexos de Combustíveis (SCANC), com o objetivo de regularizar informações conforme os Convênios ICMS 199/22 e 15/23",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "",
-          "complementaryUnit": "Gerência de Combustíveis (GECOM)",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Inclusão, Alteração ou Exclusão de DIVERSOS na Pauta de Valores Referenciais do ICMS",
-          "description": "Você pode solicitar atualização dos valores de referência do ICMS aplicados a determinados produtos e solicitar a inclusão, alteração ou exclusão de itens na Pauta Fiscal. Esses valores são definidos pela Secretaria da Economia, com base em pesquisas periódicas de preços, conforme a legislação estadual",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "",
-          "complementaryUnit": "Pesquisa Mercadológica",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Regime Especial de Tributação (TARE)",
-          "description": "Este serviço permite que sua empresa solicite um Termo de Acordo de Regime Especial (TARE) à Secretaria da Economia de Goiás. O TARE estabelece condições especiais para o cumprimento de obrigações tributárias estaduais e pode prever benefícios fiscais ou formas específicas de tributação, conforme a legislação vigente.",
-          "legal": "",
-          "basicUnit": "",
-          "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Consultar Regimes Especiais",
-          "description": "Este serviço permite consultar os Regimes Especiais celebrados pela Secretaria da Economia de Goiás por meio de: -Termo de Acordo de Regime Especial (TARE) -Termo de Enquadramento (TE) A consulta pode ser feita de forma rápida e online",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Política Tributária",
-          "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Cancelamento de Termo de Acordo de Regime Especial (TARE) Consultar CNAE Fiscal",
-          "description": "Este serviço permite ao contribuinte ou ao seu representante legal solicitar o cancelamento de um Termo de Acordo de Regime Especial (TARE) ativo. A Secretaria da Economia analisa o pedido com base no requerimento e na documentação apresentada.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Política Tributária",
-          "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Emitir Nota Fiscal Avulsa",
-          "description": "É o serviço que permite a emissão de nota fiscal avulsa de mercadorias",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de Informações Econômico-Fiscais / Coordenação de Documentos Fiscais",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Consultar Nota Fiscal Eletrônica pela Chave de Acesso",
-          "description": "Serviço que permite a consulta, por parte do contribuinte, de uma Nota Fiscal Avulsa Eletrônica (NFA-e),por meio da chave de acesso",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de Informações Econômico Fiscais",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Consultar Minhas Notas Fiscais Eletrônicas",
-          "description": "É o serviço que permite consultar relatórios de Notas Fiscais por CPF",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+          "basicUnit": "Superintendência de Recuperação de Créditos",
+          "complementaryUnit": "",
           "organizations": [
             "ECONOMIA"
           ],
@@ -110842,11 +110647,86 @@
           "children": []
         },
         {
-          "name": "Consultar Débitos Tributários por CPF",
-          "description": "É o serviço que permite ao usuário, pessoa física, consultar a relação de seus débitos ributários, tais como ITCD, ICMS e IPVA possibilitando a emissão do Documento de Arrecadação da Receita Estadual (DARE) para o pagamento integral dos débitos identificados",
+          "name": "Consultar Minhas Notas Fiscais Eletrônicas",
+          "description": "É o serviço que permite consultar relatórios de Notas Fiscais por CPF",
           "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Recuperação de Créditos",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Consultar Nota Fiscal Eletrônica pela Chave de Acesso",
+          "description": "Serviço que permite a consulta, por parte do contribuinte, de uma Nota Fiscal Avulsa Eletrônica (NFA-e),por meio da chave de acesso",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Consultar Regimes Especiais",
+          "description": "Este serviço permite consultar os Regimes Especiais celebrados pela Secretaria da Economia de Goiás por meio de: -Termo de Acordo de Regime Especial (TARE) -Termo de Enquadramento (TE) A consulta pode ser feita de forma rápida e online",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Política Tributária",
+          "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Consultar Termo de Credenciamento da Receita Estadual de Goiás",
+          "description": "Este serviço permite consultar a situação e os dados do Termo de Credenciamento concedido pela Secretaria da Economia a produtores rurais e a extratores autorizados de substâncias minerais ou fósseis.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Fiscalização Regionalizada",
+          "complementaryUnit": "Superintendência de Fiscalização Regionalizada",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Credenciar-se no Domicílio Tributário Eletrônico (DTE)",
+          "description": "Este serviço permite realizar o credenciamento para acessar o Domicílio Tributário Eletrônico (DTE), ambiente digital da Secretaria da Economia do Estado de Goiás utilizado para receber, consultar e armazenar notificações, intimações, avisos e demais comunicações oficiais com validade legal.",
+          "legal": "",
+          "basicUnit": "",
           "complementaryUnit": "",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Emitir Nota Fiscal Avulsa",
+          "description": "É o serviço que permite a emissão de nota fiscal avulsa de mercadorias",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de Informações Econômico-Fiscais / Coordenação de Documentos Fiscais",
           "organizations": [
             "ECONOMIA"
           ],
@@ -110887,21 +110767,6 @@
           "children": []
         },
         {
-          "name": "Solicitar Cadastro de Substituto Tributário em Goiás",
-          "description": "Este serviço permite que empresas de outros estados se cadastrem como Substituto Tributário no Cadastro de Contribuintes do Estado de Goiás (CCE). Com esse cadastro, a empresa pode recolher o ICMS devido nas operações sujeitas ao regime de substituição tributária destinadas a Goiás.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de substituição tributária",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
           "name": "Obter Baixa de Inscrição Cadastral",
           "description": "É o evento cadastral por meio do qual o contribuinte comunica o encerramento de todas as atividades do estabelecimento ou a permanência apenas com atividades de prestador de serviços, não sujeito à incidência do ICMS. Este evento pode ser realizado em inscrições Ativas, Suspensas ou Paralisadas",
           "legal": "Carta de serviços/Economia",
@@ -110921,21 +110786,6 @@
           "description": "É o cadastro para que o contador/contribuinte/gráfica obtenha liberação de Acesso Restrito ao Portal de Aplicações da Secretaria da Economia. Esse cadastro possibilita que os usuários tenham acesso aos serviços ofertados de forma online pela Pasta, bem como realizem consultas de seu interesse",
           "legal": "Carta de serviços/Economia",
           "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Cópia / Vistas de Processo Administrativo Tributário e Não Tributário",
-          "description": "Este serviço possibilita o fornecimento de cópias ou vistas de Processo Administrativo Tributário e Não Tributário sob a guarda da Superintendência de Recuperação de Créditos ou que esteja tramitando no CAT",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Recuperação de Créditos",
           "complementaryUnit": "",
           "organizations": [
             "ECONOMIA"
@@ -110977,11 +110827,161 @@
           "children": []
         },
         {
+          "name": "Realizar Cadastro no Portal de Aplicações da Secretaria da Economia",
+          "description": "Este serviço permite que pessoas físicas e jurídicas realizem o pré-cadastro no Portal de Aplicações da Secretaria da Economia do Estado de Goiás. O pré-cadastro é obrigatório para acessar os sistemas eletrônicos da Secretaria e realizar solicitações, declarações e consultas relacionadas a tributos estaduais, importações, procurações, entre outros serviços",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "",
+          "complementaryUnit": "Suporte Técnico",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Recorrer do Índice de Participação dos Municípios (IPM) Provisório",
+          "description": "Este serviço permite que o município peça a revisão do Índice de Participação dos Municípios (IPM) provisório. O IPM é o índice que define quanto cada município receberá da arrecadação do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). Você pode apresentar um recurso administrativo, que é um pedido formal de reanálise dos dados usados no cálculo do índice. O Conselho Deliberativo dos Índices de Participação dos Municípios (COÍNDICE) publica o IPM provisório.",
+          "legal": "",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de Apoio do COÍNDICE",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Cadastro de Substituto Tributário em Goiás",
+          "description": "Este serviço permite que empresas de outros estados se cadastrem como Substituto Tributário no Cadastro de Contribuintes do Estado de Goiás (CCE). Com esse cadastro, a empresa pode recolher o ICMS devido nas operações sujeitas ao regime de substituição tributária destinadas a Goiás.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de substituição tributária",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Cancelamento de Termo de Acordo de Regime Especial (TARE) Consultar CNAE Fiscal",
+          "description": "Este serviço permite ao contribuinte ou ao seu representante legal solicitar o cancelamento de um Termo de Acordo de Regime Especial (TARE) ativo. A Secretaria da Economia analisa o pedido com base no requerimento e na documentação apresentada.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Política Tributária",
+          "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Cópia / Vistas de Processo Administrativo Tributário e Não Tributário",
+          "description": "Este serviço possibilita o fornecimento de cópias ou vistas de Processo Administrativo Tributário e Não Tributário sob a guarda da Superintendência de Recuperação de Créditos ou que esteja tramitando no CAT",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Recuperação de Créditos",
+          "complementaryUnit": "",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar credenciamento de usuário para acesso ao COÍNDICE/ICMS",
+          "description": "Este serviço permite credenciar servidores públicos para acessar os dados do COÍNDICE/ICMS, utilizados no cálculo do Índice de Participação dos Municípios nas receitas do ICMS. Cada município pode credenciar até dois usuários, conforme a Instrução Normativa nº 559/2002.",
+          "legal": "",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de Apoio do COÍNDICE",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Inclusão, Alteração ou Exclusão de BEBIDAS na Pauta de Valores Referenciais do ICMS",
+          "description": "É o serviço que permite ao usuário ter acesso a valores referenciais para operações com determinados produtos. É possível solicitar a avaliação de inclusão / alteração / exclusão de algum item na Pauta Fiscal A definição dos valores é feita pela Secretaria da Economia através de pesquisa periódica de preços, conforme autorização do Art. 18 do Regulamento do Código Tributário do Estado de Goiás – RCTE",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "",
+          "complementaryUnit": "Pesquisa Mercadológica",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Inclusão, Alteração ou Exclusão de DIVERSOS na Pauta de Valores Referenciais do ICMS",
+          "description": "Você pode solicitar atualização dos valores de referência do ICMS aplicados a determinados produtos e solicitar a inclusão, alteração ou exclusão de itens na Pauta Fiscal. Esses valores são definidos pela Secretaria da Economia, com base em pesquisas periódicas de preços, conforme a legislação estadual",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "",
+          "complementaryUnit": "Pesquisa Mercadológica",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
           "name": "Solicitar Reativação de Inscrição Estadual - Economia",
           "description": "O serviço de reativação de inscrição estadual permite que empresas, produtores ou extratores voltem a usar sua inscrição no cadastro de contribuintes do estado de Goiás quando ela estiver paralisada temporariamente, suspensa ou baixada. Com a reativação, o contribuinte pode retomar suas atividades normalmente",
           "legal": "Carta de serviços/Economia",
           "basicUnit": "Superintendência de Informações Fiscais",
           "complementaryUnit": "Gerência de Informações Econômico-Fiscais",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Regime Especial de Tributação (TARE)",
+          "description": "Este serviço permite que sua empresa solicite um Termo de Acordo de Regime Especial (TARE) à Secretaria da Economia de Goiás. O TARE estabelece condições especiais para o cumprimento de obrigações tributárias estaduais e pode prever benefícios fiscais ou formas específicas de tributação, conforme a legislação vigente.",
+          "legal": "",
+          "basicUnit": "",
+          "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Retificação no Sistema de Captação e Auditoria dos Anexos de Combustíveis - SCANC",
+          "description": "Serviço que permite ao usuário solicitar a retificação dos anexos no Sistema de Captação e Auditoriados Anexos de Combustíveis (SCANC), com o objetivo de regularizar informações conforme os Convênios ICMS 199/22 e 15/23",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "",
+          "complementaryUnit": "Gerência de Combustíveis (GECOM)",
           "organizations": [
             "ECONOMIA"
           ],
@@ -111012,6 +111012,21 @@
           "legal": "Carta de serviços/Economia",
           "basicUnit": "",
           "complementaryUnit": "Gerência de Informações Econômico Fiscais da Superintendência de Informações Fiscais",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Cadastrar Nota Fiscal de Veículo Importado",
+          "description": "Este serviço permite ao interessado solicitar o cadastro da nota fiscal de veículo importado no sistema da Secretaria da Economia, para fins de registro e tributação do Imposto sobre a Propriedade de Veículos Automotores (IPVA). Se você tem um veículo importado, use este serviço para cadastrar a nota fiscal no sistema da Secretaria da Economia. O cadastro registra o veículo na base de dados do Estado de Goiás e permite calcular o IPVA corretamente.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Controle e Fiscalização",
+          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
           "organizations": [
             "ECONOMIA"
           ],
@@ -111157,21 +111172,6 @@
           "children": []
         },
         {
-          "name": "Solicitar Substituição de Declarante do ITCD",
-          "description": "Este serviço permite alterar o responsável pela declaração do ITCD quando houver impedimento, desistência ou mudança de representação legal.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Controle e Fiscalização",
-          "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
           "name": "Emitir Certidão Negativa de Débitos - Secretaria da Economia de Goiás",
           "description": "É o serviço que permite emitir a Certidão Negativa de Débitos Estaduais pela Secretaria da Economia de Goiás. Esse documento comprova que a pessoa ou empresa não possui débitos ou pendências tributárias com o Estado",
           "legal": "Carta de serviços/Economia",
@@ -111262,21 +111262,6 @@
           "children": []
         },
         {
-          "name": "Solicitar Alteração de DARE ou GNRE Preenchido Incorretamente",
-          "description": "Este serviço permite corrigir informações preenchidas incorretamente em um Documento de Arrecadação de Receitas Estaduais (DARE) ou em uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) já pagos, mediante solicitação e apresentação da documentação exigida, observados os critérios e limites estabelecidos pela legislação vigente.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Informações Fiscais",
-          "complementaryUnit": "Gerência de Controle da Arrecadação",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
           "name": "Obter Relatório de Notas Fiscais Produtor Rural",
           "description": "É a emissão da relação de todas as Notas Fiscais emitidas pela Delegacia Fiscal em nome do proprietário",
           "legal": "Carta de serviços/Economia",
@@ -111322,6 +111307,36 @@
           "children": []
         },
         {
+          "name": "Regularizar IPVA de veículo registrado em outro estado",
+          "description": "Se seu veículo está registrado em outro estado, mas deveria estar registrado no estado de Goiás, você pode pedir a regularização do IPVA por meio de denúncia espontânea. Esse pedido é feito por denúncia espontânea. Denúncia espontânea é quando você comunica voluntariamente uma irregularidade ao fisco antes de qualquer ação de fiscalização, para regularizar sua situação tributária. proprietário do veículo; ex-proprietário, quando a irregularidade ocorreu no período em que o veículo estava em seu nome; procurador ou representante legal, com autorização. Para o IPVA, a lei considera contribuinte quem é proprietário do veículo em 1º de janeiro de cada ano.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Controle e Fiscalização",
+          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Responder Notificação do IPVA",
+          "description": "Se você recebeu uma notificação do IPVA, use este serviço para enviar documentos, informações ou esclarecimentos solicitados pela Gerência do IPVA (GIPVA). A notificação fiscal é um documento enviado pela Secretaria da Economia para solicitar informações ou documentos necessários à fiscalização do IPVA.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Controle e Fiscalização",
+          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
           "name": "Retificar Declaração de ITCD",
           "description": "Você pode corrigir sua Declaração de ITCD (Imposto sobre Transmissão Causa Mortis e Doação) a qualquer momento, se encontrar algum erro ou precisar fazer alguma alteração. Você pode corrigir a Declaração nos seguintes casos: -Algum dado foi preenchido errado; -A partilha dos bens foi alterada; -Precisa incluir ou excluir herdeiros ou beneficiários; -Precisa incluir ou excluir bens; -Faltaram documentos ou informações importantes. Mesmo sendo possível corrigir a qualquer momento, a maneira de corrigir e os efeitos da correção vão depender de dois fatores: - Tipo de informação a ser corrigida. O fato gerador (acontecimento que obriga o pagamento do imposto) não pode ser alterado. - Etapa da Declaração no sistema. O sistema pode limitar o que pode ser alterado, dependendo do andamento do processo.",
           "legal": "Carta de serviços/Economia",
@@ -111352,11 +111367,56 @@
           "children": []
         },
         {
+          "name": "Solicitar Alteração de DARE ou GNRE Preenchido Incorretamente",
+          "description": "Este serviço permite corrigir informações preenchidas incorretamente em um Documento de Arrecadação de Receitas Estaduais (DARE) ou em uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) já pagos, mediante solicitação e apresentação da documentação exigida, observados os critérios e limites estabelecidos pela legislação vigente.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Informações Fiscais",
+          "complementaryUnit": "Gerência de Controle da Arrecadação",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
           "name": "Solicitar análise de prescrição administrativa",
           "description": "O serviço permite que o contribuinte ou seu representante, peça à Secretaria a verificação da prescrição administrativa - isto é, se passou o prazo que a Administração tem para rever atos ou aplicar penalidades",
           "legal": "Carta de serviços/Economia",
           "basicUnit": "Superintendência de Recuperação de Créditos - SRC",
           "complementaryUnit": "",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Aplicação do Desconto do IPVA Quando Não Aplicado Automaticamente",
+          "description": "É o serviço que permite a você, proprietário de veículo, solicitar a aplicação do desconto de 50% no Imposto sobre a Propriedade de Veículos Automotores (IPVA) quando não aplicado automaticamente. Você deve usar este serviço se o sistema não conceder o desconto no cálculo do imposto. Você tem direito ao desconto se possuir: motocicleta, ciclomotor, triciclo ou motoneta de até 125 cilindradas, com até seis anos de uso; ou veículo de passeio 1.0 (até 1000 cilindradas), conforme a legislação O veículo deve: estar com o licenciamento em dia. Você não pode: ter multas de trânsito nos últimos 12 meses; ter se envolvido em acidentes nesse período; ter débitos com o Estado (Cadin).",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "Superintendência de Controle e Fiscalização",
+          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Solicitar Atendimento para Outros Assuntos do ITCD",
+          "description": "Este serviço permite que você envie pedidos sobre o ITCD (Imposto sobre Herança e Doação) quando os outros serviços do grupo não atenderem à sua necessidade. Use este canal para tratar situações específicas, como solicitar o reconhecimento de pagamento já realizado, verificar a existência de declaração, solicitar comprovantes e esclarecer dúvidas sobre a aplicação da legislação ao seu caso.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "",
+          "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
           "organizations": [
             "ECONOMIA"
           ],
@@ -111384,36 +111444,6 @@
         {
           "name": "Solicitar Autorregularização de ITCD",
           "description": "Se você recebeu um comunicado da Secretaria da Economia de Goiás, é porque foram encontradas diferenças entre os valores que você declarou no ITCD (Imposto sobre Transmissão Causa Mortis e Doação) e os valores da Tabela de Referência do Estado. Esse serviço permite que você corrija essas diferenças e regularize sua declaração",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "",
-          "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Restituição do Imposto sobre Herança e Doação - ITCD",
-          "description": "Você pode pedir a devolução total ou parcial do valor pago de ITCD se comprovar que o imposto foi cobrado de forma indevida Em quais casos é possível pedir a restituição? - Quando a doação ou a separação judicial que geraria o imposto não aconteceu. - Quando houver decisão judicial definitiva (transitada em julgado) que determine a devolução. - Quando, após o pagamento, for reconhecida a isenção (dispensa de pagar) ou a não-incidência (o imposto não se aplica). - Quando for identificado erro na cobrança ou no valor pago. - Quando a pessoa dada como falecida reaparecer, em caso de sucessão provisória.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Controle e Fiscalização",
-          "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Solicitar Atendimento para Outros Assuntos do ITCD",
-          "description": "Este serviço permite que você envie pedidos sobre o ITCD (Imposto sobre Herança e Doação) quando os outros serviços do grupo não atenderem à sua necessidade. Use este canal para tratar situações específicas, como solicitar o reconhecimento de pagamento já realizado, verificar a existência de declaração, solicitar comprovantes e esclarecer dúvidas sobre a aplicação da legislação ao seu caso.",
           "legal": "Carta de serviços/Economia",
           "basicUnit": "",
           "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
@@ -111712,21 +111742,6 @@
           "children": []
         },
         {
-          "name": "Cadastrar Nota Fiscal de Veículo Importado",
-          "description": "Este serviço permite ao interessado solicitar o cadastro da nota fiscal de veículo importado no sistema da Secretaria da Economia, para fins de registro e tributação do Imposto sobre a Propriedade de Veículos Automotores (IPVA). Se você tem um veículo importado, use este serviço para cadastrar a nota fiscal no sistema da Secretaria da Economia. O cadastro registra o veículo na base de dados do Estado de Goiás e permite calcular o IPVA corretamente.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Controle e Fiscalização",
-          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
           "name": "Solicitar Regularização de Substituição Tributária ou Isenção",
           "description": "Este serviço é para você que recebeu um comunicado da Secretaria da Economia informando erro ou problema no uso da Substituição Tributária (ST) ou da Isenção de impostos estaduais",
           "legal": "Carta de serviços/Economia",
@@ -111832,11 +111847,11 @@
           "children": []
         },
         {
-          "name": "Responder Notificação do IPVA",
-          "description": "Se você recebeu uma notificação do IPVA, use este serviço para enviar documentos, informações ou esclarecimentos solicitados pela Gerência do IPVA (GIPVA). A notificação fiscal é um documento enviado pela Secretaria da Economia para solicitar informações ou documentos necessários à fiscalização do IPVA.",
+          "name": "Solicitar Restituição do Imposto sobre Herança e Doação - ITCD",
+          "description": "Você pode pedir a devolução total ou parcial do valor pago de ITCD se comprovar que o imposto foi cobrado de forma indevida Em quais casos é possível pedir a restituição? - Quando a doação ou a separação judicial que geraria o imposto não aconteceu. - Quando houver decisão judicial definitiva (transitada em julgado) que determine a devolução. - Quando, após o pagamento, for reconhecida a isenção (dispensa de pagar) ou a não-incidência (o imposto não se aplica). - Quando for identificado erro na cobrança ou no valor pago. - Quando a pessoa dada como falecida reaparecer, em caso de sucessão provisória.",
           "legal": "Carta de serviços/Economia",
           "basicUnit": "Superintendência de Controle e Fiscalização",
-          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+          "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
           "organizations": [
             "ECONOMIA"
           ],
@@ -111847,11 +111862,11 @@
           "children": []
         },
         {
-          "name": "Solicitar Aplicação do Desconto do IPVA Quando Não Aplicado Automaticamente",
-          "description": "É o serviço que permite a você, proprietário de veículo, solicitar a aplicação do desconto de 50% no Imposto sobre a Propriedade de Veículos Automotores (IPVA) quando não aplicado automaticamente. Você deve usar este serviço se o sistema não conceder o desconto no cálculo do imposto. Você tem direito ao desconto se possuir: motocicleta, ciclomotor, triciclo ou motoneta de até 125 cilindradas, com até seis anos de uso; ou veículo de passeio 1.0 (até 1000 cilindradas), conforme a legislação O veículo deve: estar com o licenciamento em dia. Você não pode: ter multas de trânsito nos últimos 12 meses; ter se envolvido em acidentes nesse período; ter débitos com o Estado (Cadin).",
+          "name": "Solicitar Substituição de Declarante do ITCD",
+          "description": "Este serviço permite alterar o responsável pela declaração do ITCD quando houver impedimento, desistência ou mudança de representação legal.",
           "legal": "Carta de serviços/Economia",
           "basicUnit": "Superintendência de Controle e Fiscalização",
-          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+          "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
           "organizations": [
             "ECONOMIA"
           ],
@@ -111867,21 +111882,6 @@
           "legal": "Carta de serviços/Economia",
           "basicUnit": "Superintendência de Recuperação de Créditos - SRC",
           "complementaryUnit": "",
-          "organizations": [
-            "ECONOMIA"
-          ],
-          "source": "Carta de Serviço",
-          "situation": "Identificado",
-          "link": "",
-          "type": "service",
-          "children": []
-        },
-        {
-          "name": "Regularizar IPVA de veículo registrado em outro estado",
-          "description": "Se seu veículo está registrado em outro estado, mas deveria estar registrado no estado de Goiás, você pode pedir a regularização do IPVA por meio de denúncia espontânea. Esse pedido é feito por denúncia espontânea. Denúncia espontânea é quando você comunica voluntariamente uma irregularidade ao fisco antes de qualquer ação de fiscalização, para regularizar sua situação tributária. proprietário do veículo; ex-proprietário, quando a irregularidade ocorreu no período em que o veículo estava em seu nome; procurador ou representante legal, com autorização. Para o IPVA, a lei considera contribuinte quem é proprietário do veículo em 1º de janeiro de cada ano.",
-          "legal": "Carta de serviços/Economia",
-          "basicUnit": "Superintendência de Controle e Fiscalização",
-          "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
           "organizations": [
             "ECONOMIA"
           ],
@@ -112083,22 +112083,22 @@
               "type": "process",
               "children": [
                 {
-                  "name": "Gerir Legislação Tributária",
-                  "description": "",
+                  "name": "Consultar Valor de Imóvel com Base na Tabela FIPE para Cálculo do ITCD",
+                  "description": "Este serviço permite que você consulte os valores médios de mercado de imóveis urbanos e rurais, definidos com base na Tabela FIPE, para fins de cálculo do Imposto sobre Transmissão Causa Mortis e Doação (ITCD) no estado de Goiás. A consulta oferece transparência, padronização e previsibilidade na apuração do imposto",
                   "legal": "CV/Economia",
                   "basicUnit": "",
-                  "complementaryUnit": "",
+                  "complementaryUnit": "Gerência do ITCD - Imposto sobre a Transmissão Causa Mortis e Doação de Bens e Direitos",
                   "organizations": [
                     "ECONOMIA"
                   ],
-                  "source": "Arquitetura de Processo",
+                  "source": "Carta de Serviço",
                   "situation": "Identificado",
                   "link": "",
-                  "type": "workProcess",
+                  "type": "service",
                   "children": []
                 },
                 {
-                  "name": "Prover assessoria tributária",
+                  "name": "Gerir Legislação Tributária",
                   "description": "",
                   "legal": "CV/Economia",
                   "basicUnit": "",
@@ -112128,18 +112128,18 @@
                   "children": []
                 },
                 {
-                  "name": "Consultar Valor de Imóvel com Base na Tabela FIPE para Cálculo do ITCD",
-                  "description": "Este serviço permite que você consulte os valores médios de mercado de imóveis urbanos e rurais, definidos com base na Tabela FIPE, para fins de cálculo do Imposto sobre Transmissão Causa Mortis e Doação (ITCD) no estado de Goiás. A consulta oferece transparência, padronização e previsibilidade na apuração do imposto",
+                  "name": "Prover assessoria tributária",
+                  "description": "",
                   "legal": "CV/Economia",
                   "basicUnit": "",
-                  "complementaryUnit": "Gerência do ITCD - Imposto sobre a Transmissão Causa Mortis e Doação de Bens e Direitos",
+                  "complementaryUnit": "",
                   "organizations": [
                     "ECONOMIA"
                   ],
-                  "source": "Carta de Serviço",
+                  "source": "Arquitetura de Processo",
                   "situation": "Identificado",
                   "link": "",
-                  "type": "service",
+                  "type": "workProcess",
                   "children": []
                 }
               ]
@@ -112220,36 +112220,6 @@
                   "children": []
                 },
                 {
-                  "name": "Realizar Cadastro no Portal de Aplicações da Secretaria da Economia",
-                  "description": "Este serviço permite que pessoas físicas e jurídicas realizem o pré-cadastro no Portal de Aplicações da Secretaria da Economia do Estado de Goiás. O pré-cadastro é obrigatório para acessar os sistemas eletrônicos da Secretaria e realizar solicitações, declarações e consultas relacionadas a tributos estaduais, importações, procurações, entre outros serviços",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "",
-                  "complementaryUnit": "Suporte Técnico",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Credenciar-se no Domicílio Tributário Eletrônico (DTE)",
-                  "description": "Este serviço permite realizar o credenciamento para acessar o Domicílio Tributário Eletrônico (DTE), ambiente digital da Secretaria da Economia do Estado de Goiás utilizado para receber, consultar e armazenar notificações, intimações, avisos e demais comunicações oficiais com validade legal.",
-                  "legal": "",
-                  "basicUnit": "",
-                  "complementaryUnit": "",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
                   "name": "Cadastrar Procurador no Domicílio Tributário Eletrônico (DTE)",
                   "description": "Este serviço permite cadastrar um procurador no Domicílio Tributário Eletrônico (DTE) para acessar a Caixa Postal Eletrônica (CPE) e consultar as comunicações oficiais da Secretaria da Economia, conforme os poderes concedidos.",
                   "legal": "",
@@ -112265,176 +112235,11 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar credenciamento de usuário para acesso ao COÍNDICE/ICMS",
-                  "description": "Este serviço permite credenciar servidores públicos para acessar os dados do COÍNDICE/ICMS, utilizados no cálculo do Índice de Participação dos Municípios nas receitas do ICMS. Cada município pode credenciar até dois usuários, conforme a Instrução Normativa nº 559/2002.",
-                  "legal": "",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de Apoio do COÍNDICE",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Recorrer do Índice de Participação dos Municípios (IPM) Provisório",
-                  "description": "Este serviço permite que o município peça a revisão do Índice de Participação dos Municípios (IPM) provisório. O IPM é o índice que define quanto cada município receberá da arrecadação do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). Você pode apresentar um recurso administrativo, que é um pedido formal de reanálise dos dados usados no cálculo do índice. O Conselho Deliberativo dos Índices de Participação dos Municípios (COÍNDICE) publica o IPM provisório.",
-                  "legal": "",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de Apoio do COÍNDICE",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Consultar Termo de Credenciamento da Receita Estadual de Goiás",
-                  "description": "Este serviço permite consultar a situação e os dados do Termo de Credenciamento concedido pela Secretaria da Economia a produtores rurais e a extratores autorizados de substâncias minerais ou fósseis.",
+                  "name": "Consultar Débitos Tributários por CPF",
+                  "description": "É o serviço que permite ao usuário, pessoa física, consultar a relação de seus débitos ributários, tais como ITCD, ICMS e IPVA possibilitando a emissão do Documento de Arrecadação da Receita Estadual (DARE) para o pagamento integral dos débitos identificados",
                   "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Fiscalização Regionalizada",
-                  "complementaryUnit": "Superintendência de Fiscalização Regionalizada",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Inclusão, Alteração ou Exclusão de BEBIDAS na Pauta de Valores Referenciais do ICMS",
-                  "description": "É o serviço que permite ao usuário ter acesso a valores referenciais para operações com determinados produtos. É possível solicitar a avaliação de inclusão / alteração / exclusão de algum item na Pauta Fiscal A definição dos valores é feita pela Secretaria da Economia através de pesquisa periódica de preços, conforme autorização do Art. 18 do Regulamento do Código Tributário do Estado de Goiás – RCTE",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "",
-                  "complementaryUnit": "Pesquisa Mercadológica",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Retificação no Sistema de Captação e Auditoria dos Anexos de Combustíveis - SCANC",
-                  "description": "Serviço que permite ao usuário solicitar a retificação dos anexos no Sistema de Captação e Auditoriados Anexos de Combustíveis (SCANC), com o objetivo de regularizar informações conforme os Convênios ICMS 199/22 e 15/23",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "",
-                  "complementaryUnit": "Gerência de Combustíveis (GECOM)",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Inclusão, Alteração ou Exclusão de DIVERSOS na Pauta de Valores Referenciais do ICMS",
-                  "description": "Você pode solicitar atualização dos valores de referência do ICMS aplicados a determinados produtos e solicitar a inclusão, alteração ou exclusão de itens na Pauta Fiscal. Esses valores são definidos pela Secretaria da Economia, com base em pesquisas periódicas de preços, conforme a legislação estadual",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "",
-                  "complementaryUnit": "Pesquisa Mercadológica",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Regime Especial de Tributação (TARE)",
-                  "description": "Este serviço permite que sua empresa solicite um Termo de Acordo de Regime Especial (TARE) à Secretaria da Economia de Goiás. O TARE estabelece condições especiais para o cumprimento de obrigações tributárias estaduais e pode prever benefícios fiscais ou formas específicas de tributação, conforme a legislação vigente.",
-                  "legal": "",
-                  "basicUnit": "",
-                  "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Consultar Regimes Especiais",
-                  "description": "Este serviço permite consultar os Regimes Especiais celebrados pela Secretaria da Economia de Goiás por meio de: -Termo de Acordo de Regime Especial (TARE) -Termo de Enquadramento (TE) A consulta pode ser feita de forma rápida e online",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Política Tributária",
-                  "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Cancelamento de Termo de Acordo de Regime Especial (TARE) Consultar CNAE Fiscal",
-                  "description": "Este serviço permite ao contribuinte ou ao seu representante legal solicitar o cancelamento de um Termo de Acordo de Regime Especial (TARE) ativo. A Secretaria da Economia analisa o pedido com base no requerimento e na documentação apresentada.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Política Tributária",
-                  "complementaryUnit": "Gerência de Regimes Especiais - GERE",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Emitir Nota Fiscal Avulsa",
-                  "description": "É o serviço que permite a emissão de nota fiscal avulsa de mercadorias",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de Informações Econômico-Fiscais / Coordenação de Documentos Fiscais",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Consultar Nota Fiscal Eletrônica pela Chave de Acesso",
-                  "description": "Serviço que permite a consulta, por parte do contribuinte, de uma Nota Fiscal Avulsa Eletrônica (NFA-e),por meio da chave de acesso",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de Informações Econômico Fiscais",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Consultar Minhas Notas Fiscais Eletrônicas",
-                  "description": "É o serviço que permite consultar relatórios de Notas Fiscais por CPF",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+                  "basicUnit": "Superintendência de Recuperação de Créditos",
+                  "complementaryUnit": "",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -112460,11 +112265,86 @@
                   "children": []
                 },
                 {
-                  "name": "Consultar Débitos Tributários por CPF",
-                  "description": "É o serviço que permite ao usuário, pessoa física, consultar a relação de seus débitos ributários, tais como ITCD, ICMS e IPVA possibilitando a emissão do Documento de Arrecadação da Receita Estadual (DARE) para o pagamento integral dos débitos identificados",
+                  "name": "Consultar Minhas Notas Fiscais Eletrônicas",
+                  "description": "É o serviço que permite consultar relatórios de Notas Fiscais por CPF",
                   "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Recuperação de Créditos",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Consultar Nota Fiscal Eletrônica pela Chave de Acesso",
+                  "description": "Serviço que permite a consulta, por parte do contribuinte, de uma Nota Fiscal Avulsa Eletrônica (NFA-e),por meio da chave de acesso",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de Informações Econômico Fiscais",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Consultar Regimes Especiais",
+                  "description": "Este serviço permite consultar os Regimes Especiais celebrados pela Secretaria da Economia de Goiás por meio de: -Termo de Acordo de Regime Especial (TARE) -Termo de Enquadramento (TE) A consulta pode ser feita de forma rápida e online",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Política Tributária",
+                  "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Consultar Termo de Credenciamento da Receita Estadual de Goiás",
+                  "description": "Este serviço permite consultar a situação e os dados do Termo de Credenciamento concedido pela Secretaria da Economia a produtores rurais e a extratores autorizados de substâncias minerais ou fósseis.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Fiscalização Regionalizada",
+                  "complementaryUnit": "Superintendência de Fiscalização Regionalizada",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Credenciar-se no Domicílio Tributário Eletrônico (DTE)",
+                  "description": "Este serviço permite realizar o credenciamento para acessar o Domicílio Tributário Eletrônico (DTE), ambiente digital da Secretaria da Economia do Estado de Goiás utilizado para receber, consultar e armazenar notificações, intimações, avisos e demais comunicações oficiais com validade legal.",
+                  "legal": "",
+                  "basicUnit": "",
                   "complementaryUnit": "",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Emitir Nota Fiscal Avulsa",
+                  "description": "É o serviço que permite a emissão de nota fiscal avulsa de mercadorias",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de Informações Econômico-Fiscais / Coordenação de Documentos Fiscais",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -112505,21 +112385,6 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar Cadastro de Substituto Tributário em Goiás",
-                  "description": "Este serviço permite que empresas de outros estados se cadastrem como Substituto Tributário no Cadastro de Contribuintes do Estado de Goiás (CCE). Com esse cadastro, a empresa pode recolher o ICMS devido nas operações sujeitas ao regime de substituição tributária destinadas a Goiás.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de substituição tributária",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
                   "name": "Obter Baixa de Inscrição Cadastral",
                   "description": "É o evento cadastral por meio do qual o contribuinte comunica o encerramento de todas as atividades do estabelecimento ou a permanência apenas com atividades de prestador de serviços, não sujeito à incidência do ICMS. Este evento pode ser realizado em inscrições Ativas, Suspensas ou Paralisadas",
                   "legal": "Carta de serviços/Economia",
@@ -112539,21 +112404,6 @@
                   "description": "É o cadastro para que o contador/contribuinte/gráfica obtenha liberação de Acesso Restrito ao Portal de Aplicações da Secretaria da Economia. Esse cadastro possibilita que os usuários tenham acesso aos serviços ofertados de forma online pela Pasta, bem como realizem consultas de seu interesse",
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Cópia / Vistas de Processo Administrativo Tributário e Não Tributário",
-                  "description": "Este serviço possibilita o fornecimento de cópias ou vistas de Processo Administrativo Tributário e Não Tributário sob a guarda da Superintendência de Recuperação de Créditos ou que esteja tramitando no CAT",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Recuperação de Créditos",
                   "complementaryUnit": "",
                   "organizations": [
                     "ECONOMIA"
@@ -112595,11 +112445,161 @@
                   "children": []
                 },
                 {
+                  "name": "Realizar Cadastro no Portal de Aplicações da Secretaria da Economia",
+                  "description": "Este serviço permite que pessoas físicas e jurídicas realizem o pré-cadastro no Portal de Aplicações da Secretaria da Economia do Estado de Goiás. O pré-cadastro é obrigatório para acessar os sistemas eletrônicos da Secretaria e realizar solicitações, declarações e consultas relacionadas a tributos estaduais, importações, procurações, entre outros serviços",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "",
+                  "complementaryUnit": "Suporte Técnico",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Recorrer do Índice de Participação dos Municípios (IPM) Provisório",
+                  "description": "Este serviço permite que o município peça a revisão do Índice de Participação dos Municípios (IPM) provisório. O IPM é o índice que define quanto cada município receberá da arrecadação do Imposto sobre Circulação de Mercadorias e Serviços (ICMS). Você pode apresentar um recurso administrativo, que é um pedido formal de reanálise dos dados usados no cálculo do índice. O Conselho Deliberativo dos Índices de Participação dos Municípios (COÍNDICE) publica o IPM provisório.",
+                  "legal": "",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de Apoio do COÍNDICE",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Cadastro de Substituto Tributário em Goiás",
+                  "description": "Este serviço permite que empresas de outros estados se cadastrem como Substituto Tributário no Cadastro de Contribuintes do Estado de Goiás (CCE). Com esse cadastro, a empresa pode recolher o ICMS devido nas operações sujeitas ao regime de substituição tributária destinadas a Goiás.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de substituição tributária",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Cancelamento de Termo de Acordo de Regime Especial (TARE) Consultar CNAE Fiscal",
+                  "description": "Este serviço permite ao contribuinte ou ao seu representante legal solicitar o cancelamento de um Termo de Acordo de Regime Especial (TARE) ativo. A Secretaria da Economia analisa o pedido com base no requerimento e na documentação apresentada.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Política Tributária",
+                  "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Cópia / Vistas de Processo Administrativo Tributário e Não Tributário",
+                  "description": "Este serviço possibilita o fornecimento de cópias ou vistas de Processo Administrativo Tributário e Não Tributário sob a guarda da Superintendência de Recuperação de Créditos ou que esteja tramitando no CAT",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Recuperação de Créditos",
+                  "complementaryUnit": "",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar credenciamento de usuário para acesso ao COÍNDICE/ICMS",
+                  "description": "Este serviço permite credenciar servidores públicos para acessar os dados do COÍNDICE/ICMS, utilizados no cálculo do Índice de Participação dos Municípios nas receitas do ICMS. Cada município pode credenciar até dois usuários, conforme a Instrução Normativa nº 559/2002.",
+                  "legal": "",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de Apoio do COÍNDICE",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Inclusão, Alteração ou Exclusão de BEBIDAS na Pauta de Valores Referenciais do ICMS",
+                  "description": "É o serviço que permite ao usuário ter acesso a valores referenciais para operações com determinados produtos. É possível solicitar a avaliação de inclusão / alteração / exclusão de algum item na Pauta Fiscal A definição dos valores é feita pela Secretaria da Economia através de pesquisa periódica de preços, conforme autorização do Art. 18 do Regulamento do Código Tributário do Estado de Goiás – RCTE",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "",
+                  "complementaryUnit": "Pesquisa Mercadológica",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Inclusão, Alteração ou Exclusão de DIVERSOS na Pauta de Valores Referenciais do ICMS",
+                  "description": "Você pode solicitar atualização dos valores de referência do ICMS aplicados a determinados produtos e solicitar a inclusão, alteração ou exclusão de itens na Pauta Fiscal. Esses valores são definidos pela Secretaria da Economia, com base em pesquisas periódicas de preços, conforme a legislação estadual",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "",
+                  "complementaryUnit": "Pesquisa Mercadológica",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
                   "name": "Solicitar Reativação de Inscrição Estadual - Economia",
                   "description": "O serviço de reativação de inscrição estadual permite que empresas, produtores ou extratores voltem a usar sua inscrição no cadastro de contribuintes do estado de Goiás quando ela estiver paralisada temporariamente, suspensa ou baixada. Com a reativação, o contribuinte pode retomar suas atividades normalmente",
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "Superintendência de Informações Fiscais",
                   "complementaryUnit": "Gerência de Informações Econômico-Fiscais",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Regime Especial de Tributação (TARE)",
+                  "description": "Este serviço permite que sua empresa solicite um Termo de Acordo de Regime Especial (TARE) à Secretaria da Economia de Goiás. O TARE estabelece condições especiais para o cumprimento de obrigações tributárias estaduais e pode prever benefícios fiscais ou formas específicas de tributação, conforme a legislação vigente.",
+                  "legal": "",
+                  "basicUnit": "",
+                  "complementaryUnit": "Gerência de Regimes Especiais - GERE",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Retificação no Sistema de Captação e Auditoria dos Anexos de Combustíveis - SCANC",
+                  "description": "Serviço que permite ao usuário solicitar a retificação dos anexos no Sistema de Captação e Auditoriados Anexos de Combustíveis (SCANC), com o objetivo de regularizar informações conforme os Convênios ICMS 199/22 e 15/23",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "",
+                  "complementaryUnit": "Gerência de Combustíveis (GECOM)",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -112646,6 +112646,21 @@
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "",
                   "complementaryUnit": "Gerência de Informações Econômico Fiscais da Superintendência de Informações Fiscais",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Cadastrar Nota Fiscal de Veículo Importado",
+                  "description": "Este serviço permite ao interessado solicitar o cadastro da nota fiscal de veículo importado no sistema da Secretaria da Economia, para fins de registro e tributação do Imposto sobre a Propriedade de Veículos Automotores (IPVA). Se você tem um veículo importado, use este serviço para cadastrar a nota fiscal no sistema da Secretaria da Economia. O cadastro registra o veículo na base de dados do Estado de Goiás e permite calcular o IPVA corretamente.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Controle e Fiscalização",
+                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -112791,21 +112806,6 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar Substituição de Declarante do ITCD",
-                  "description": "Este serviço permite alterar o responsável pela declaração do ITCD quando houver impedimento, desistência ou mudança de representação legal.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Controle e Fiscalização",
-                  "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
                   "name": "Emitir Certidão Negativa de Débitos - Secretaria da Economia de Goiás",
                   "description": "É o serviço que permite emitir a Certidão Negativa de Débitos Estaduais pela Secretaria da Economia de Goiás. Esse documento comprova que a pessoa ou empresa não possui débitos ou pendências tributárias com o Estado",
                   "legal": "Carta de serviços/Economia",
@@ -112896,21 +112896,6 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar Alteração de DARE ou GNRE Preenchido Incorretamente",
-                  "description": "Este serviço permite corrigir informações preenchidas incorretamente em um Documento de Arrecadação de Receitas Estaduais (DARE) ou em uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) já pagos, mediante solicitação e apresentação da documentação exigida, observados os critérios e limites estabelecidos pela legislação vigente.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Informações Fiscais",
-                  "complementaryUnit": "Gerência de Controle da Arrecadação",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
                   "name": "Obter Relatório de Notas Fiscais Produtor Rural",
                   "description": "É a emissão da relação de todas as Notas Fiscais emitidas pela Delegacia Fiscal em nome do proprietário",
                   "legal": "Carta de serviços/Economia",
@@ -112956,6 +112941,36 @@
                   "children": []
                 },
                 {
+                  "name": "Regularizar IPVA de veículo registrado em outro estado",
+                  "description": "Se seu veículo está registrado em outro estado, mas deveria estar registrado no estado de Goiás, você pode pedir a regularização do IPVA por meio de denúncia espontânea. Esse pedido é feito por denúncia espontânea. Denúncia espontânea é quando você comunica voluntariamente uma irregularidade ao fisco antes de qualquer ação de fiscalização, para regularizar sua situação tributária. proprietário do veículo; ex-proprietário, quando a irregularidade ocorreu no período em que o veículo estava em seu nome; procurador ou representante legal, com autorização. Para o IPVA, a lei considera contribuinte quem é proprietário do veículo em 1º de janeiro de cada ano.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Controle e Fiscalização",
+                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Responder Notificação do IPVA",
+                  "description": "Se você recebeu uma notificação do IPVA, use este serviço para enviar documentos, informações ou esclarecimentos solicitados pela Gerência do IPVA (GIPVA). A notificação fiscal é um documento enviado pela Secretaria da Economia para solicitar informações ou documentos necessários à fiscalização do IPVA.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Controle e Fiscalização",
+                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
                   "name": "Retificar Declaração de ITCD",
                   "description": "Você pode corrigir sua Declaração de ITCD (Imposto sobre Transmissão Causa Mortis e Doação) a qualquer momento, se encontrar algum erro ou precisar fazer alguma alteração. Você pode corrigir a Declaração nos seguintes casos: -Algum dado foi preenchido errado; -A partilha dos bens foi alterada; -Precisa incluir ou excluir herdeiros ou beneficiários; -Precisa incluir ou excluir bens; -Faltaram documentos ou informações importantes. Mesmo sendo possível corrigir a qualquer momento, a maneira de corrigir e os efeitos da correção vão depender de dois fatores: - Tipo de informação a ser corrigida. O fato gerador (acontecimento que obriga o pagamento do imposto) não pode ser alterado. - Etapa da Declaração no sistema. O sistema pode limitar o que pode ser alterado, dependendo do andamento do processo.",
                   "legal": "Carta de serviços/Economia",
@@ -112986,11 +113001,56 @@
                   "children": []
                 },
                 {
+                  "name": "Solicitar Alteração de DARE ou GNRE Preenchido Incorretamente",
+                  "description": "Este serviço permite corrigir informações preenchidas incorretamente em um Documento de Arrecadação de Receitas Estaduais (DARE) ou em uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) já pagos, mediante solicitação e apresentação da documentação exigida, observados os critérios e limites estabelecidos pela legislação vigente.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Informações Fiscais",
+                  "complementaryUnit": "Gerência de Controle da Arrecadação",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
                   "name": "Solicitar análise de prescrição administrativa",
                   "description": "O serviço permite que o contribuinte ou seu representante, peça à Secretaria a verificação da prescrição administrativa - isto é, se passou o prazo que a Administração tem para rever atos ou aplicar penalidades",
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "Superintendência de Recuperação de Créditos - SRC",
                   "complementaryUnit": "",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Aplicação do Desconto do IPVA Quando Não Aplicado Automaticamente",
+                  "description": "É o serviço que permite a você, proprietário de veículo, solicitar a aplicação do desconto de 50% no Imposto sobre a Propriedade de Veículos Automotores (IPVA) quando não aplicado automaticamente. Você deve usar este serviço se o sistema não conceder o desconto no cálculo do imposto. Você tem direito ao desconto se possuir: motocicleta, ciclomotor, triciclo ou motoneta de até 125 cilindradas, com até seis anos de uso; ou veículo de passeio 1.0 (até 1000 cilindradas), conforme a legislação O veículo deve: estar com o licenciamento em dia. Você não pode: ter multas de trânsito nos últimos 12 meses; ter se envolvido em acidentes nesse período; ter débitos com o Estado (Cadin).",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "Superintendência de Controle e Fiscalização",
+                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Solicitar Atendimento para Outros Assuntos do ITCD",
+                  "description": "Este serviço permite que você envie pedidos sobre o ITCD (Imposto sobre Herança e Doação) quando os outros serviços do grupo não atenderem à sua necessidade. Use este canal para tratar situações específicas, como solicitar o reconhecimento de pagamento já realizado, verificar a existência de declaração, solicitar comprovantes e esclarecer dúvidas sobre a aplicação da legislação ao seu caso.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "",
+                  "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -113018,36 +113078,6 @@
                 {
                   "name": "Solicitar Autorregularização de ITCD",
                   "description": "Se você recebeu um comunicado da Secretaria da Economia de Goiás, é porque foram encontradas diferenças entre os valores que você declarou no ITCD (Imposto sobre Transmissão Causa Mortis e Doação) e os valores da Tabela de Referência do Estado. Esse serviço permite que você corrija essas diferenças e regularize sua declaração",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "",
-                  "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Restituição do Imposto sobre Herança e Doação - ITCD",
-                  "description": "Você pode pedir a devolução total ou parcial do valor pago de ITCD se comprovar que o imposto foi cobrado de forma indevida Em quais casos é possível pedir a restituição? - Quando a doação ou a separação judicial que geraria o imposto não aconteceu. - Quando houver decisão judicial definitiva (transitada em julgado) que determine a devolução. - Quando, após o pagamento, for reconhecida a isenção (dispensa de pagar) ou a não-incidência (o imposto não se aplica). - Quando for identificado erro na cobrança ou no valor pago. - Quando a pessoa dada como falecida reaparecer, em caso de sucessão provisória.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Controle e Fiscalização",
-                  "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Solicitar Atendimento para Outros Assuntos do ITCD",
-                  "description": "Este serviço permite que você envie pedidos sobre o ITCD (Imposto sobre Herança e Doação) quando os outros serviços do grupo não atenderem à sua necessidade. Use este canal para tratar situações específicas, como solicitar o reconhecimento de pagamento já realizado, verificar a existência de declaração, solicitar comprovantes e esclarecer dúvidas sobre a aplicação da legislação ao seu caso.",
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "",
                   "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
@@ -113346,21 +113376,6 @@
                   "children": []
                 },
                 {
-                  "name": "Cadastrar Nota Fiscal de Veículo Importado",
-                  "description": "Este serviço permite ao interessado solicitar o cadastro da nota fiscal de veículo importado no sistema da Secretaria da Economia, para fins de registro e tributação do Imposto sobre a Propriedade de Veículos Automotores (IPVA). Se você tem um veículo importado, use este serviço para cadastrar a nota fiscal no sistema da Secretaria da Economia. O cadastro registra o veículo na base de dados do Estado de Goiás e permite calcular o IPVA corretamente.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Controle e Fiscalização",
-                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
                   "name": "Solicitar Regularização de Substituição Tributária ou Isenção",
                   "description": "Este serviço é para você que recebeu um comunicado da Secretaria da Economia informando erro ou problema no uso da Substituição Tributária (ST) ou da Isenção de impostos estaduais",
                   "legal": "Carta de serviços/Economia",
@@ -113466,11 +113481,11 @@
                   "children": []
                 },
                 {
-                  "name": "Responder Notificação do IPVA",
-                  "description": "Se você recebeu uma notificação do IPVA, use este serviço para enviar documentos, informações ou esclarecimentos solicitados pela Gerência do IPVA (GIPVA). A notificação fiscal é um documento enviado pela Secretaria da Economia para solicitar informações ou documentos necessários à fiscalização do IPVA.",
+                  "name": "Solicitar Restituição do Imposto sobre Herança e Doação - ITCD",
+                  "description": "Você pode pedir a devolução total ou parcial do valor pago de ITCD se comprovar que o imposto foi cobrado de forma indevida Em quais casos é possível pedir a restituição? - Quando a doação ou a separação judicial que geraria o imposto não aconteceu. - Quando houver decisão judicial definitiva (transitada em julgado) que determine a devolução. - Quando, após o pagamento, for reconhecida a isenção (dispensa de pagar) ou a não-incidência (o imposto não se aplica). - Quando for identificado erro na cobrança ou no valor pago. - Quando a pessoa dada como falecida reaparecer, em caso de sucessão provisória.",
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "Superintendência de Controle e Fiscalização",
-                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+                  "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -113481,11 +113496,11 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar Aplicação do Desconto do IPVA Quando Não Aplicado Automaticamente",
-                  "description": "É o serviço que permite a você, proprietário de veículo, solicitar a aplicação do desconto de 50% no Imposto sobre a Propriedade de Veículos Automotores (IPVA) quando não aplicado automaticamente. Você deve usar este serviço se o sistema não conceder o desconto no cálculo do imposto. Você tem direito ao desconto se possuir: motocicleta, ciclomotor, triciclo ou motoneta de até 125 cilindradas, com até seis anos de uso; ou veículo de passeio 1.0 (até 1000 cilindradas), conforme a legislação O veículo deve: estar com o licenciamento em dia. Você não pode: ter multas de trânsito nos últimos 12 meses; ter se envolvido em acidentes nesse período; ter débitos com o Estado (Cadin).",
+                  "name": "Solicitar Substituição de Declarante do ITCD",
+                  "description": "Este serviço permite alterar o responsável pela declaração do ITCD quando houver impedimento, desistência ou mudança de representação legal.",
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "Superintendência de Controle e Fiscalização",
-                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
+                  "complementaryUnit": "Gerência do ITCD – Imposto sobre Transmissão Causa Mortis e Doação",
                   "organizations": [
                     "ECONOMIA"
                   ],
@@ -113501,21 +113516,6 @@
                   "legal": "Carta de serviços/Economia",
                   "basicUnit": "Superintendência de Recuperação de Créditos - SRC",
                   "complementaryUnit": "",
-                  "organizations": [
-                    "ECONOMIA"
-                  ],
-                  "source": "Carta de Serviço",
-                  "situation": "Identificado",
-                  "link": "",
-                  "type": "service",
-                  "children": []
-                },
-                {
-                  "name": "Regularizar IPVA de veículo registrado em outro estado",
-                  "description": "Se seu veículo está registrado em outro estado, mas deveria estar registrado no estado de Goiás, você pode pedir a regularização do IPVA por meio de denúncia espontânea. Esse pedido é feito por denúncia espontânea. Denúncia espontânea é quando você comunica voluntariamente uma irregularidade ao fisco antes de qualquer ação de fiscalização, para regularizar sua situação tributária. proprietário do veículo; ex-proprietário, quando a irregularidade ocorreu no período em que o veículo estava em seu nome; procurador ou representante legal, com autorização. Para o IPVA, a lei considera contribuinte quem é proprietário do veículo em 1º de janeiro de cada ano.",
-                  "legal": "Carta de serviços/Economia",
-                  "basicUnit": "Superintendência de Controle e Fiscalização",
-                  "complementaryUnit": "Coordenação de Atendimento ao Contribuinte",
                   "organizations": [
                     "ECONOMIA"
                   ],
