@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-29",
   "groups": [
     {
       "name": "Agropecuária",
@@ -40473,9 +40473,9 @@
               "children": []
             },
             {
-              "name": "Ingresso em curso de graduação por meio de transferência de outra Instituição de Ensino Superior",
-              "description": "Solicitação de transferência de outra Instituição de Ensino Superior para a UEG, no mesmo curso ou curso em áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, reingresso e portadores de diploma)",
-              "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
+              "name": "Solicitar transferência de outra faculdade para a UEG",
+              "description": "Solicitação de transferência de outra Instituição de Ensino Superior para a UEG, no mesmo curso ou curso em áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, reingresso e portadores de diploma).",
+              "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III Resolução CsA n. 1.052/2018; Regimento Geral da UEG (Resolução CsU n. 705/2014)",
               "basicUnit": "",
               "complementaryUnit": "Coordenação de Ensino da Pró-Reitoria de Graduação da UEG",
               "organizations": [
@@ -43797,9 +43797,9 @@
           "children": []
         },
         {
-          "name": "Ingresso em curso de graduação por meio de transferência de outra Instituição de Ensino Superior",
-          "description": "Solicitação de transferência de outra Instituição de Ensino Superior para a UEG, no mesmo curso ou curso em áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, reingresso e portadores de diploma)",
-          "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
+          "name": "Solicitar transferência de outra faculdade para a UEG",
+          "description": "Solicitação de transferência de outra Instituição de Ensino Superior para a UEG, no mesmo curso ou curso em áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, reingresso e portadores de diploma).",
+          "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III Resolução CsA n. 1.052/2018; Regimento Geral da UEG (Resolução CsU n. 705/2014)",
           "basicUnit": "",
           "complementaryUnit": "Coordenação de Ensino da Pró-Reitoria de Graduação da UEG",
           "organizations": [
@@ -46937,9 +46937,9 @@
                   "children": []
                 },
                 {
-                  "name": "Ingresso em curso de graduação por meio de transferência de outra Instituição de Ensino Superior",
-                  "description": "Solicitação de transferência de outra Instituição de Ensino Superior para a UEG, no mesmo curso ou curso em áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, reingresso e portadores de diploma)",
-                  "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
+                  "name": "Solicitar transferência de outra faculdade para a UEG",
+                  "description": "Solicitação de transferência de outra Instituição de Ensino Superior para a UEG, no mesmo curso ou curso em áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, reingresso e portadores de diploma).",
+                  "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III Resolução CsA n. 1.052/2018; Regimento Geral da UEG (Resolução CsU n. 705/2014)",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação de Ensino da Pró-Reitoria de Graduação da UEG",
                   "organizations": [
