@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-11-24",
   "groups": [
     {
       "name": "Agropecuária",
@@ -38386,8 +38386,8 @@
               "children": []
             },
             {
-              "name": "Solicitar Boletim Escolar da Rede Estadual de Educação",
-              "description": "Emissão do demonstrativo de notas, considerando os resultados de aprendizagem do estudante que apresenta o seu desempenho nas avaliações realizadas durante o bimestre, refletindo seu progresso no decorrer do ano letivo. Esse documento é equivalente ao boletim escolar",
+              "name": "Consultar Boletim Escolar da Rede Estadual de Educação",
+              "description": "Demonstrativo de notas que permite consultar o desempenho escolar do estudante em cada bimestre na rede estadual de educação.",
               "legal": "Lei Complementar N.26 - Art.33 - VII e Decreto n° 10.482/2024, Art.30",
               "basicUnit": "Superintendência de Gestão Estratégica e Avaliação de Resultados",
               "complementaryUnit": "Gerência de Regulação da Rede",
@@ -40563,8 +40563,8 @@
               "children": []
             },
             {
-              "name": "Ajustar matrícula na graduação",
-              "description": "É a alteração nas disciplinas que o discente já havia se matriculado por meio da matrícula online feitas pela Secretaria Acadêmica do Campus. O discente poderá alterar, excluir e incluir disciplinas durante período de ajuste de matrícula",
+              "name": "Ajustar matrícula da graduação - UEG",
+              "description": "É a alteração nas disciplinas que o discente já havia se matriculado por meio da matrícula online feitas pela Secretaria Acadêmica do Câmpus. O discente poderá alterar, excluir e incluir disciplinas durante período de ajuste de matrícula.",
               "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
               "basicUnit": "",
               "complementaryUnit": "Secretaria Acadêmica do Câmpus",
@@ -43392,8 +43392,8 @@
           "children": []
         },
         {
-          "name": "Solicitar Boletim Escolar da Rede Estadual de Educação",
-          "description": "Emissão do demonstrativo de notas, considerando os resultados de aprendizagem do estudante que apresenta o seu desempenho nas avaliações realizadas durante o bimestre, refletindo seu progresso no decorrer do ano letivo. Esse documento é equivalente ao boletim escolar",
+          "name": "Consultar Boletim Escolar da Rede Estadual de Educação",
+          "description": "Demonstrativo de notas que permite consultar o desempenho escolar do estudante em cada bimestre na rede estadual de educação.",
           "legal": "Lei Complementar N.26 - Art.33 - VII e Decreto n° 10.482/2024, Art.30",
           "basicUnit": "Superintendência de Gestão Estratégica e Avaliação de Resultados",
           "complementaryUnit": "Gerência de Regulação da Rede",
@@ -43887,8 +43887,8 @@
           "children": []
         },
         {
-          "name": "Ajustar matrícula na graduação",
-          "description": "É a alteração nas disciplinas que o discente já havia se matriculado por meio da matrícula online feitas pela Secretaria Acadêmica do Campus. O discente poderá alterar, excluir e incluir disciplinas durante período de ajuste de matrícula",
+          "name": "Ajustar matrícula da graduação - UEG",
+          "description": "É a alteração nas disciplinas que o discente já havia se matriculado por meio da matrícula online feitas pela Secretaria Acadêmica do Câmpus. O discente poderá alterar, excluir e incluir disciplinas durante período de ajuste de matrícula.",
           "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
           "basicUnit": "",
           "complementaryUnit": "Secretaria Acadêmica do Câmpus",
@@ -44816,8 +44816,8 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitar Boletim Escolar da Rede Estadual de Educação",
-                  "description": "Emissão do demonstrativo de notas, considerando os resultados de aprendizagem do estudante que apresenta o seu desempenho nas avaliações realizadas durante o bimestre, refletindo seu progresso no decorrer do ano letivo. Esse documento é equivalente ao boletim escolar",
+                  "name": "Consultar Boletim Escolar da Rede Estadual de Educação",
+                  "description": "Demonstrativo de notas que permite consultar o desempenho escolar do estudante em cada bimestre na rede estadual de educação.",
                   "legal": "Lei Complementar N.26 - Art.33 - VII e Decreto n° 10.482/2024, Art.30",
                   "basicUnit": "Superintendência de Gestão Estratégica e Avaliação de Resultados",
                   "complementaryUnit": "Gerência de Regulação da Rede",
@@ -47027,8 +47027,8 @@
                   "children": []
                 },
                 {
-                  "name": "Ajustar matrícula na graduação",
-                  "description": "É a alteração nas disciplinas que o discente já havia se matriculado por meio da matrícula online feitas pela Secretaria Acadêmica do Campus. O discente poderá alterar, excluir e incluir disciplinas durante período de ajuste de matrícula",
+                  "name": "Ajustar matrícula da graduação - UEG",
+                  "description": "É a alteração nas disciplinas que o discente já havia se matriculado por meio da matrícula online feitas pela Secretaria Acadêmica do Câmpus. O discente poderá alterar, excluir e incluir disciplinas durante período de ajuste de matrícula.",
                   "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
                   "basicUnit": "",
                   "complementaryUnit": "Secretaria Acadêmica do Câmpus",
@@ -109721,6 +109721,21 @@
               "children": []
             },
             {
+              "name": "Solicitar Parcelamento Protege – Lei 18.360/2013",
+              "description": "Este serviço permite que a empresa parcele débitos ligados ao Fundo de Proteção Social do Estado de Goiás (Protege Goiás), para manter a prorrogação dos benefícios fiscais dos programas Fomentar e Produzir.",
+              "legal": "Carta de serviços/Economia",
+              "basicUnit": "",
+              "complementaryUnit": "",
+              "organizations": [
+                "ECONOMIA"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
               "name": "Solicitar redução do valor do IPVA para veículo de locadora",
               "description": "Serviço que permite à empresa locadora pedir a redução da alíquota do IPVA para 1% sobre os veículos cadastrados, desde que cumpra os critérios legais",
               "legal": "Carta de serviços/Economia",
@@ -111680,6 +111695,21 @@
           "children": []
         },
         {
+          "name": "Solicitar Parcelamento Protege – Lei 18.360/2013",
+          "description": "Este serviço permite que a empresa parcele débitos ligados ao Fundo de Proteção Social do Estado de Goiás (Protege Goiás), para manter a prorrogação dos benefícios fiscais dos programas Fomentar e Produzir.",
+          "legal": "Carta de serviços/Economia",
+          "basicUnit": "",
+          "complementaryUnit": "",
+          "organizations": [
+            "ECONOMIA"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
           "name": "Solicitar redução do valor do IPVA para veículo de locadora",
           "description": "Serviço que permite à empresa locadora pedir a redução da alíquota do IPVA para 1% sobre os veículos cadastrados, desde que cumpra os critérios legais",
           "legal": "Carta de serviços/Economia",
@@ -113314,6 +113344,21 @@
                   "children": []
                 },
                 {
+                  "name": "Solicitar Parcelamento Protege – Lei 18.360/2013",
+                  "description": "Este serviço permite que a empresa parcele débitos ligados ao Fundo de Proteção Social do Estado de Goiás (Protege Goiás), para manter a prorrogação dos benefícios fiscais dos programas Fomentar e Produzir.",
+                  "legal": "Carta de serviços/Economia",
+                  "basicUnit": "",
+                  "complementaryUnit": "",
+                  "organizations": [
+                    "ECONOMIA"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
                   "name": "Solicitar redução do valor do IPVA para veículo de locadora",
                   "description": "Serviço que permite à empresa locadora pedir a redução da alíquota do IPVA para 1% sobre os veículos cadastrados, desde que cumpra os critérios legais",
                   "legal": "Carta de serviços/Economia",
@@ -113865,7 +113910,7 @@
         "processes": 7,
         "workProcesses": 16,
         "organizations": 1,
-        "services": 99,
+        "services": 100,
         "activities": 0
       }
     },
