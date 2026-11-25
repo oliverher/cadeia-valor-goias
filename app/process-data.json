@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "groups": [
     {
       "name": "Agropecuária",
@@ -16853,8 +16853,8 @@
               "children": []
             },
             {
-              "name": "Criação de Empresa Júnior",
-              "description": "Procedimento para criação de uma empresa júnior vinculada a UEG",
+              "name": "Solicitar criação de Empresa Júnior - UEG",
+              "description": "Você pode usar este serviço para solicitar a formalização de uma empresa júnior vinculada à UEG.",
               "legal": "Carta de Serviços",
               "basicUnit": "",
               "complementaryUnit": "Núcleo de Empresas Juniores",
@@ -17173,11 +17173,11 @@
               "children": []
             },
             {
-              "name": "Capacitação em Empreendedorismo Inovador e Desenvolvimento Tecnológico",
-              "description": "Cursos de curta e média duração ofertados tanto pela UEG quanto por parceiros, como o SEBRAE e associações comerciais",
+              "name": "Inscrever-se em capacitação de empreendedorismo e inovação - UEG",
+              "description": "Cursos de curta e média duração ofertados tanto pela UEG quanto por parceiros, como o SEBRAE e associações comerciais.",
               "legal": "Carta de Serviços",
               "basicUnit": "",
-              "complementaryUnit": "",
+              "complementaryUnit": "Agência de Inovação da UEG",
               "organizations": [
                 "UEG"
               ],
@@ -17188,7 +17188,7 @@
               "children": []
             },
             {
-              "name": "Apoio no registro de marcas e patentes",
+              "name": "Obter apoio para registro de marcas e patentes - UEG",
               "description": "Apoio na escrita e acompanhamento do processo de solicitação de registro de marcas e patentes junto ao Instituto Nacional de Propriedade Intelectual - INPI",
               "legal": "Carta de Serviços",
               "basicUnit": "",
@@ -19494,8 +19494,8 @@
           "children": []
         },
         {
-          "name": "Criação de Empresa Júnior",
-          "description": "Procedimento para criação de uma empresa júnior vinculada a UEG",
+          "name": "Solicitar criação de Empresa Júnior - UEG",
+          "description": "Você pode usar este serviço para solicitar a formalização de uma empresa júnior vinculada à UEG.",
           "legal": "Carta de Serviços",
           "basicUnit": "",
           "complementaryUnit": "Núcleo de Empresas Juniores",
@@ -19539,11 +19539,11 @@
           "children": []
         },
         {
-          "name": "Capacitação em Empreendedorismo Inovador e Desenvolvimento Tecnológico",
-          "description": "Cursos de curta e média duração ofertados tanto pela UEG quanto por parceiros, como o SEBRAE e associações comerciais",
+          "name": "Inscrever-se em capacitação de empreendedorismo e inovação - UEG",
+          "description": "Cursos de curta e média duração ofertados tanto pela UEG quanto por parceiros, como o SEBRAE e associações comerciais.",
           "legal": "Carta de Serviços",
           "basicUnit": "",
-          "complementaryUnit": "",
+          "complementaryUnit": "Agência de Inovação da UEG",
           "organizations": [
             "UEG"
           ],
@@ -19554,7 +19554,7 @@
           "children": []
         },
         {
-          "name": "Apoio no registro de marcas e patentes",
+          "name": "Obter apoio para registro de marcas e patentes - UEG",
           "description": "Apoio na escrita e acompanhamento do processo de solicitação de registro de marcas e patentes junto ao Instituto Nacional de Propriedade Intelectual - INPI",
           "legal": "Carta de Serviços",
           "basicUnit": "",
@@ -20792,8 +20792,8 @@
                   "children": []
                 },
                 {
-                  "name": "Criação de Empresa Júnior",
-                  "description": "Procedimento para criação de uma empresa júnior vinculada a UEG",
+                  "name": "Solicitar criação de Empresa Júnior - UEG",
+                  "description": "Você pode usar este serviço para solicitar a formalização de uma empresa júnior vinculada à UEG.",
                   "legal": "Carta de Serviços",
                   "basicUnit": "",
                   "complementaryUnit": "Núcleo de Empresas Juniores",
@@ -21112,11 +21112,11 @@
                   "children": []
                 },
                 {
-                  "name": "Capacitação em Empreendedorismo Inovador e Desenvolvimento Tecnológico",
-                  "description": "Cursos de curta e média duração ofertados tanto pela UEG quanto por parceiros, como o SEBRAE e associações comerciais",
+                  "name": "Inscrever-se em capacitação de empreendedorismo e inovação - UEG",
+                  "description": "Cursos de curta e média duração ofertados tanto pela UEG quanto por parceiros, como o SEBRAE e associações comerciais.",
                   "legal": "Carta de Serviços",
                   "basicUnit": "",
-                  "complementaryUnit": "",
+                  "complementaryUnit": "Agência de Inovação da UEG",
                   "organizations": [
                     "UEG"
                   ],
@@ -21127,7 +21127,7 @@
                   "children": []
                 },
                 {
-                  "name": "Apoio no registro de marcas e patentes",
+                  "name": "Obter apoio para registro de marcas e patentes - UEG",
                   "description": "Apoio na escrita e acompanhamento do processo de solicitação de registro de marcas e patentes junto ao Instituto Nacional de Propriedade Intelectual - INPI",
                   "legal": "Carta de Serviços",
                   "basicUnit": "",
@@ -40232,8 +40232,8 @@
           "type": "process",
           "children": [
             {
-              "name": "Alteração do nome civil para o nome social em registros oficiais",
-              "description": "É a alteração do nome dos registros oficiais e acadêmicos da Universidade para o nome desejado pelo usuário (nome social) quando o seu nome civil não refletir a sua identidade de gênero",
+              "name": "Solicitar inclusão ou alteração de nome social - UEG",
+              "description": "Você pode solicitar a inclusão ou a retirada do seu nome social nos registros administrativos e acadêmicos da Universidade. O nome social é o nome pelo qual você deseja ser chamado e identificado quando seu nome civil não corresponde à sua identidade de gênero.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Secretaria Acadêmica do Campus / Gerência de Gestão e Desenvolvimento de Pessoas (Administração Central)",
@@ -40277,8 +40277,8 @@
               "children": []
             },
             {
-              "name": "Emissão de Certificados de Conclusão de Curso de Pós-Graduação Lato Sensu - 1ª via",
-              "description": "A Coordenação de Pós Graduação Lato Sensu é responsável por emitir certificados de pós-graduação de cursos oferecidos pelos Câmpus da UEG em Goiás, em parcerias e também à distância",
+              "name": "Emitir certificado de conclusão da pós-graduação - UEG",
+              "description": "A Coordenação de Pós Graduação Lato Sensu é responsável por emitir certificados de pós-graduação de cursos oferecidos pelos Câmpus da UEG em Goiás, em parcerias e também à distância.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Coordenação Lato Sensu",
@@ -40292,7 +40292,7 @@
               "children": []
             },
             {
-              "name": "Atestado de veracidade de diploma e documentos acadêmicos",
+              "name": "Obter atestado de veracidade de diploma ou documentos - UEG",
               "description": "É a validação de documento acadêmico, em especial diplomas, como verdadeiro",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
@@ -40307,9 +40307,9 @@
               "children": []
             },
             {
-              "name": "Emitir Histórico Acadêmico",
-              "description": "O histórico escolar é o documento que apresenta as principais informações do desenvolvimento acadêmico do aluno, como: as disciplinas cursadas, as notas, a quantidade de horas de atividades complementares já cumpridas etc",
-              "legal": "DECRETO Nº 10.603",
+              "name": "Emitir Histórico Acadêmico - UEG",
+              "description": "O histórico escolar é o documento que apresenta as principais informações do desenvolvimento acadêmico do aluno, como: as disciplinas cursadas, as notas, a quantidade de horas de atividades complementares já cumpridas etc.",
+              "legal": "DECRETO Nº 10.603 Resolução CsA n. 1.052, de 22 de fevereiro de 2018",
               "basicUnit": "",
               "complementaryUnit": "Secretaria Acadêmica do Campus",
               "organizations": [
@@ -40337,9 +40337,9 @@
               "children": []
             },
             {
-              "name": "Emissão de declarações para orientadores de IC&T e alunos de IC&T",
-              "description": "Solicitação de emissão (manualmente) de declarações para alunos que concluiram o IC&T e orientadores",
-              "legal": "DECRETO Nº 10.603",
+              "name": "Emitir declaração de Iniciação Científica e Tecnológica - UEG",
+              "description": "Solicitação de emissão (manualmente) de declarações para alunos que concluiram o IC&T e orientadores.",
+              "legal": "DECRETO Nº 10.603 Resolução CsU n. 771, de 29 de junho de 2016.",
               "basicUnit": "",
               "complementaryUnit": "Coordenação de Iniciação Científica e Tecnológica",
               "organizations": [
@@ -40367,7 +40367,7 @@
               "children": []
             },
             {
-              "name": "Expedição de 1ª via de Diploma",
+              "name": "Obter 1ª via do diploma de graduação - UEG",
               "description": "Diploma é o documento oficial que comprova o título acadêmico obtido pelo aluno na UEG na graduação (bacharelado, licenciatura ou tecnólogo) ou na pós-graduação stricto sensu (mestrado ou doutorado)",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
@@ -40382,7 +40382,7 @@
               "children": []
             },
             {
-              "name": "Expedição de 2ª via de Diploma",
+              "name": "Obter 2ª via do diploma - UEG",
               "description": "Emissão de nova via de diploma previamente emitido pela UEG em razão de extravio ou danificação da 1ª via",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
@@ -40397,8 +40397,8 @@
               "children": []
             },
             {
-              "name": "Emissão de declaração de vínculo na graduação",
-              "description": "Solicitação de declaração que ateste o vínculo do aluno com a Universidade",
+              "name": "Emitir declaração de vínculo da graduação - UEG",
+              "description": "Este serviço permite que o(a) aluno(a) da Universidade Estadual de Goiás (UEG) emita uma declaração que comprove seu vínculo com a instituição de ensino.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Assessoria de Sistemas Acadêmicos da Gerência da Secretaria Acadêmica Central",
@@ -40513,6 +40513,21 @@
               ],
               "source": "Carta de Serviço",
               "situation": "Identificado",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
+              "name": "Consultar Desempenho Acadêmico",
+              "description": "Este serviço permite que você consulte suas notas e sua frequência nas disciplinas dos cursos de graduação da Universidade Estadual de Goiás (UEG) em que está matriculado ou já esteve matriculado.",
+              "legal": "",
+              "basicUnit": "",
+              "complementaryUnit": "Gerência de Tecnologia; Coordenação de Engenharia de Software",
+              "organizations": [
+                "UEG"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
               "link": "",
               "type": "service",
               "children": []
@@ -40653,7 +40668,7 @@
               "children": []
             },
             {
-              "name": "Exame de Proficiência em disciplina na graduação",
+              "name": "Solicitar exame de proficiência em disciplina da graduação - UEG",
               "description": "Trata-se de um exame para verificar notório conhecimento do aluno em determinada disciplina, sendo que, em caso de aprovação, ele será considerado aprovado na disciplina",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
@@ -40728,9 +40743,9 @@
               "children": []
             },
             {
-              "name": "Outorga de grau extraordinária",
-              "description": "Trata-se da outorga do grau acadêmico para o aluno em ato específico, fora da cerimônia de outorga de grau ordinária, em razão: 1) da posse em cargo ou emprego público ou privado; 2) inscrição em processo seletivo de ingresso, residência, matrícula em curso de pós-graduação lato sensu (especialização) ou stricto sensu (mestrado ou doutorado); 3) de tratamento de saúde do concluinte; 4) outras situações devidamente justificadas",
-              "legal": "DECRETO Nº 10.603",
+              "name": "Solicitar colação de grau extraordinária - UEG",
+              "description": "Este serviço permite ao aluno concluinte solicitar a outorga de grau fora da cerimônia ordinária, quando precisa comprovar a conclusão do curso para: da posse em cargo ou emprego público ou privado; inscrição em processo seletivo de ingresso, residência, matrícula em curso de pós-graduação lato sensu (especialização) ou stricto sensu (mestrado ou doutorado); de tratamento de saúde do concluinte; outras situações devidamente justificadas.",
+              "legal": "DECRETO Nº 10.603 Resolução CsU n. 636/2014",
               "basicUnit": "",
               "complementaryUnit": "Direção do Campus",
               "organizations": [
@@ -40758,8 +40773,8 @@
               "children": []
             },
             {
-              "name": "Cadastro e emissão de carteirinha na Biblioteca",
-              "description": "Cadastro no sistema de Bibliotecas da UEG, possibilitando ao usuário utilizar dos serviços da biblioteca, como empréstimo de livro, reserva de material, renovação de empréstimo etc",
+              "name": "Solicitar carteirinha da biblioteca - UEG",
+              "description": "Cadastro no sistema de Bibliotecas da UEG, possibilitando ao usuário utilizar dos serviços da biblioteca, como empréstimo de livro, reserva de material, renovação de empréstimo etc.",
               "legal": "DECRETO Nº 10.603 Art. 135",
               "basicUnit": "",
               "complementaryUnit": "Bibliotecas da UEG",
@@ -43572,8 +43587,8 @@
           "children": []
         },
         {
-          "name": "Alteração do nome civil para o nome social em registros oficiais",
-          "description": "É a alteração do nome dos registros oficiais e acadêmicos da Universidade para o nome desejado pelo usuário (nome social) quando o seu nome civil não refletir a sua identidade de gênero",
+          "name": "Solicitar inclusão ou alteração de nome social - UEG",
+          "description": "Você pode solicitar a inclusão ou a retirada do seu nome social nos registros administrativos e acadêmicos da Universidade. O nome social é o nome pelo qual você deseja ser chamado e identificado quando seu nome civil não corresponde à sua identidade de gênero.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Secretaria Acadêmica do Campus / Gerência de Gestão e Desenvolvimento de Pessoas (Administração Central)",
@@ -43617,8 +43632,8 @@
           "children": []
         },
         {
-          "name": "Emissão de Certificados de Conclusão de Curso de Pós-Graduação Lato Sensu - 1ª via",
-          "description": "A Coordenação de Pós Graduação Lato Sensu é responsável por emitir certificados de pós-graduação de cursos oferecidos pelos Câmpus da UEG em Goiás, em parcerias e também à distância",
+          "name": "Emitir certificado de conclusão da pós-graduação - UEG",
+          "description": "A Coordenação de Pós Graduação Lato Sensu é responsável por emitir certificados de pós-graduação de cursos oferecidos pelos Câmpus da UEG em Goiás, em parcerias e também à distância.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Coordenação Lato Sensu",
@@ -43632,7 +43647,7 @@
           "children": []
         },
         {
-          "name": "Atestado de veracidade de diploma e documentos acadêmicos",
+          "name": "Obter atestado de veracidade de diploma ou documentos - UEG",
           "description": "É a validação de documento acadêmico, em especial diplomas, como verdadeiro",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
@@ -43647,9 +43662,9 @@
           "children": []
         },
         {
-          "name": "Emitir Histórico Acadêmico",
-          "description": "O histórico escolar é o documento que apresenta as principais informações do desenvolvimento acadêmico do aluno, como: as disciplinas cursadas, as notas, a quantidade de horas de atividades complementares já cumpridas etc",
-          "legal": "DECRETO Nº 10.603",
+          "name": "Emitir Histórico Acadêmico - UEG",
+          "description": "O histórico escolar é o documento que apresenta as principais informações do desenvolvimento acadêmico do aluno, como: as disciplinas cursadas, as notas, a quantidade de horas de atividades complementares já cumpridas etc.",
+          "legal": "DECRETO Nº 10.603 Resolução CsA n. 1.052, de 22 de fevereiro de 2018",
           "basicUnit": "",
           "complementaryUnit": "Secretaria Acadêmica do Campus",
           "organizations": [
@@ -43677,9 +43692,9 @@
           "children": []
         },
         {
-          "name": "Emissão de declarações para orientadores de IC&T e alunos de IC&T",
-          "description": "Solicitação de emissão (manualmente) de declarações para alunos que concluiram o IC&T e orientadores",
-          "legal": "DECRETO Nº 10.603",
+          "name": "Emitir declaração de Iniciação Científica e Tecnológica - UEG",
+          "description": "Solicitação de emissão (manualmente) de declarações para alunos que concluiram o IC&T e orientadores.",
+          "legal": "DECRETO Nº 10.603 Resolução CsU n. 771, de 29 de junho de 2016.",
           "basicUnit": "",
           "complementaryUnit": "Coordenação de Iniciação Científica e Tecnológica",
           "organizations": [
@@ -43707,7 +43722,7 @@
           "children": []
         },
         {
-          "name": "Expedição de 1ª via de Diploma",
+          "name": "Obter 1ª via do diploma de graduação - UEG",
           "description": "Diploma é o documento oficial que comprova o título acadêmico obtido pelo aluno na UEG na graduação (bacharelado, licenciatura ou tecnólogo) ou na pós-graduação stricto sensu (mestrado ou doutorado)",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
@@ -43722,7 +43737,7 @@
           "children": []
         },
         {
-          "name": "Expedição de 2ª via de Diploma",
+          "name": "Obter 2ª via do diploma - UEG",
           "description": "Emissão de nova via de diploma previamente emitido pela UEG em razão de extravio ou danificação da 1ª via",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
@@ -43737,8 +43752,8 @@
           "children": []
         },
         {
-          "name": "Emissão de declaração de vínculo na graduação",
-          "description": "Solicitação de declaração que ateste o vínculo do aluno com a Universidade",
+          "name": "Emitir declaração de vínculo da graduação - UEG",
+          "description": "Este serviço permite que o(a) aluno(a) da Universidade Estadual de Goiás (UEG) emita uma declaração que comprove seu vínculo com a instituição de ensino.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Assessoria de Sistemas Acadêmicos da Gerência da Secretaria Acadêmica Central",
@@ -43837,6 +43852,21 @@
           ],
           "source": "Carta de Serviço",
           "situation": "Identificado",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
+          "name": "Consultar Desempenho Acadêmico",
+          "description": "Este serviço permite que você consulte suas notas e sua frequência nas disciplinas dos cursos de graduação da Universidade Estadual de Goiás (UEG) em que está matriculado ou já esteve matriculado.",
+          "legal": "",
+          "basicUnit": "",
+          "complementaryUnit": "Gerência de Tecnologia; Coordenação de Engenharia de Software",
+          "organizations": [
+            "UEG"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
           "link": "",
           "type": "service",
           "children": []
@@ -43977,7 +44007,7 @@
           "children": []
         },
         {
-          "name": "Exame de Proficiência em disciplina na graduação",
+          "name": "Solicitar exame de proficiência em disciplina da graduação - UEG",
           "description": "Trata-se de um exame para verificar notório conhecimento do aluno em determinada disciplina, sendo que, em caso de aprovação, ele será considerado aprovado na disciplina",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
@@ -44052,9 +44082,9 @@
           "children": []
         },
         {
-          "name": "Outorga de grau extraordinária",
-          "description": "Trata-se da outorga do grau acadêmico para o aluno em ato específico, fora da cerimônia de outorga de grau ordinária, em razão: 1) da posse em cargo ou emprego público ou privado; 2) inscrição em processo seletivo de ingresso, residência, matrícula em curso de pós-graduação lato sensu (especialização) ou stricto sensu (mestrado ou doutorado); 3) de tratamento de saúde do concluinte; 4) outras situações devidamente justificadas",
-          "legal": "DECRETO Nº 10.603",
+          "name": "Solicitar colação de grau extraordinária - UEG",
+          "description": "Este serviço permite ao aluno concluinte solicitar a outorga de grau fora da cerimônia ordinária, quando precisa comprovar a conclusão do curso para: da posse em cargo ou emprego público ou privado; inscrição em processo seletivo de ingresso, residência, matrícula em curso de pós-graduação lato sensu (especialização) ou stricto sensu (mestrado ou doutorado); de tratamento de saúde do concluinte; outras situações devidamente justificadas.",
+          "legal": "DECRETO Nº 10.603 Resolução CsU n. 636/2014",
           "basicUnit": "",
           "complementaryUnit": "Direção do Campus",
           "organizations": [
@@ -44082,8 +44112,8 @@
           "children": []
         },
         {
-          "name": "Cadastro e emissão de carteirinha na Biblioteca",
-          "description": "Cadastro no sistema de Bibliotecas da UEG, possibilitando ao usuário utilizar dos serviços da biblioteca, como empréstimo de livro, reserva de material, renovação de empréstimo etc",
+          "name": "Solicitar carteirinha da biblioteca - UEG",
+          "description": "Cadastro no sistema de Bibliotecas da UEG, possibilitando ao usuário utilizar dos serviços da biblioteca, como empréstimo de livro, reserva de material, renovação de empréstimo etc.",
           "legal": "DECRETO Nº 10.603 Art. 135",
           "basicUnit": "",
           "complementaryUnit": "Bibliotecas da UEG",
@@ -46696,8 +46726,8 @@
               "type": "process",
               "children": [
                 {
-                  "name": "Alteração do nome civil para o nome social em registros oficiais",
-                  "description": "É a alteração do nome dos registros oficiais e acadêmicos da Universidade para o nome desejado pelo usuário (nome social) quando o seu nome civil não refletir a sua identidade de gênero",
+                  "name": "Solicitar inclusão ou alteração de nome social - UEG",
+                  "description": "Você pode solicitar a inclusão ou a retirada do seu nome social nos registros administrativos e acadêmicos da Universidade. O nome social é o nome pelo qual você deseja ser chamado e identificado quando seu nome civil não corresponde à sua identidade de gênero.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Secretaria Acadêmica do Campus / Gerência de Gestão e Desenvolvimento de Pessoas (Administração Central)",
@@ -46741,8 +46771,8 @@
                   "children": []
                 },
                 {
-                  "name": "Emissão de Certificados de Conclusão de Curso de Pós-Graduação Lato Sensu - 1ª via",
-                  "description": "A Coordenação de Pós Graduação Lato Sensu é responsável por emitir certificados de pós-graduação de cursos oferecidos pelos Câmpus da UEG em Goiás, em parcerias e também à distância",
+                  "name": "Emitir certificado de conclusão da pós-graduação - UEG",
+                  "description": "A Coordenação de Pós Graduação Lato Sensu é responsável por emitir certificados de pós-graduação de cursos oferecidos pelos Câmpus da UEG em Goiás, em parcerias e também à distância.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação Lato Sensu",
@@ -46756,7 +46786,7 @@
                   "children": []
                 },
                 {
-                  "name": "Atestado de veracidade de diploma e documentos acadêmicos",
+                  "name": "Obter atestado de veracidade de diploma ou documentos - UEG",
                   "description": "É a validação de documento acadêmico, em especial diplomas, como verdadeiro",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
@@ -46771,9 +46801,9 @@
                   "children": []
                 },
                 {
-                  "name": "Emitir Histórico Acadêmico",
-                  "description": "O histórico escolar é o documento que apresenta as principais informações do desenvolvimento acadêmico do aluno, como: as disciplinas cursadas, as notas, a quantidade de horas de atividades complementares já cumpridas etc",
-                  "legal": "DECRETO Nº 10.603",
+                  "name": "Emitir Histórico Acadêmico - UEG",
+                  "description": "O histórico escolar é o documento que apresenta as principais informações do desenvolvimento acadêmico do aluno, como: as disciplinas cursadas, as notas, a quantidade de horas de atividades complementares já cumpridas etc.",
+                  "legal": "DECRETO Nº 10.603 Resolução CsA n. 1.052, de 22 de fevereiro de 2018",
                   "basicUnit": "",
                   "complementaryUnit": "Secretaria Acadêmica do Campus",
                   "organizations": [
@@ -46801,9 +46831,9 @@
                   "children": []
                 },
                 {
-                  "name": "Emissão de declarações para orientadores de IC&T e alunos de IC&T",
-                  "description": "Solicitação de emissão (manualmente) de declarações para alunos que concluiram o IC&T e orientadores",
-                  "legal": "DECRETO Nº 10.603",
+                  "name": "Emitir declaração de Iniciação Científica e Tecnológica - UEG",
+                  "description": "Solicitação de emissão (manualmente) de declarações para alunos que concluiram o IC&T e orientadores.",
+                  "legal": "DECRETO Nº 10.603 Resolução CsU n. 771, de 29 de junho de 2016.",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação de Iniciação Científica e Tecnológica",
                   "organizations": [
@@ -46831,7 +46861,7 @@
                   "children": []
                 },
                 {
-                  "name": "Expedição de 1ª via de Diploma",
+                  "name": "Obter 1ª via do diploma de graduação - UEG",
                   "description": "Diploma é o documento oficial que comprova o título acadêmico obtido pelo aluno na UEG na graduação (bacharelado, licenciatura ou tecnólogo) ou na pós-graduação stricto sensu (mestrado ou doutorado)",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
@@ -46846,7 +46876,7 @@
                   "children": []
                 },
                 {
-                  "name": "Expedição de 2ª via de Diploma",
+                  "name": "Obter 2ª via do diploma - UEG",
                   "description": "Emissão de nova via de diploma previamente emitido pela UEG em razão de extravio ou danificação da 1ª via",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
@@ -46861,8 +46891,8 @@
                   "children": []
                 },
                 {
-                  "name": "Emissão de declaração de vínculo na graduação",
-                  "description": "Solicitação de declaração que ateste o vínculo do aluno com a Universidade",
+                  "name": "Emitir declaração de vínculo da graduação - UEG",
+                  "description": "Este serviço permite que o(a) aluno(a) da Universidade Estadual de Goiás (UEG) emita uma declaração que comprove seu vínculo com a instituição de ensino.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Assessoria de Sistemas Acadêmicos da Gerência da Secretaria Acadêmica Central",
@@ -46977,6 +47007,21 @@
                   ],
                   "source": "Carta de Serviço",
                   "situation": "Identificado",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
+                  "name": "Consultar Desempenho Acadêmico",
+                  "description": "Este serviço permite que você consulte suas notas e sua frequência nas disciplinas dos cursos de graduação da Universidade Estadual de Goiás (UEG) em que está matriculado ou já esteve matriculado.",
+                  "legal": "",
+                  "basicUnit": "",
+                  "complementaryUnit": "Gerência de Tecnologia; Coordenação de Engenharia de Software",
+                  "organizations": [
+                    "UEG"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
                   "link": "",
                   "type": "service",
                   "children": []
@@ -47117,7 +47162,7 @@
                   "children": []
                 },
                 {
-                  "name": "Exame de Proficiência em disciplina na graduação",
+                  "name": "Solicitar exame de proficiência em disciplina da graduação - UEG",
                   "description": "Trata-se de um exame para verificar notório conhecimento do aluno em determinada disciplina, sendo que, em caso de aprovação, ele será considerado aprovado na disciplina",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
@@ -47192,9 +47237,9 @@
                   "children": []
                 },
                 {
-                  "name": "Outorga de grau extraordinária",
-                  "description": "Trata-se da outorga do grau acadêmico para o aluno em ato específico, fora da cerimônia de outorga de grau ordinária, em razão: 1) da posse em cargo ou emprego público ou privado; 2) inscrição em processo seletivo de ingresso, residência, matrícula em curso de pós-graduação lato sensu (especialização) ou stricto sensu (mestrado ou doutorado); 3) de tratamento de saúde do concluinte; 4) outras situações devidamente justificadas",
-                  "legal": "DECRETO Nº 10.603",
+                  "name": "Solicitar colação de grau extraordinária - UEG",
+                  "description": "Este serviço permite ao aluno concluinte solicitar a outorga de grau fora da cerimônia ordinária, quando precisa comprovar a conclusão do curso para: da posse em cargo ou emprego público ou privado; inscrição em processo seletivo de ingresso, residência, matrícula em curso de pós-graduação lato sensu (especialização) ou stricto sensu (mestrado ou doutorado); de tratamento de saúde do concluinte; outras situações devidamente justificadas.",
+                  "legal": "DECRETO Nº 10.603 Resolução CsU n. 636/2014",
                   "basicUnit": "",
                   "complementaryUnit": "Direção do Campus",
                   "organizations": [
@@ -47222,8 +47267,8 @@
                   "children": []
                 },
                 {
-                  "name": "Cadastro e emissão de carteirinha na Biblioteca",
-                  "description": "Cadastro no sistema de Bibliotecas da UEG, possibilitando ao usuário utilizar dos serviços da biblioteca, como empréstimo de livro, reserva de material, renovação de empréstimo etc",
+                  "name": "Solicitar carteirinha da biblioteca - UEG",
+                  "description": "Cadastro no sistema de Bibliotecas da UEG, possibilitando ao usuário utilizar dos serviços da biblioteca, como empréstimo de livro, reserva de material, renovação de empréstimo etc.",
                   "legal": "DECRETO Nº 10.603 Art. 135",
                   "basicUnit": "",
                   "complementaryUnit": "Bibliotecas da UEG",
@@ -47668,7 +47713,7 @@
         "processes": 21,
         "workProcesses": 121,
         "organizations": 4,
-        "services": 81,
+        "services": 82,
         "activities": 0
       }
     },
@@ -189484,11 +189529,11 @@
               "children": []
             },
             {
-              "name": "Emissão de atestado de capacidade técnica para fornecedores e executores de serviços e obras",
+              "name": "Obter atestado de capacidade técnica para fornecedores e prestadores - UEG",
               "description": "Emissão de atestado que comprova a capacidade técnica de fornecedor e executor de serviços e obras conforme previsto no art. 30, § 1º, da Lei federal n. 8.666/1993.",
               "legal": "",
               "basicUnit": "",
-              "complementaryUnit": "Gerência de Compras e Apoio Administrativo",
+              "complementaryUnit": "Gerência de Compras e Apoio Administrativo UEG",
               "organizations": [
                 "UEG"
               ],
@@ -191357,11 +191402,11 @@
           "children": []
         },
         {
-          "name": "Emissão de atestado de capacidade técnica para fornecedores e executores de serviços e obras",
+          "name": "Obter atestado de capacidade técnica para fornecedores e prestadores - UEG",
           "description": "Emissão de atestado que comprova a capacidade técnica de fornecedor e executor de serviços e obras conforme previsto no art. 30, § 1º, da Lei federal n. 8.666/1993.",
           "legal": "",
           "basicUnit": "",
-          "complementaryUnit": "Gerência de Compras e Apoio Administrativo",
+          "complementaryUnit": "Gerência de Compras e Apoio Administrativo UEG",
           "organizations": [
             "UEG"
           ],
@@ -191882,11 +191927,11 @@
               "children": []
             },
             {
-              "name": "Emissão de atestado de capacidade técnica para fornecedores e executores de serviços e obras",
+              "name": "Obter atestado de capacidade técnica para fornecedores e prestadores - UEG",
               "description": "Emissão de atestado que comprova a capacidade técnica de fornecedor e executor de serviços e obras conforme previsto no art. 30, § 1º, da Lei federal n. 8.666/1993.",
               "legal": "",
               "basicUnit": "",
-              "complementaryUnit": "Gerência de Compras e Apoio Administrativo",
+              "complementaryUnit": "Gerência de Compras e Apoio Administrativo UEG",
               "organizations": [
                 "UEG"
               ],
