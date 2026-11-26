@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "groups": [
     {
       "name": "Agropecuária",
@@ -16309,11 +16309,11 @@
               "children": []
             },
             {
-              "name": "Incubação de Empresas pelo PROIN.UEG",
-              "description": "Suporte através da disponibilização de instalações físicas, serviços de acompanhamento empresarial e orientações complementares para empreendedores por meio da incubação de projetos de negócios com ideias inovadoras",
+              "name": "Solicitar incubação de empresa no PROIN-UEG",
+              "description": "Suporte através da disponibilização de instalações físicas, serviços de acompanhamento empresarial e orientações complementares para empreendedores por meio da incubação de projetos de negócios com ideias inovadoras.",
               "legal": "Carta de Serviços",
               "basicUnit": "",
-              "complementaryUnit": "Comunidade interna da UEG",
+              "complementaryUnit": "Inova Centro UEG",
               "organizations": [
                 "UEG"
               ],
@@ -17203,8 +17203,8 @@
               "children": []
             },
             {
-              "name": "Registro de pedidos de patentes para garantir a Propriedade Intelectual",
-              "description": "Inserção, no banco de dados de patentes disponibilizado no INPI, das informações exigidas acerca de propriedade intelectual a ser patenteada",
+              "name": "Solicitar pedido de patente para garantir a propriedade intelectual - UEG",
+              "description": "Este serviço permite a você obter apoio da Agência de Inovação da UEG para registrar sua propriedade intelectual junto ao INPI.",
               "legal": "Carta de Serviços",
               "basicUnit": "",
               "complementaryUnit": "Agência de Inovação da UEG",
@@ -19389,11 +19389,11 @@
       ],
       "services": [
         {
-          "name": "Incubação de Empresas pelo PROIN.UEG",
-          "description": "Suporte através da disponibilização de instalações físicas, serviços de acompanhamento empresarial e orientações complementares para empreendedores por meio da incubação de projetos de negócios com ideias inovadoras",
+          "name": "Solicitar incubação de empresa no PROIN-UEG",
+          "description": "Suporte através da disponibilização de instalações físicas, serviços de acompanhamento empresarial e orientações complementares para empreendedores por meio da incubação de projetos de negócios com ideias inovadoras.",
           "legal": "Carta de Serviços",
           "basicUnit": "",
-          "complementaryUnit": "Comunidade interna da UEG",
+          "complementaryUnit": "Inova Centro UEG",
           "organizations": [
             "UEG"
           ],
@@ -19569,8 +19569,8 @@
           "children": []
         },
         {
-          "name": "Registro de pedidos de patentes para garantir a Propriedade Intelectual",
-          "description": "Inserção, no banco de dados de patentes disponibilizado no INPI, das informações exigidas acerca de propriedade intelectual a ser patenteada",
+          "name": "Solicitar pedido de patente para garantir a propriedade intelectual - UEG",
+          "description": "Este serviço permite a você obter apoio da Agência de Inovação da UEG para registrar sua propriedade intelectual junto ao INPI.",
           "legal": "Carta de Serviços",
           "basicUnit": "",
           "complementaryUnit": "Agência de Inovação da UEG",
@@ -20248,11 +20248,11 @@
                   "children": []
                 },
                 {
-                  "name": "Incubação de Empresas pelo PROIN.UEG",
-                  "description": "Suporte através da disponibilização de instalações físicas, serviços de acompanhamento empresarial e orientações complementares para empreendedores por meio da incubação de projetos de negócios com ideias inovadoras",
+                  "name": "Solicitar incubação de empresa no PROIN-UEG",
+                  "description": "Suporte através da disponibilização de instalações físicas, serviços de acompanhamento empresarial e orientações complementares para empreendedores por meio da incubação de projetos de negócios com ideias inovadoras.",
                   "legal": "Carta de Serviços",
                   "basicUnit": "",
-                  "complementaryUnit": "Comunidade interna da UEG",
+                  "complementaryUnit": "Inova Centro UEG",
                   "organizations": [
                     "UEG"
                   ],
@@ -21142,8 +21142,8 @@
                   "children": []
                 },
                 {
-                  "name": "Registro de pedidos de patentes para garantir a Propriedade Intelectual",
-                  "description": "Inserção, no banco de dados de patentes disponibilizado no INPI, das informações exigidas acerca de propriedade intelectual a ser patenteada",
+                  "name": "Solicitar pedido de patente para garantir a propriedade intelectual - UEG",
+                  "description": "Este serviço permite a você obter apoio da Agência de Inovação da UEG para registrar sua propriedade intelectual junto ao INPI.",
                   "legal": "Carta de Serviços",
                   "basicUnit": "",
                   "complementaryUnit": "Agência de Inovação da UEG",
@@ -40412,8 +40412,8 @@
               "children": []
             },
             {
-              "name": "Revalidação de diploma de graduação estrangeiro",
-              "description": "Procedimento realizado por instituição brasileira para declaração de equivalência dos diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, tornando-os válidos em território nacional",
+              "name": "Solicitar revalidação de diploma de graduação emitido no exterior - UEG",
+              "description": "Procedimento realizado por instituição brasileira para declaração de equivalência dos diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, tornando-os válidos em território nacional.",
               "legal": "DECRETO Nº 10.603 Art. 86; Art. 9º, XI e XII; Art. 25, V",
               "basicUnit": "",
               "complementaryUnit": "Gerencia da Secretaria Acadêmica Central",
@@ -40427,8 +40427,8 @@
               "children": []
             },
             {
-              "name": "Registro de diplomas de instituições de ensino superior",
-              "description": "É o serviço oferecido a Instituições de Ensino Superior que não possuem a qualificação de universidade ou centro universitário e que confere validade nacional ao diploma expedido",
+              "name": "Solicitar registro de diploma de faculdade - UEG",
+              "description": "É o serviço oferecido a Instituições de Ensino Superior que não possuem a qualificação de universidade ou centro universitário e que confere validade nacional ao diploma expedido.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Coordenação de Diplomas",
@@ -40458,8 +40458,8 @@
           "type": "process",
           "children": [
             {
-              "name": "Ingresso em curso de graduação como portador de diploma de graduação",
-              "description": "Solicitação de ingresso em curso de graduação na UEG na condição de portador de diploma de curso de graduação conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, transferência externa e reingresso)",
+              "name": "Solicitar ingresso na graduação como portador de diploma - UEG",
+              "description": "Solicitação de ingresso em curso de graduação na UEG na condição de portador de diploma de curso de graduação conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, transferência externa e reingresso).",
               "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
               "basicUnit": "",
               "complementaryUnit": "Coordenação de Ensino da Pró-Reitoria de Graduação da UEG",
@@ -40488,8 +40488,8 @@
               "children": []
             },
             {
-              "name": "Ingresso em Cursos de Graduação Por Meio de Processos Seletivos Especiais",
-              "description": "É um processo seletivo especial com oferta de 1 (uma) vaga adicional de cada curso de graduação da UEG para refugiados e portadores de visto humanitário no Brasil e 2 (duas) vagas adicionais de cada curso de graduação da UEG para quilombolas",
+              "name": "Inscrever-se em processo seletivo especial para a graduação - UEG",
+              "description": "É um processo seletivo especial com oferta de 1 (uma) vaga adicional de cada curso de graduação da UEG para refugiados e portadores de visto humanitário no Brasil e 2 (duas) vagas adicionais de cada curso de graduação da UEG para quilombolas.",
               "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
               "basicUnit": "",
               "complementaryUnit": "Núcleo de Seleção da Administração Central da UEG",
@@ -40533,8 +40533,8 @@
               "children": []
             },
             {
-              "name": "Reingresso em curso de graduação",
-              "description": "Para concorrer a vaga, os candidatos (discentes da UEG) deverão estar regularmente matriculados no semestre letivo, respeitando o prazo máximo de integralização previsto na matriz do curso, sendo admitida a: - Transferência de turno do mesmo curso. - Transferência para outro curso da mesma área do conhecimento no mesmo câmpus/UnU. Transferência para outro curso da mesma área do conhecimento em outro câmpus/UnU. - Transferências para outro câmpus/UnU do mesmo curso. - Transferências da EaD para presencial",
+              "name": "Solicitar reingresso na graduação - UEG",
+              "description": "Para concorrer a vaga, os candidatos (discentes da UEG) deverão estar regularmente matriculados no semestre letivo, respeitando o prazo máximo de integralização previsto na matriz do curso, sendo admitida a: - Transferência de turno do mesmo curso. - Transferência para outro curso da mesma área do conhecimento no mesmo câmpus/UnU. - Transferência para outro curso da mesma área do conhecimento em outro câmpus/UnU. - Transferências para outro câmpus/UnU do mesmo curso. - Transferências da EaD para presencial.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Coordenação Acadêmica da Pro-Reitoria de Graduação",
@@ -40683,9 +40683,9 @@
               "children": []
             },
             {
-              "name": "Prorrogação do prazo para integralização curricular",
-              "description": "Trata-se da possibilidade de o aluno prorrogar o prazo máximo para termino do curso por no mínimo 6 meses e máximo de 2 anos",
-              "legal": "DECRETO Nº 10.603",
+              "name": "Solicitar prorrogação do prazo para concluir o curso - UEG",
+              "description": "Este serviço permite ao aluno prorrogar o prazo máximo para concluir o curso por, no mínimo, 6 meses e, no máximo, 2 anos.",
+              "legal": "DECRETO Nº 10.603 Resolução CsA n. 1,052/2018 (Regulamento Geral da Graduação)",
               "basicUnit": "",
               "complementaryUnit": "Colegiado do Curso",
               "organizations": [
@@ -40698,8 +40698,8 @@
               "children": []
             },
             {
-              "name": "Realização de exercícios domiciliares para abono de falta",
-              "description": "É a realização de exercícios em domicílio para alunos da graduação que se encontrem doentes e necessitem permanecer afastados do ambiente acadêmico, abonando as faltas atribuídas no período do afastamento",
+              "name": "Solicitar exercícios domiciliares para abono de falta - UEG",
+              "description": "É a realização de exercícios em domicílio para alunos da graduação que se encontrem doentes e necessitem permanecer afastados do ambiente acadêmico, abonando as faltas atribuídas no período do afastamento.",
               "legal": "DECRETO Nº 10.603 Art. 66, VI e VIII; Art. 9º, X",
               "basicUnit": "",
               "complementaryUnit": "Coordenação Setorial do Curso",
@@ -40713,8 +40713,8 @@
               "children": []
             },
             {
-              "name": "Ingresso em Cursos de Pós-Graduação Lato Sensu (especializações)",
-              "description": "São cursos voltados à formação continuada após a graduação com objetivo de: especializar, aperfeiçoar ou atualizar portadores de diploma em nível superior; aprimorar o conhecimento para o melhor exercício da profissão; permitir o domínio científico ou técnico de uma área limitada do saber",
+              "name": "Inscrever-se em cursos de pós-graduação (especializações) - UEG",
+              "description": "São cursos voltados à formação continuada após a graduação com objetivo de: especializar, aperfeiçoar ou atualizar portadores de diploma em nível superior; aprimorar o conhecimento para o melhor exercício da profissão; permitir o domínio científico ou técnico de uma área limitada do saber.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Coordenação Stricto Sensu",
@@ -40728,8 +40728,8 @@
               "children": []
             },
             {
-              "name": "Ingresso em Cursos de Pós-Graduação Stricto Sensu (mestrado e doutorado)",
-              "description": "Trata-se de ingresso de interessados nos Programas de Pós-graduação, Mestrado e Doutorado em nível stricto sensu",
+              "name": "Inscrever-se em cursos de mestrado ou doutorado - UEG",
+              "description": "Trata – se de ingresso de interessados nos Programas de Pós-graduação, Mestrado e Doutorado em nível stricto sensu.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Coordenação de Pesquisa e Pós-Graduação da PRP – UEG",
@@ -40788,8 +40788,8 @@
               "children": []
             },
             {
-              "name": "Renovação presencial de empréstimo de material da biblioteca",
-              "description": "É o processo de renovação do prazo de empréstimo de um título que deve ser feito até o último dia válido do empréstimo de forma presencial na biblioteca, desde que o mesmo não esteja reservado",
+              "name": "Renovar presencialmente o empréstimo de material da biblioteca - UEG",
+              "description": "É o processo de renovação do prazo de empréstimo de um título que deve ser feito até o último dia válido do empréstimo de forma presencial na biblioteca, desde que o mesmo não esteja reservado.",
               "legal": "DECRETO Nº 10.603 Art. 135",
               "basicUnit": "",
               "complementaryUnit": "Bibliotecas da UEG",
@@ -40804,10 +40804,10 @@
             },
             {
               "name": "Renovar de forma online o empréstimo de material da biblioteca",
-              "description": "Serviço que permite renovar o prazo do empréstimo de um título, desde que ele não esteja reservado por outra pessoa. A renovação deve ser feita até a data de vencimento",
+              "description": "Serviço que permite renovar o prazo do empréstimo de um título, desde que ele não esteja reservado por outra pessoa. A renovação deve ser feita até a data de vencimento.",
               "legal": "DECRETO Nº 10.603 Art. 135",
               "basicUnit": "",
-              "complementaryUnit": "",
+              "complementaryUnit": "Sistema Integrado de Bibliotecas Regionais (SIBRE)",
               "organizations": [
                 "UEG"
               ],
@@ -40833,7 +40833,7 @@
               "children": []
             },
             {
-              "name": "Reserva presencial de material da biblioteca",
+              "name": "Reservar livro na biblioteca presencialmente - UEG",
               "description": "Trata-se da reserva de exemplar da biblioteca, tornando-o temporariamente indisponível para empréstimo por outros usuários",
               "legal": "DECRETO Nº 10.603 Art. 135",
               "basicUnit": "",
@@ -40863,8 +40863,8 @@
               "children": []
             },
             {
-              "name": "Oferta de Capacitação em Empreendedorismo",
-              "description": "Capacitação em empreendedorismo por meio de cursos e disciplinas",
+              "name": "Inscrever-se em curso de capacitação em empreendedorismo - UEG",
+              "description": "Capacitação em empreendedorismo por meio de cursos e disciplinas.",
               "legal": "DECRETO Nº 10.603 Art. 72; Art. 4º, IX e XIII",
               "basicUnit": "",
               "complementaryUnit": "Centro de Empreendedorismo, Tecnologia e Inovação da Universidade Estadual de Goiás",
@@ -43767,8 +43767,8 @@
           "children": []
         },
         {
-          "name": "Revalidação de diploma de graduação estrangeiro",
-          "description": "Procedimento realizado por instituição brasileira para declaração de equivalência dos diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, tornando-os válidos em território nacional",
+          "name": "Solicitar revalidação de diploma de graduação emitido no exterior - UEG",
+          "description": "Procedimento realizado por instituição brasileira para declaração de equivalência dos diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, tornando-os válidos em território nacional.",
           "legal": "DECRETO Nº 10.603 Art. 86; Art. 9º, XI e XII; Art. 25, V",
           "basicUnit": "",
           "complementaryUnit": "Gerencia da Secretaria Acadêmica Central",
@@ -43782,8 +43782,8 @@
           "children": []
         },
         {
-          "name": "Registro de diplomas de instituições de ensino superior",
-          "description": "É o serviço oferecido a Instituições de Ensino Superior que não possuem a qualificação de universidade ou centro universitário e que confere validade nacional ao diploma expedido",
+          "name": "Solicitar registro de diploma de faculdade - UEG",
+          "description": "É o serviço oferecido a Instituições de Ensino Superior que não possuem a qualificação de universidade ou centro universitário e que confere validade nacional ao diploma expedido.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Coordenação de Diplomas",
@@ -43797,8 +43797,8 @@
           "children": []
         },
         {
-          "name": "Ingresso em curso de graduação como portador de diploma de graduação",
-          "description": "Solicitação de ingresso em curso de graduação na UEG na condição de portador de diploma de curso de graduação conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, transferência externa e reingresso)",
+          "name": "Solicitar ingresso na graduação como portador de diploma - UEG",
+          "description": "Solicitação de ingresso em curso de graduação na UEG na condição de portador de diploma de curso de graduação conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, transferência externa e reingresso).",
           "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
           "basicUnit": "",
           "complementaryUnit": "Coordenação de Ensino da Pró-Reitoria de Graduação da UEG",
@@ -43827,8 +43827,8 @@
           "children": []
         },
         {
-          "name": "Ingresso em Cursos de Graduação Por Meio de Processos Seletivos Especiais",
-          "description": "É um processo seletivo especial com oferta de 1 (uma) vaga adicional de cada curso de graduação da UEG para refugiados e portadores de visto humanitário no Brasil e 2 (duas) vagas adicionais de cada curso de graduação da UEG para quilombolas",
+          "name": "Inscrever-se em processo seletivo especial para a graduação - UEG",
+          "description": "É um processo seletivo especial com oferta de 1 (uma) vaga adicional de cada curso de graduação da UEG para refugiados e portadores de visto humanitário no Brasil e 2 (duas) vagas adicionais de cada curso de graduação da UEG para quilombolas.",
           "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
           "basicUnit": "",
           "complementaryUnit": "Núcleo de Seleção da Administração Central da UEG",
@@ -43872,8 +43872,8 @@
           "children": []
         },
         {
-          "name": "Reingresso em curso de graduação",
-          "description": "Para concorrer a vaga, os candidatos (discentes da UEG) deverão estar regularmente matriculados no semestre letivo, respeitando o prazo máximo de integralização previsto na matriz do curso, sendo admitida a: - Transferência de turno do mesmo curso. - Transferência para outro curso da mesma área do conhecimento no mesmo câmpus/UnU. Transferência para outro curso da mesma área do conhecimento em outro câmpus/UnU. - Transferências para outro câmpus/UnU do mesmo curso. - Transferências da EaD para presencial",
+          "name": "Solicitar reingresso na graduação - UEG",
+          "description": "Para concorrer a vaga, os candidatos (discentes da UEG) deverão estar regularmente matriculados no semestre letivo, respeitando o prazo máximo de integralização previsto na matriz do curso, sendo admitida a: - Transferência de turno do mesmo curso. - Transferência para outro curso da mesma área do conhecimento no mesmo câmpus/UnU. - Transferência para outro curso da mesma área do conhecimento em outro câmpus/UnU. - Transferências para outro câmpus/UnU do mesmo curso. - Transferências da EaD para presencial.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Coordenação Acadêmica da Pro-Reitoria de Graduação",
@@ -44022,9 +44022,9 @@
           "children": []
         },
         {
-          "name": "Prorrogação do prazo para integralização curricular",
-          "description": "Trata-se da possibilidade de o aluno prorrogar o prazo máximo para termino do curso por no mínimo 6 meses e máximo de 2 anos",
-          "legal": "DECRETO Nº 10.603",
+          "name": "Solicitar prorrogação do prazo para concluir o curso - UEG",
+          "description": "Este serviço permite ao aluno prorrogar o prazo máximo para concluir o curso por, no mínimo, 6 meses e, no máximo, 2 anos.",
+          "legal": "DECRETO Nº 10.603 Resolução CsA n. 1,052/2018 (Regulamento Geral da Graduação)",
           "basicUnit": "",
           "complementaryUnit": "Colegiado do Curso",
           "organizations": [
@@ -44037,8 +44037,8 @@
           "children": []
         },
         {
-          "name": "Realização de exercícios domiciliares para abono de falta",
-          "description": "É a realização de exercícios em domicílio para alunos da graduação que se encontrem doentes e necessitem permanecer afastados do ambiente acadêmico, abonando as faltas atribuídas no período do afastamento",
+          "name": "Solicitar exercícios domiciliares para abono de falta - UEG",
+          "description": "É a realização de exercícios em domicílio para alunos da graduação que se encontrem doentes e necessitem permanecer afastados do ambiente acadêmico, abonando as faltas atribuídas no período do afastamento.",
           "legal": "DECRETO Nº 10.603 Art. 66, VI e VIII; Art. 9º, X",
           "basicUnit": "",
           "complementaryUnit": "Coordenação Setorial do Curso",
@@ -44052,8 +44052,8 @@
           "children": []
         },
         {
-          "name": "Ingresso em Cursos de Pós-Graduação Lato Sensu (especializações)",
-          "description": "São cursos voltados à formação continuada após a graduação com objetivo de: especializar, aperfeiçoar ou atualizar portadores de diploma em nível superior; aprimorar o conhecimento para o melhor exercício da profissão; permitir o domínio científico ou técnico de uma área limitada do saber",
+          "name": "Inscrever-se em cursos de pós-graduação (especializações) - UEG",
+          "description": "São cursos voltados à formação continuada após a graduação com objetivo de: especializar, aperfeiçoar ou atualizar portadores de diploma em nível superior; aprimorar o conhecimento para o melhor exercício da profissão; permitir o domínio científico ou técnico de uma área limitada do saber.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Coordenação Stricto Sensu",
@@ -44067,8 +44067,8 @@
           "children": []
         },
         {
-          "name": "Ingresso em Cursos de Pós-Graduação Stricto Sensu (mestrado e doutorado)",
-          "description": "Trata-se de ingresso de interessados nos Programas de Pós-graduação, Mestrado e Doutorado em nível stricto sensu",
+          "name": "Inscrever-se em cursos de mestrado ou doutorado - UEG",
+          "description": "Trata – se de ingresso de interessados nos Programas de Pós-graduação, Mestrado e Doutorado em nível stricto sensu.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Coordenação de Pesquisa e Pós-Graduação da PRP – UEG",
@@ -44127,8 +44127,8 @@
           "children": []
         },
         {
-          "name": "Renovação presencial de empréstimo de material da biblioteca",
-          "description": "É o processo de renovação do prazo de empréstimo de um título que deve ser feito até o último dia válido do empréstimo de forma presencial na biblioteca, desde que o mesmo não esteja reservado",
+          "name": "Renovar presencialmente o empréstimo de material da biblioteca - UEG",
+          "description": "É o processo de renovação do prazo de empréstimo de um título que deve ser feito até o último dia válido do empréstimo de forma presencial na biblioteca, desde que o mesmo não esteja reservado.",
           "legal": "DECRETO Nº 10.603 Art. 135",
           "basicUnit": "",
           "complementaryUnit": "Bibliotecas da UEG",
@@ -44143,10 +44143,10 @@
         },
         {
           "name": "Renovar de forma online o empréstimo de material da biblioteca",
-          "description": "Serviço que permite renovar o prazo do empréstimo de um título, desde que ele não esteja reservado por outra pessoa. A renovação deve ser feita até a data de vencimento",
+          "description": "Serviço que permite renovar o prazo do empréstimo de um título, desde que ele não esteja reservado por outra pessoa. A renovação deve ser feita até a data de vencimento.",
           "legal": "DECRETO Nº 10.603 Art. 135",
           "basicUnit": "",
-          "complementaryUnit": "",
+          "complementaryUnit": "Sistema Integrado de Bibliotecas Regionais (SIBRE)",
           "organizations": [
             "UEG"
           ],
@@ -44172,7 +44172,7 @@
           "children": []
         },
         {
-          "name": "Reserva presencial de material da biblioteca",
+          "name": "Reservar livro na biblioteca presencialmente - UEG",
           "description": "Trata-se da reserva de exemplar da biblioteca, tornando-o temporariamente indisponível para empréstimo por outros usuários",
           "legal": "DECRETO Nº 10.603 Art. 135",
           "basicUnit": "",
@@ -44202,8 +44202,8 @@
           "children": []
         },
         {
-          "name": "Oferta de Capacitação em Empreendedorismo",
-          "description": "Capacitação em empreendedorismo por meio de cursos e disciplinas",
+          "name": "Inscrever-se em curso de capacitação em empreendedorismo - UEG",
+          "description": "Capacitação em empreendedorismo por meio de cursos e disciplinas.",
           "legal": "DECRETO Nº 10.603 Art. 72; Art. 4º, IX e XIII",
           "basicUnit": "",
           "complementaryUnit": "Centro de Empreendedorismo, Tecnologia e Inovação da Universidade Estadual de Goiás",
@@ -46906,8 +46906,8 @@
                   "children": []
                 },
                 {
-                  "name": "Revalidação de diploma de graduação estrangeiro",
-                  "description": "Procedimento realizado por instituição brasileira para declaração de equivalência dos diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, tornando-os válidos em território nacional",
+                  "name": "Solicitar revalidação de diploma de graduação emitido no exterior - UEG",
+                  "description": "Procedimento realizado por instituição brasileira para declaração de equivalência dos diplomas de graduação expedidos por estabelecimentos estrangeiros de ensino superior, tornando-os válidos em território nacional.",
                   "legal": "DECRETO Nº 10.603 Art. 86; Art. 9º, XI e XII; Art. 25, V",
                   "basicUnit": "",
                   "complementaryUnit": "Gerencia da Secretaria Acadêmica Central",
@@ -46921,8 +46921,8 @@
                   "children": []
                 },
                 {
-                  "name": "Registro de diplomas de instituições de ensino superior",
-                  "description": "É o serviço oferecido a Instituições de Ensino Superior que não possuem a qualificação de universidade ou centro universitário e que confere validade nacional ao diploma expedido",
+                  "name": "Solicitar registro de diploma de faculdade - UEG",
+                  "description": "É o serviço oferecido a Instituições de Ensino Superior que não possuem a qualificação de universidade ou centro universitário e que confere validade nacional ao diploma expedido.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação de Diplomas",
@@ -46952,8 +46952,8 @@
               "type": "process",
               "children": [
                 {
-                  "name": "Ingresso em curso de graduação como portador de diploma de graduação",
-                  "description": "Solicitação de ingresso em curso de graduação na UEG na condição de portador de diploma de curso de graduação conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, transferência externa e reingresso)",
+                  "name": "Solicitar ingresso na graduação como portador de diploma - UEG",
+                  "description": "Solicitação de ingresso em curso de graduação na UEG na condição de portador de diploma de curso de graduação conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência interna, transferência externa e reingresso).",
                   "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação de Ensino da Pró-Reitoria de Graduação da UEG",
@@ -46982,8 +46982,8 @@
                   "children": []
                 },
                 {
-                  "name": "Ingresso em Cursos de Graduação Por Meio de Processos Seletivos Especiais",
-                  "description": "É um processo seletivo especial com oferta de 1 (uma) vaga adicional de cada curso de graduação da UEG para refugiados e portadores de visto humanitário no Brasil e 2 (duas) vagas adicionais de cada curso de graduação da UEG para quilombolas",
+                  "name": "Inscrever-se em processo seletivo especial para a graduação - UEG",
+                  "description": "É um processo seletivo especial com oferta de 1 (uma) vaga adicional de cada curso de graduação da UEG para refugiados e portadores de visto humanitário no Brasil e 2 (duas) vagas adicionais de cada curso de graduação da UEG para quilombolas.",
                   "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
                   "basicUnit": "",
                   "complementaryUnit": "Núcleo de Seleção da Administração Central da UEG",
@@ -47027,8 +47027,8 @@
                   "children": []
                 },
                 {
-                  "name": "Reingresso em curso de graduação",
-                  "description": "Para concorrer a vaga, os candidatos (discentes da UEG) deverão estar regularmente matriculados no semestre letivo, respeitando o prazo máximo de integralização previsto na matriz do curso, sendo admitida a: - Transferência de turno do mesmo curso. - Transferência para outro curso da mesma área do conhecimento no mesmo câmpus/UnU. Transferência para outro curso da mesma área do conhecimento em outro câmpus/UnU. - Transferências para outro câmpus/UnU do mesmo curso. - Transferências da EaD para presencial",
+                  "name": "Solicitar reingresso na graduação - UEG",
+                  "description": "Para concorrer a vaga, os candidatos (discentes da UEG) deverão estar regularmente matriculados no semestre letivo, respeitando o prazo máximo de integralização previsto na matriz do curso, sendo admitida a: - Transferência de turno do mesmo curso. - Transferência para outro curso da mesma área do conhecimento no mesmo câmpus/UnU. - Transferência para outro curso da mesma área do conhecimento em outro câmpus/UnU. - Transferências para outro câmpus/UnU do mesmo curso. - Transferências da EaD para presencial.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação Acadêmica da Pro-Reitoria de Graduação",
@@ -47177,9 +47177,9 @@
                   "children": []
                 },
                 {
-                  "name": "Prorrogação do prazo para integralização curricular",
-                  "description": "Trata-se da possibilidade de o aluno prorrogar o prazo máximo para termino do curso por no mínimo 6 meses e máximo de 2 anos",
-                  "legal": "DECRETO Nº 10.603",
+                  "name": "Solicitar prorrogação do prazo para concluir o curso - UEG",
+                  "description": "Este serviço permite ao aluno prorrogar o prazo máximo para concluir o curso por, no mínimo, 6 meses e, no máximo, 2 anos.",
+                  "legal": "DECRETO Nº 10.603 Resolução CsA n. 1,052/2018 (Regulamento Geral da Graduação)",
                   "basicUnit": "",
                   "complementaryUnit": "Colegiado do Curso",
                   "organizations": [
@@ -47192,8 +47192,8 @@
                   "children": []
                 },
                 {
-                  "name": "Realização de exercícios domiciliares para abono de falta",
-                  "description": "É a realização de exercícios em domicílio para alunos da graduação que se encontrem doentes e necessitem permanecer afastados do ambiente acadêmico, abonando as faltas atribuídas no período do afastamento",
+                  "name": "Solicitar exercícios domiciliares para abono de falta - UEG",
+                  "description": "É a realização de exercícios em domicílio para alunos da graduação que se encontrem doentes e necessitem permanecer afastados do ambiente acadêmico, abonando as faltas atribuídas no período do afastamento.",
                   "legal": "DECRETO Nº 10.603 Art. 66, VI e VIII; Art. 9º, X",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação Setorial do Curso",
@@ -47207,8 +47207,8 @@
                   "children": []
                 },
                 {
-                  "name": "Ingresso em Cursos de Pós-Graduação Lato Sensu (especializações)",
-                  "description": "São cursos voltados à formação continuada após a graduação com objetivo de: especializar, aperfeiçoar ou atualizar portadores de diploma em nível superior; aprimorar o conhecimento para o melhor exercício da profissão; permitir o domínio científico ou técnico de uma área limitada do saber",
+                  "name": "Inscrever-se em cursos de pós-graduação (especializações) - UEG",
+                  "description": "São cursos voltados à formação continuada após a graduação com objetivo de: especializar, aperfeiçoar ou atualizar portadores de diploma em nível superior; aprimorar o conhecimento para o melhor exercício da profissão; permitir o domínio científico ou técnico de uma área limitada do saber.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação Stricto Sensu",
@@ -47222,8 +47222,8 @@
                   "children": []
                 },
                 {
-                  "name": "Ingresso em Cursos de Pós-Graduação Stricto Sensu (mestrado e doutorado)",
-                  "description": "Trata-se de ingresso de interessados nos Programas de Pós-graduação, Mestrado e Doutorado em nível stricto sensu",
+                  "name": "Inscrever-se em cursos de mestrado ou doutorado - UEG",
+                  "description": "Trata – se de ingresso de interessados nos Programas de Pós-graduação, Mestrado e Doutorado em nível stricto sensu.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação de Pesquisa e Pós-Graduação da PRP – UEG",
@@ -47282,8 +47282,8 @@
                   "children": []
                 },
                 {
-                  "name": "Renovação presencial de empréstimo de material da biblioteca",
-                  "description": "É o processo de renovação do prazo de empréstimo de um título que deve ser feito até o último dia válido do empréstimo de forma presencial na biblioteca, desde que o mesmo não esteja reservado",
+                  "name": "Renovar presencialmente o empréstimo de material da biblioteca - UEG",
+                  "description": "É o processo de renovação do prazo de empréstimo de um título que deve ser feito até o último dia válido do empréstimo de forma presencial na biblioteca, desde que o mesmo não esteja reservado.",
                   "legal": "DECRETO Nº 10.603 Art. 135",
                   "basicUnit": "",
                   "complementaryUnit": "Bibliotecas da UEG",
@@ -47298,10 +47298,10 @@
                 },
                 {
                   "name": "Renovar de forma online o empréstimo de material da biblioteca",
-                  "description": "Serviço que permite renovar o prazo do empréstimo de um título, desde que ele não esteja reservado por outra pessoa. A renovação deve ser feita até a data de vencimento",
+                  "description": "Serviço que permite renovar o prazo do empréstimo de um título, desde que ele não esteja reservado por outra pessoa. A renovação deve ser feita até a data de vencimento.",
                   "legal": "DECRETO Nº 10.603 Art. 135",
                   "basicUnit": "",
-                  "complementaryUnit": "",
+                  "complementaryUnit": "Sistema Integrado de Bibliotecas Regionais (SIBRE)",
                   "organizations": [
                     "UEG"
                   ],
@@ -47327,7 +47327,7 @@
                   "children": []
                 },
                 {
-                  "name": "Reserva presencial de material da biblioteca",
+                  "name": "Reservar livro na biblioteca presencialmente - UEG",
                   "description": "Trata-se da reserva de exemplar da biblioteca, tornando-o temporariamente indisponível para empréstimo por outros usuários",
                   "legal": "DECRETO Nº 10.603 Art. 135",
                   "basicUnit": "",
@@ -47357,8 +47357,8 @@
                   "children": []
                 },
                 {
-                  "name": "Oferta de Capacitação em Empreendedorismo",
-                  "description": "Capacitação em empreendedorismo por meio de cursos e disciplinas",
+                  "name": "Inscrever-se em curso de capacitação em empreendedorismo - UEG",
+                  "description": "Capacitação em empreendedorismo por meio de cursos e disciplinas.",
                   "legal": "DECRETO Nº 10.603 Art. 72; Art. 4º, IX e XIII",
                   "basicUnit": "",
                   "complementaryUnit": "Centro de Empreendedorismo, Tecnologia e Inovação da Universidade Estadual de Goiás",
