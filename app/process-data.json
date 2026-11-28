@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-28",
   "groups": [
     {
       "name": "Agropecuária",
@@ -16945,8 +16945,8 @@
               "children": []
             },
             {
-              "name": "Emissão de pareceres éticos para pesquisas envolvendo seres humanos",
-              "description": "O Comitê de Ética em Pesquisa da UEG se destina a avaliar eticamente as propostas de pesquisas científicas qualquer área do conhecimento que envolvem seres humanos com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise",
+              "name": "Solicitar parecer ético para pesquisa com seres humanos - UEG",
+              "description": "O Comitê de Ética em Pesquisa da UEG se destina a avaliar eticamente as propostas de pesquisas científicas qualquer área do conhecimento que envolvem seres humanos com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise.",
               "legal": "Carta de Serviços",
               "basicUnit": "",
               "complementaryUnit": "Pró-Reitoria de Pesquisa da UEG",
@@ -19524,8 +19524,8 @@
           "children": []
         },
         {
-          "name": "Emissão de pareceres éticos para pesquisas envolvendo seres humanos",
-          "description": "O Comitê de Ética em Pesquisa da UEG se destina a avaliar eticamente as propostas de pesquisas científicas qualquer área do conhecimento que envolvem seres humanos com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise",
+          "name": "Solicitar parecer ético para pesquisa com seres humanos - UEG",
+          "description": "O Comitê de Ética em Pesquisa da UEG se destina a avaliar eticamente as propostas de pesquisas científicas qualquer área do conhecimento que envolvem seres humanos com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise.",
           "legal": "Carta de Serviços",
           "basicUnit": "",
           "complementaryUnit": "Pró-Reitoria de Pesquisa da UEG",
@@ -20884,8 +20884,8 @@
                   "children": []
                 },
                 {
-                  "name": "Emissão de pareceres éticos para pesquisas envolvendo seres humanos",
-                  "description": "O Comitê de Ética em Pesquisa da UEG se destina a avaliar eticamente as propostas de pesquisas científicas qualquer área do conhecimento que envolvem seres humanos com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise",
+                  "name": "Solicitar parecer ético para pesquisa com seres humanos - UEG",
+                  "description": "O Comitê de Ética em Pesquisa da UEG se destina a avaliar eticamente as propostas de pesquisas científicas qualquer área do conhecimento que envolvem seres humanos com prioridade nos temas de relevância pública e de interesse estratégico da agenda de prioridades do SUS, com base nos indicadores epidemiológicos, emitindo parecer, devidamente justificado, sempre orientado pelos princípios da impessoalidade, transparência, razoabilidade, proporcionalidade e eficiência, dentro dos prazos estabelecidos em norma operacional, evitando redundâncias que resultem em morosidade na análise.",
                   "legal": "Carta de Serviços",
                   "basicUnit": "",
                   "complementaryUnit": "Pró-Reitoria de Pesquisa da UEG",
@@ -40593,7 +40593,7 @@
               "children": []
             },
             {
-              "name": "Trancamento de matrícula na graduação",
+              "name": "Solicitar trancamento de matrícula - UEG",
               "description": "É a solicitação feita pelo aluno, após sua matrícula, para permanecer vinculado à UEG. O trancamento é feito por semestre, portanto, caso o aluno pretenda ficar mais de um semestre afastado o mesmo deve renovar o seu trancamento a cada semestre, podendo utilizar este serviço até 4 (quatro) semestres",
               "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
               "basicUnit": "",
@@ -40608,7 +40608,7 @@
               "children": []
             },
             {
-              "name": "Transferência interna na graduação",
+              "name": "Solicitar transferência interna de curso ou câmpus - UEG",
               "description": "Solicitação de transferência entre Campus da UEG, no mesmo curso ou em cursos de áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência externa, reingresso e portadores de diploma)",
               "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
               "basicUnit": "",
@@ -40653,8 +40653,8 @@
               "children": []
             },
             {
-              "name": "Revisão de nota na graduação",
-              "description": "É a solicitação de revisão da correção realizada pelo professor em relação a uma atividade avaliativa (trabalho escrito, prova etc.) quando o aluno julga que foi prejudicado",
+              "name": "Solicitar revisão de nota - UEG",
+              "description": "É a solicitação de revisão da correção realizada pelo professor em relação a uma atividade avaliativa(trabalho escrito, prova etc.) quando o aluno julga que foi prejudicado",
               "legal": "DECRETO Nº 10.603 Art. 66, VI e VIII; Art. 9º, X",
               "basicUnit": "",
               "complementaryUnit": "Coordenação Setorial do Curso",
@@ -40878,7 +40878,7 @@
               "children": []
             },
             {
-              "name": "Utilização da tribuna acadêmica do conselho universitário",
+              "name": "Solicitar uso da Tribuna Acadêmica no Conselho Universitário - UEG",
               "description": "Solicitação para utilizar a fala em sessão plenária do Conselho Universitário por aluno(a), professor(a) ou servidores técnico-administrativo sem direito à voz no conselho.Solicitação para utilizar a fala em sessão plenária do Conselho Universitário por aluno(a), professor(a) ou servidores técnico-administrativo sem direito à voz no conselho",
               "legal": "DECRETO Nº 10.603 Art. 9º, VII e XIII; Art. 10",
               "basicUnit": "",
@@ -40893,8 +40893,8 @@
               "children": []
             },
             {
-              "name": "Solicitação de serviços tecnológicos",
-              "description": "Prestação de serviços tecnológicos para empresas e indústrias pelos professores e alunos da UEG disponíveis no Portifólio de Serviços Tecnológicos da institiução",
+              "name": "Solicitar prestação de serviços tecnológicos - UEG",
+              "description": "Prestação de serviços tecnológicos para empresas e indústrias pelos professores e alunos da UEG disponíveis no Portifólio de Serviços Tecnológicos da institiução.",
               "legal": "DECRETO Nº 10.603",
               "basicUnit": "",
               "complementaryUnit": "Centro de Empreendedorismo, Tecnologia e Inovação da Universidade Estadual de Goiás",
@@ -40923,7 +40923,7 @@
               "children": []
             },
             {
-              "name": "Solicitação de voz em sessão plenária do Conselho Universitário",
+              "name": "Solicitar uso da palavra na sessão do Conselho Universitário - UEG",
               "description": "Pessoas não conselheiras do Conselho Universitário (CsU) podem solicitar o direito à voz (direito de fala) nas sessões plenárias do CsU",
               "legal": "DECRETO Nº 10.603 Art. 9º, VII e XIII; Art. 10",
               "basicUnit": "",
@@ -43932,7 +43932,7 @@
           "children": []
         },
         {
-          "name": "Trancamento de matrícula na graduação",
+          "name": "Solicitar trancamento de matrícula - UEG",
           "description": "É a solicitação feita pelo aluno, após sua matrícula, para permanecer vinculado à UEG. O trancamento é feito por semestre, portanto, caso o aluno pretenda ficar mais de um semestre afastado o mesmo deve renovar o seu trancamento a cada semestre, podendo utilizar este serviço até 4 (quatro) semestres",
           "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
           "basicUnit": "",
@@ -43947,7 +43947,7 @@
           "children": []
         },
         {
-          "name": "Transferência interna na graduação",
+          "name": "Solicitar transferência interna de curso ou câmpus - UEG",
           "description": "Solicitação de transferência entre Campus da UEG, no mesmo curso ou em cursos de áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência externa, reingresso e portadores de diploma)",
           "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
           "basicUnit": "",
@@ -43992,8 +43992,8 @@
           "children": []
         },
         {
-          "name": "Revisão de nota na graduação",
-          "description": "É a solicitação de revisão da correção realizada pelo professor em relação a uma atividade avaliativa (trabalho escrito, prova etc.) quando o aluno julga que foi prejudicado",
+          "name": "Solicitar revisão de nota - UEG",
+          "description": "É a solicitação de revisão da correção realizada pelo professor em relação a uma atividade avaliativa(trabalho escrito, prova etc.) quando o aluno julga que foi prejudicado",
           "legal": "DECRETO Nº 10.603 Art. 66, VI e VIII; Art. 9º, X",
           "basicUnit": "",
           "complementaryUnit": "Coordenação Setorial do Curso",
@@ -44217,7 +44217,7 @@
           "children": []
         },
         {
-          "name": "Utilização da tribuna acadêmica do conselho universitário",
+          "name": "Solicitar uso da Tribuna Acadêmica no Conselho Universitário - UEG",
           "description": "Solicitação para utilizar a fala em sessão plenária do Conselho Universitário por aluno(a), professor(a) ou servidores técnico-administrativo sem direito à voz no conselho.Solicitação para utilizar a fala em sessão plenária do Conselho Universitário por aluno(a), professor(a) ou servidores técnico-administrativo sem direito à voz no conselho",
           "legal": "DECRETO Nº 10.603 Art. 9º, VII e XIII; Art. 10",
           "basicUnit": "",
@@ -44232,8 +44232,8 @@
           "children": []
         },
         {
-          "name": "Solicitação de serviços tecnológicos",
-          "description": "Prestação de serviços tecnológicos para empresas e indústrias pelos professores e alunos da UEG disponíveis no Portifólio de Serviços Tecnológicos da institiução",
+          "name": "Solicitar prestação de serviços tecnológicos - UEG",
+          "description": "Prestação de serviços tecnológicos para empresas e indústrias pelos professores e alunos da UEG disponíveis no Portifólio de Serviços Tecnológicos da institiução.",
           "legal": "DECRETO Nº 10.603",
           "basicUnit": "",
           "complementaryUnit": "Centro de Empreendedorismo, Tecnologia e Inovação da Universidade Estadual de Goiás",
@@ -44247,7 +44247,7 @@
           "children": []
         },
         {
-          "name": "Solicitação de voz em sessão plenária do Conselho Universitário",
+          "name": "Solicitar uso da palavra na sessão do Conselho Universitário - UEG",
           "description": "Pessoas não conselheiras do Conselho Universitário (CsU) podem solicitar o direito à voz (direito de fala) nas sessões plenárias do CsU",
           "legal": "DECRETO Nº 10.603 Art. 9º, VII e XIII; Art. 10",
           "basicUnit": "",
@@ -47087,7 +47087,7 @@
                   "children": []
                 },
                 {
-                  "name": "Trancamento de matrícula na graduação",
+                  "name": "Solicitar trancamento de matrícula - UEG",
                   "description": "É a solicitação feita pelo aluno, após sua matrícula, para permanecer vinculado à UEG. O trancamento é feito por semestre, portanto, caso o aluno pretenda ficar mais de um semestre afastado o mesmo deve renovar o seu trancamento a cada semestre, podendo utilizar este serviço até 4 (quatro) semestres",
                   "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
                   "basicUnit": "",
@@ -47102,7 +47102,7 @@
                   "children": []
                 },
                 {
-                  "name": "Transferência interna na graduação",
+                  "name": "Solicitar transferência interna de curso ou câmpus - UEG",
                   "description": "Solicitação de transferência entre Campus da UEG, no mesmo curso ou em cursos de áreas afins, conforme seleção por meio do Edital Minha Vaga (concorrem as mesmas vagas os candidatos à transferência externa, reingresso e portadores de diploma)",
                   "legal": "DECRETO Nº 10.603 Art. 4º, III; Art. 9º, III(c); Art. 66, V e XI; Art. 88, III",
                   "basicUnit": "",
@@ -47147,8 +47147,8 @@
                   "children": []
                 },
                 {
-                  "name": "Revisão de nota na graduação",
-                  "description": "É a solicitação de revisão da correção realizada pelo professor em relação a uma atividade avaliativa (trabalho escrito, prova etc.) quando o aluno julga que foi prejudicado",
+                  "name": "Solicitar revisão de nota - UEG",
+                  "description": "É a solicitação de revisão da correção realizada pelo professor em relação a uma atividade avaliativa(trabalho escrito, prova etc.) quando o aluno julga que foi prejudicado",
                   "legal": "DECRETO Nº 10.603 Art. 66, VI e VIII; Art. 9º, X",
                   "basicUnit": "",
                   "complementaryUnit": "Coordenação Setorial do Curso",
@@ -47372,7 +47372,7 @@
                   "children": []
                 },
                 {
-                  "name": "Utilização da tribuna acadêmica do conselho universitário",
+                  "name": "Solicitar uso da Tribuna Acadêmica no Conselho Universitário - UEG",
                   "description": "Solicitação para utilizar a fala em sessão plenária do Conselho Universitário por aluno(a), professor(a) ou servidores técnico-administrativo sem direito à voz no conselho.Solicitação para utilizar a fala em sessão plenária do Conselho Universitário por aluno(a), professor(a) ou servidores técnico-administrativo sem direito à voz no conselho",
                   "legal": "DECRETO Nº 10.603 Art. 9º, VII e XIII; Art. 10",
                   "basicUnit": "",
@@ -47387,8 +47387,8 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitação de serviços tecnológicos",
-                  "description": "Prestação de serviços tecnológicos para empresas e indústrias pelos professores e alunos da UEG disponíveis no Portifólio de Serviços Tecnológicos da institiução",
+                  "name": "Solicitar prestação de serviços tecnológicos - UEG",
+                  "description": "Prestação de serviços tecnológicos para empresas e indústrias pelos professores e alunos da UEG disponíveis no Portifólio de Serviços Tecnológicos da institiução.",
                   "legal": "DECRETO Nº 10.603",
                   "basicUnit": "",
                   "complementaryUnit": "Centro de Empreendedorismo, Tecnologia e Inovação da Universidade Estadual de Goiás",
@@ -47417,7 +47417,7 @@
                   "children": []
                 },
                 {
-                  "name": "Solicitação de voz em sessão plenária do Conselho Universitário",
+                  "name": "Solicitar uso da palavra na sessão do Conselho Universitário - UEG",
                   "description": "Pessoas não conselheiras do Conselho Universitário (CsU) podem solicitar o direito à voz (direito de fala) nas sessões plenárias do CsU",
                   "legal": "DECRETO Nº 10.603 Art. 9º, VII e XIII; Art. 10",
                   "basicUnit": "",
@@ -97615,6 +97615,21 @@
               "children": []
             },
             {
+              "name": "Emitir Taxa de Cancelamento de Gravame",
+              "description": "Este serviço permite a você agentes financeiros, seguradoras e concessionárias emitir a taxa para o cancelamento do gravame de um veículo, após a autorização do Atendimento/SNG (Sistema Nacional de Gravame) do Detran-GO. Após o pagamento da Documento Único de Arrecadação - DUA, você poderá realizar o cancelamento do gravame pelo Portal do Detran-GO pois já possuem acesso ao portal. Atenção: cidadão, não emita esta taxa por conta própria. A solicitação deve ser feita pelo representante da instituição responsável. Se houver necessidade de pagamento, o próprio representante normalmente encaminhará a DUA (Documento Único de Arrecadação) para você.",
+              "legal": "Portaria Detran 303/2020",
+              "basicUnit": "",
+              "complementaryUnit": "Gerência de Atendimento ao Cidadão",
+              "organizations": [
+                "DETRAN"
+              ],
+              "source": "Carta de Serviço",
+              "situation": "",
+              "link": "",
+              "type": "service",
+              "children": []
+            },
+            {
               "name": "Solicitar informações de bloqueio e/ou restrições em veículo",
               "description": "Informar ao usuário os bloqueios e restrições administrativas cadastrados no sistema sobre o veículo",
               "legal": "",
@@ -102822,6 +102837,21 @@
           "children": []
         },
         {
+          "name": "Emitir Taxa de Cancelamento de Gravame",
+          "description": "Este serviço permite a você agentes financeiros, seguradoras e concessionárias emitir a taxa para o cancelamento do gravame de um veículo, após a autorização do Atendimento/SNG (Sistema Nacional de Gravame) do Detran-GO. Após o pagamento da Documento Único de Arrecadação - DUA, você poderá realizar o cancelamento do gravame pelo Portal do Detran-GO pois já possuem acesso ao portal. Atenção: cidadão, não emita esta taxa por conta própria. A solicitação deve ser feita pelo representante da instituição responsável. Se houver necessidade de pagamento, o próprio representante normalmente encaminhará a DUA (Documento Único de Arrecadação) para você.",
+          "legal": "Portaria Detran 303/2020",
+          "basicUnit": "",
+          "complementaryUnit": "Gerência de Atendimento ao Cidadão",
+          "organizations": [
+            "DETRAN"
+          ],
+          "source": "Carta de Serviço",
+          "situation": "",
+          "link": "",
+          "type": "service",
+          "children": []
+        },
+        {
           "name": "Solicitar informações de bloqueio e/ou restrições em veículo",
           "description": "Informar ao usuário os bloqueios e restrições administrativas cadastrados no sistema sobre o veículo",
           "legal": "",
@@ -107577,6 +107607,21 @@
                   "children": []
                 },
                 {
+                  "name": "Emitir Taxa de Cancelamento de Gravame",
+                  "description": "Este serviço permite a você agentes financeiros, seguradoras e concessionárias emitir a taxa para o cancelamento do gravame de um veículo, após a autorização do Atendimento/SNG (Sistema Nacional de Gravame) do Detran-GO. Após o pagamento da Documento Único de Arrecadação - DUA, você poderá realizar o cancelamento do gravame pelo Portal do Detran-GO pois já possuem acesso ao portal. Atenção: cidadão, não emita esta taxa por conta própria. A solicitação deve ser feita pelo representante da instituição responsável. Se houver necessidade de pagamento, o próprio representante normalmente encaminhará a DUA (Documento Único de Arrecadação) para você.",
+                  "legal": "Portaria Detran 303/2020",
+                  "basicUnit": "",
+                  "complementaryUnit": "Gerência de Atendimento ao Cidadão",
+                  "organizations": [
+                    "DETRAN"
+                  ],
+                  "source": "Carta de Serviço",
+                  "situation": "",
+                  "link": "",
+                  "type": "service",
+                  "children": []
+                },
+                {
                   "name": "Solicitar informações de bloqueio e/ou restrições em veículo",
                   "description": "Informar ao usuário os bloqueios e restrições administrativas cadastrados no sistema sobre o veículo",
                   "legal": "",
@@ -108460,7 +108505,7 @@
         "processes": 25,
         "workProcesses": 212,
         "organizations": 4,
-        "services": 107,
+        "services": 108,
         "activities": 0
       }
     },
